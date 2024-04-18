@@ -1,0 +1,7 @@
+Então crie um agendamento de execução de comandos linux para executar esse script processamento_de_vendas.sh todos os dias de segunda a quinta às 15:27. Não se esqueça de conceder permissão para execução do script.
+
+Depois de tudo isso pronto, vamos mudar os dados para criar um novo relatório.
+• 1x por dia modifique manual e completamente os dados do arquivo de vendas dados_de_vendas.csv que estão no diretório ecommerce.
+• Certifique-se que o arquivo processamento_de_vendas.sh esteja corretamente agendado.
+• Crie um script chamado consolidador_de_processamento_de_vendas.sh que une todos os relatórios gerados e gere outro arquivo chamado relatorio_fina.txt
+• Após, pelo menos, 3 execuções do script processamento_de_vendas.sh execute manualmente o script consolidador_de_processamento_de_vendas.sh

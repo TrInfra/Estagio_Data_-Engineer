@@ -1,0 +1,15 @@
+Criar um arquivo executável chamado processamento_de_vendas.sh que realiza as seguintes tarefas usando os comandos do Linux:
+
+• Cria um diretório chamado vendas e copia o arquivo dados_de_vendas.csv para dentro dele.
+• Dentro do diretório vendas, cria um subdiretório chamado backup e faça uma cópia do arquivo dados_de_vendas.csv para dentro dele com a data de execução como parte do nome do arquivo no padrão yyyymmdd precedido de hifen. Por exemplo: dados-20230831.csv
+
+• Dentro do diretório backup, renomeie o arquivo dados-<yyyymmdd>.csv para backup-dados-	<yyyymmdd>.csv Seguindo os mesmos padrões acima. Por exemplo: backup-dados-20238831.csv
+
+• Dentro do diretório backup, crie um arquivo chamado relatorio.txt que contenha as seguintes informações:
+• Data do sistema operacional em formato YYYY/MM/DD HH:MI.
+• Data do primeiro registro de venda contido no arquivo.
+• Data do ultimo registro de venda contido no arquivo.
+• A quantidade total de itens diferentes vendidos.
+• Dentro do diretório backup, mostre as primeiras 10 linhas do arquivo backup-dados-<yyyymmdd>.csve as inclua no arquivo relatorio.txt
+• Para redução de espaço em disco, comprima o arquivo backup-dados-<yyyymmdd>.csv para arquivo backup- dados-<yyyymmdd>.zip
+• Apague o arquivo o arquivo backup-dados-<yyyymmdd>.csv do diretório backup e o arquivo dados_de_vendas.csv do diretório vendas.

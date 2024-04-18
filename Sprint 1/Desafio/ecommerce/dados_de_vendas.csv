@@ -1,0 +1,67 @@
+id,produto,quantidade,preço,data
+1,Camiseta de Algodão,5,15.00,25/01/2025
+2,Calça Jeans,10,40.00,26/01/2025
+3,Sapato Social,15,60.00,27/01/2025
+4,Meia Algodão,25,3.00,28/01/2025
+5,Cinto de Couro,20,10.00,29/01/2025
+6,Camisa Polo,17,25.00,30/01/2025
+7,Bermuda Cargo,15,30.00,31/01/2025
+8,Tênis Esportivo,20,80.00,01/02/2025
+9,Boné Trucker,18,5.00,02/02/2025
+10,Casaco de Inverno,8,90.00,03/02/2025
+11,Mochila Escolar,12,45.00,04/02/2025
+12,Livro de Romance,10,10.00,05/02/2025
+13,Caderno Universitário,15,5.00,06/02/2025
+14,Lápis HB,40,0.50,07/02/2025
+15,Borracha Macia,35,0.25,08/02/2025
+16,Cola Bastão,15,1.50,09/02/2025
+17,Régua Plástica,20,2.00,10/02/2025
+18,Pincel Marcador,12,2.50,11/02/2025
+19,Papel Sulfite A4 500 folhas,10,10.00,12/02/2025
+20,Pasta Organizadora,8,20.00,13/02/2025
+21,Fone de Ouvido Bluetooth,10,60.00,14/02/2025
+22,Mouse Sem Fio Ergonômico,14,30.00,15/02/2025
+23,Filtro de Linha 6 Tomadas,12,15.00,16/02/2025
+24,Cabo HDMI de Alta Velocidade,15,7.50,17/02/2025
+25,Pilha AA Duracell,30,1.00,18/02/2025
+26,Luminária de Mesa LED,8,20.00,19/02/2025
+27,Relógio de Parede Decorativo,16,10.00,20/02/2025
+28,Porta-Retrato Digital WiFi,4,40.00,21/02/2025
+29,Vaporizador de Roupas Portátil,2,75.00,22/02/2025
+30,Balança Digital de Precisão,5,50.00,23/02/2025
+31,Furadeira Elétrica de Impacto,4,150.00,24/02/2025
+32,Jogo de Panelas Antiaderente,8,110.00,25/02/2025
+33,Faca Elétrica de Cozinha,8,60.00,26/02/2025
+34,Sanduicheira Elétrica Antiaderente,10,35.00,27/02/2025
+35,Mixer de Alimentos Multifuncional,12,40.00,28/02/2025
+36,Batedeira Planetária 500W,5,250.00,01/03/2025
+52,Guitarra Elétrica Fender Stratocaster,7,2599.00,02/03/2025
+53,Amplificador de Guitarra Vox,8,699.00,03/03/2025
+54,Pedaleira de Efeitos para Guitarra,10,449.00,04/03/2025
+55,Cabo para Instrumento Premium,15,59.00,05/03/2025
+56,Palheta Dunlop Standard,20,1.00,06/03/2025
+57,Afinador Digital Cromático,6,49.00,07/03/2025
+58,Capotraste Profissional,8,99.00,08/03/2025
+59,Suporte de Parede para Guitarra,7,29.00,09/03/2025
+60,Correia Acolchoada para Guitarra,9,19.00,10/03/2025
+61,Encordoamento para Guitarra Ernie Ball,12,39.00,11/03/2025
+62,Violão Acústico Yamaha,4,299.00,12/03/2025
+63,Capa Protetora para Violão,5,99.00,13/03/2025
+64,Banqueta Ajustável para Violão,6,69.00,14/03/2025
+65,Limpador de Cordas GHS,8,29.00,15/03/2025
+66,Flauta Transversal Yamaha,2,1999.00,16/03/2025
+67,Suporte para Flauta Dobrável,4,79.00,17/03/2025
+68,Estojo Rígido para Flauta,10,99.00,18/03/2025
+70,Saxofone Tenor Jupiter,4,4359.00,19/03/2025
+71,Suporte para Saxofone Alto,5,32.69,20/03/2025
+76,Teclado Musical Casio CTK-2550,2,784.98,21/03/2025
+77,Sintetizador de Voz Korg Minilogue,3,324.12,22/03/2025
+78,Controlador MIDI Akai MPK Mini,4,124.00,23/03/2025
+79,Caixa de Som Bluetooth JBL GO 2,2,39.99,24/03/2025
+80,Microfone Sem Fio Shure SM58,3,2000.00,25/03/2025
+81,Pedestal para Microfone Girafa,6,150.00,26/03/2025
+82,Cabo XLR Premium para Microfone,10,12.50,27/03/2025
+83,Caixa Acústica JBL Flip 5,8,789.00,28/03/2025
+85,Mixer de Áudio Digital Behringer XR18,2,888.00,29/03/2025
+86,Fone de Ouvido Profissional AKG K240,3,300.00,30/03/2025
+88,Monitor de Estúdio Yamaha HS5,2,990.00,31/01/2025

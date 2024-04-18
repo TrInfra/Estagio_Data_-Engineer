@@ -1,0 +1,4 @@
+Faça download do arquivo dados_de_vendas.csv
+
+• No linux, crie um diretório chamado ecommerce e nele insira o arquivo chamado dados_de_vendas.csv
+

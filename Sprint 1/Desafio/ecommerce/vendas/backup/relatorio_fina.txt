@@ -1,0 +1,61 @@
+
+
+
+
+Data do relatório: 2024 04-16 15:27
+Data do primeiro produto vendido: 01/01/2023
+Data do ultimo produto vendido: 27/03/2023
+Quantidade de itens diferentes: 66
+Os 10 primeiros itens vendidos:
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+
+
+
+Data do relatório: 2024 04-17 15:27
+Data do primeiro produto vendido: 01/01/2024
+Data do ultimo produto vendido: 27/03/2024
+Quantidade de itens diferentes: 66
+Os 10 primeiros itens vendidos:
+id,produto,quantidade,preço,data
+1,Camiseta de Algodão,5,15.00,01/01/2024
+2,Calça Jeans,10,40.00,02/01/2024
+3,Sapato Social,15,60.00,03/01/2024
+4,Meia Algodão,25,3.00,04/01/2024
+5,Cinto de Couro,20,10.00,05/01/2024
+6,Camisa Polo,17,25.00,06/01/2024
+7,Bermuda Cargo,15,30.00,07/01/2024
+8,Tênis Esportivo,20,80.00,08/01/2024
+9,Boné Trucker,18,5.00,09/01/2024
+
+
+
+Data do relatório: 2024 04-18 15:27
+Data do primeiro produto vendido: 25/01/2025
+Data do ultimo produto vendido: 30/03/2025
+Quantidade de itens diferentes: 66
+Os 10 primeiros itens vendidos:
+id,produto,quantidade,preço,data
+1,Camiseta de Algodão,5,15.00,25/01/2025
+2,Calça Jeans,10,40.00,26/01/2025
+3,Sapato Social,15,60.00,27/01/2025
+4,Meia Algodão,25,3.00,28/01/2025
+5,Cinto de Couro,20,10.00,29/01/2025
+6,Camisa Polo,17,25.00,30/01/2025
+7,Bermuda Cargo,15,30.00,31/01/2025
+8,Tênis Esportivo,20,80.00,01/02/2025
+9,Boné Trucker,18,5.00,02/02/2025
+
+
+
+
+
+
