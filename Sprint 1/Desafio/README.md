@@ -7,7 +7,8 @@ Para realizar com êxito os passos abaixo, baixe antes no seu terminal linux as 
     sudo apt install nano
 ```
 
-## _Etapa 1_
+## [Etapa_1](https://github.com/TrInfra/Compass/tree/main/Sprint%201/Desafio/etapa%201)
+### 
 ### No linux crie um diretório chamado de ecommerce, siga os seguintes passos:
 #### abra o terminal e digite:  
 ```bash
@@ -15,7 +16,7 @@ Para realizar com êxito os passos abaixo, baixe antes no seu terminal linux as 
     cd /home/nycolasdev/ecommerce/
 ```
 #### **Não esqueça de substituir "nycolasdev" pelo seu nome de usuário.**
-## _Etapa 2_
+## [Etapa_2](https://github.com/TrInfra/Compass/tree/main/Sprint%201/Desafio/etapa%202)
 ### Criar um arquivo chamado processamento_de_vendas.sh
 #### No terminal:
 ```bash
@@ -99,7 +100,8 @@ Para realizar com êxito os passos abaixo, baixe antes no seu terminal linux as 
 ```bash
     chmod +x /home/nycolasdev/ecommerce/processamento_de_vendas.sh 
 ```
-## _Etapa 3_
+## [Etapa_3](https://github.com/TrInfra/Compass/tree/main/Sprint%201/Desafio/etapa%203)
+
 ### _Programar o arquivo para funcionar na data e hora específicada_
 #### Terminal
 ```bash

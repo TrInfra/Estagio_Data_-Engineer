@@ -2,7 +2,7 @@
 ## --[ Ir para Desafio](https://github.com/TrInfra/Compass/tree/main/Sprint%201/Desafio) --
 
 # Evidências
-
+## --[ Ir para Evidências](https://github.com/TrInfra/Compass/tree/main/Sprint%201/evidencias) --
 
 ### Iniciando a execução do Script processamento_de_vendas.sh conforme podemos ver na imagem a seguir:
 
@@ -36,5 +36,8 @@
     #Concatena os dados contidos em relatorio.txt e envia para relatorio_fina.txt
     #Limpa o relatorio.txt
 ```
-- Certificado do Curso ABC
-![Curso ABC](https://github.com/TrInfra/Compass/assets/90692553/557c69ee-04da-4432-98a1-8868abbb6012)
+- Certificado do Curso de Linux
+![Curso Linux](https://github.com/TrInfra/Compass/assets/90692553/557c69ee-04da-4432-98a1-8868abbb6012)
+
+- Certificado do Curso de Git
+![Curso Git](https://github.com/TrInfra/Compass/blob/main/Sprint%201/certificados/certificadoGIT.png)
