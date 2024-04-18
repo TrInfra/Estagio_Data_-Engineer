@@ -27,6 +27,7 @@ Para realizar com êxito os passos abaixo, baixe antes no seu terminal linux as 
 ```bash
     #!/bin/bash  --> especificar qual interpretador de comandos deve ser usado para executar o script. 
     cd /home/nycolasdev/ecommerce/ 
+    mkdir -p vendas
     mkdir -p vendas/backup 
     #Criação do diretório de vendas e backup
 
