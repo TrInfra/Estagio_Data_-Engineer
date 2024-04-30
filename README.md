@@ -11,7 +11,7 @@
 
 
 
-### Aprendizados
+
 
 ## Sprint 1
 ### [Sprint_UM](https://github.com/TrInfra/Compass/tree/main/Sprint%201)
