@@ -14,7 +14,15 @@
 
 
 ## Sprint 1
-### [Sprint_UM](https://github.com/TrInfra/Compass/tree/main/Sprint%201)
+### [Sprint_UM](./Sprint%201/)
 - **Tema:** [Git & Linux]
   - [Criar um repositório e armazenar os arquivos nas pastas corretas]
   - [Criar um .sh automatizado que crie relatórios retirados de dentro de um arquivo .csv]
+
+
+
+## Sprint 2
+### [Sprint_DOIS](./Sprint%202/)
+- **Tema:** [SQL & AWS Partner]
+  - [Normalizar uma base de dados até a 3NF]
+  - [Aprender conceitos sobre como ser um parceiro AWS]
