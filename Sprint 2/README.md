@@ -1,5 +1,5 @@
 # Desafio
-## --[ Ir para Desafio](./Desafio/README.md) --
+## --[ Ir para Desafio](./Desafio/) --
 
 # Aprendizados
 ### Nessa sprint aprendi a normalizar uma base de dados até a terceira forma normal (3NF), no começo parecia não estar entendo muito bem mas no final deu tudo certo, aprendi também alguns conceitos interessantes sobre AWS.
