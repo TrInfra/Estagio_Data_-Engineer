@@ -26,3 +26,8 @@
 - **Tema:** [SQL & AWS Partner]
   - [Normalizar uma base de dados até a 3NF]
   - [Aprender conceitos sobre como ser um parceiro AWS]
+
+## Sprint 3
+### [Sprint_TRÊS](./Sprint%203/)
+- **Tema:** [Python & AWS]
+  - [O objetivo é ler o arquivo de estatísticas da Loja do Google (googleplaystore.csv) processar e gerar gráficos de análise]
