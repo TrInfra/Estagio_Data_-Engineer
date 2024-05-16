@@ -2,7 +2,7 @@
 ## --[ Ir para Desafio](./Desafio/) --
 
 # Aprendizados
-### Nessa sprint aprendi a sobre a linguagem python e toda a sua estrutura, já tinha noção de OO(Orientação Objetos), mas quando vi em python percebi que toma um rumo um pouco diferente mas não tão distante, aprendi um pouco mais sobre aspectos econômicos da nuvem da AWS.
+### Nessa sprint aprendi sobre a linguagem python e toda a sua estrutura, já tinha noção de OO(Orientação Objetos), mas quando vi em python percebi que toma um rumo um pouco diferente mas não tão distante, aprendi um pouco mais sobre aspectos econômicos da nuvem da AWS.
 
 # Evidências
 ## --[ Ir para Evidências](./evidencias/) --
