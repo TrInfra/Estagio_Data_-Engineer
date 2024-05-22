@@ -3,7 +3,14 @@ repos:
     hooks:
       - id: requirements
         name: requirements
-        entry: bash -c 'venv/Scripts/pip3 freeze > requirements.txt; git add requirements.txt'
+        entry: cmd /c "cd /d C:\\Users\\srdes\\OneDrive\\Área de Trabalho\\Compass\\Sprint 4\\Desafio\\Desafio && venv\\Scripts\\python -m pip freeze > requirements.txt && git add requirements.txt"
         language: system
         pass_filenames: false
         stages: [commit]
+        files: .   # Configuração para especificar o diretório do pre-commit
+
+
+
+#comando para executar manualmente o  pre-commit
+# venv\Scripts\python -m pip freeze > requirements.txt && git add requirements.txt
+
