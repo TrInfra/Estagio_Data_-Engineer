@@ -91,3 +91,29 @@ Isso significa que o resultado da função depende não apenas do argumento idad
 Impressão dos Resultados:
 
 Ao chamar calcula_idade_dos_irmaos com diferentes valores de idade_irmao, a função soma esses valores ao estado compartilhado idade e retorna o resultado.
+
+
+### Comando Para Criar uma imagem no docker
+    docker build -t meu-projeto .
+### Comando Para executar um container a partir da imagem criada.
+    docker run meu-projeto
+
+## 1. Usar o Modo Interativo do Docker
+Você pode iniciar um contêiner em modo interativo com um shell, permitindo que você execute comandos dentro do contêiner sem precisar criar um novo toda vez.
+    
+    docker exec -it <id> bash -> caso já exista
+    docker run -it --name meu-projeto-container meu-projeto bash
+Depois de entrar no contêiner, você pode executar o script carguru.py quantas vezes quiser:
+
+    python carguru.py
+Quando quiser sair do contêiner, você pode digitar exit, e o contêiner será parado, mas ainda estará disponível para ser reiniciado.
+
+## 2. Reiniciar um Contêiner Parado
+Se você já criou um contêiner e parou ele, pode reiniciá-lo e executá-lo novamente. Primeiro, você deve iniciar o contêiner, depois pode executar o script dentro dele.
+
+Primeiro, crie e inicie o contêiner nomeando-o para reutilização:
+
+    docker run -d --name meu-projeto-container meu-projeto
+Para executar o script, você pode usar o comando docker exec:
+    
+    docker exec meu-projeto-container python carguru.py
