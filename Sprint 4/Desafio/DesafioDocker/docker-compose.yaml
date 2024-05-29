@@ -1,0 +1,17 @@
+services:
+  carguru:
+    container_name: carguru-container
+    image: carguru-image
+    build: 
+      context: ./Etapas/etapa-1/
+      dockerfile: Dockerfile
+    stdin_open: true  
+    tty: true
+  hashgen:
+    container_name: mascararDd-container
+    image: mascarar-dados
+    build: 
+      context: ./Etapas/etapa-3/
+      dockerfile: Dockerfile
+    stdin_open: true 
+    tty: true
