@@ -94,9 +94,9 @@ Ao chamar calcula_idade_dos_irmaos com diferentes valores de idade_irmao, a fun�
 
 
 ### Comando Para Criar uma imagem no docker
-    docker build -t meu-projeto .
+    docker build -t nome-image .
 ### Comando Para executar um container a partir da imagem criada.
-    docker run meu-projeto
+    docker run nome-image
 
 ## 1. Usar o Modo Interativo do Docker
 Você pode iniciar um contêiner em modo interativo com um shell, permitindo que você execute comandos dentro do contêiner sem precisar criar um novo toda vez.

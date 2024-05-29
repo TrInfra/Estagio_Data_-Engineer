@@ -1,83 +1,79 @@
-# __#Etapas__
+# __#Organização desse desafio__
+- **DesafioDocker/**: Diretório raiz do projeto.
+  - **Etapas/**: Diretório contendo as diferentes etapas do projeto.
+    - **etapa-1/**: Diretório específico para a primeira etapa.
+      - **carguru.py**: Script Python que será executado.
+      - **Dockerfile**: Arquivo de instruções para construir a imagem Docker.
+      - **requirements.txt**: Lista de dependências Python necessárias para o `carguru.py`.
+      - **Etapa1.md**: arquivo para leitura dessa etapa.
+    - **etapa-2/**: Diretório específico para a segunda etapa.
+      - **resposta.md**: arquivo para leitura e resposta dessa etapa.
+    - **etapa-3/**: Diretório específico para a terceira etapa.
+      - **geradorhash.py**: Script Python que será executado.
+      - **Dockerfile**: Arquivo de instruções para construir a imagem Docker.
+      - **requirements.txt**: Lista de dependências Python necessárias para o `geradorhash.py`.
+      - **Etapa3.md**: arquivo para leitura dessa etapa.
+  - **docker-compose.yml**: Arquivo para orquestração de múltiplos containers Docker (se necessário).
+  - **venv/**: Diretório contendo o ambiente virtual Python.
+    - **Lib/**: Bibliotecas Python instaladas no ambiente virtual.
+    - **Scripts/**: Scripts executáveis no ambiente virtual.
+    - **pyvenv.cfg**: Configuração do ambiente virtual Python.
+  - **README.md**: Arquivo de documentação do projeto.
+
+
+
 ## Informações do desafio:
-O objetivo é ler o arquivo de estatísticas da Loja do Google (googleplaystore.csv) processar e gerar gráficos de análise. Para isso será necessário seguir as seguintes etapas.  
-
-## Etapa 1
-### Na primeira etapa precisamos instalar as bibliotecas Pandas e Matplotlib, para isso basta abrir o seu terminal e digitar o seguinte.
-#### Terminal
-```python
-    pip install pandas  
-    pip install matplotlib
-```
-### Para confirmar a instalação vamos digitar ainda no terminal
-#### Terminal
-```python
-    pip list #ou pip freeze
-    # Isso retornará todas as bibliotecas instaladas e suas respectivas versões
-```   
+O objetivo é a prática de Python com Containers Docker combinando conhecimentos adquiridos no PB. O desafio foi separado em apenas 3 etapas, as quais estão localizadas logo abaixo:
 
 
-## Etapa 2
-### 1 - Vamos ler o arquivo googleplaystore.csv e fazer a limpeza dos dados
+### Etapa 1
+- [Etapa1](../Desafio/DesafioDocker/Etapas/etapa-1/)  
+### Etapa 2
+- [Etapa2](../Desafio/DesafioDocker/Etapas/etapa-2/)
+### Etapa 3
+- [Etapa3](../Desafio/DesafioDocker/Etapas/etapa-3/)
 
-![Etapa 1](../evidencias/Lerarqcsv.png)
+## DockerCompose
+Decidi ir um pouco além do desafio e criei um arquivo `docker-compose.yaml` para orquestrar os containers e imagens que foram pedidos para serem criados no desafio, lembrando que é apenas uma alternativa mais fácil para executa-los, mantive o padrão de entrega nas etapas anteriores.
 
-### 2 - Agora vamos fazer um gráfico de barras contendo os top 5 apps por número de instalação.
+### [Acesse o arquivo aqui](../Desafio/DesafioDocker/docker-compose.yaml)
 
-![Etapa 2](../evidencias/Etapa2.png)
+## Passos para executar o docker-compose
 
-### Resultado:
+1. **Abra um novo terminal e navegue até o diretório onde está localizado o arquivo `docker-compose.yaml`, no meu caso está em `DesafioDocker/`**:  
 
-![Grafico 1](../evidencias/Grafico%20de%20barras.png)
+   ```bash
+   cd C:\Users\srdes\OneDrive\Área de Trabalho\Compass\Sprint4\Desafio\DesafioDocker
+2. **Criar os containers com o arquivo**:   
+    ```bash
+    docker-compose up 
+![image](../evidencias/ExecutandoDockerCompose.png)  
+Podemos observar que apenas o output do script da `etapa 1` apareceu, apesar dos dois containers serem executados, vamos entender isso:
 
-### 3 -  A próxima etapa é criar um gráfico de pizza (pie chart) mostrando as categorias de apps existentes no dataset de acordo com a frequência que elas aparecem.
-![Etapa 3](../evidencias/Etapa3.png)
+ **Digitando**:
+    
+    docker-compose ps -a 
 
-### Resultado:
+![dockercompose](../evidencias/DockercomposePS.png)  
+Deu para perceber que ambos foram executados, o `carguru-container` foi o container da etapa 1 e foi executado com sucesso, como o `mascararDd-container` tem dentro dele o script `geradorhash.py` que tem um input nele, precimos entrar dentro desse container para que ele possa concluir sua execução completa, faremos isso dessa forma abaixo:
 
-![Grafico 2](../evidencias/Grafico%20de%20pizza.png)
+![dockercompose](../evidencias/ExecutandoContainerEtapa3UsandoComposer.png)  
 
-### 4 - Agora precisamos mostrar qual o app mais caro existente no dataset.
+Usei esse comando para localizar o container que desejo entrar.
+1. **Pegar Id do container**:  
+   ```bash
+   docker ps -a
+2. **Executando o container**:   
+    ```bash
+    docker exec -it <id> bash
+![dockercompose](../evidencias/dockercomposeHashGen.png)  
 
-![Etapa 4](../evidencias/App%20mais%20caro.png)
+Dessa forma pude entrar dentro do container e executar o script que estava lá dentro.
 
-### 5 - Vamos mostrar quantos apps são classificados como 'Mature 17+'.
-
-![Etapa 5](../evidencias/Apps%20Mature17.png)
-#### Para uma melhor vizualição do resultado:
-```python
-    Resultado: total de Apps: 357 Apps com a Classificação Mature 17+
-```
-
-### 6 - Agora vamos mostrar o top 10 apps por número de reviews bem como o respectivo número de reviews. Vamos ordernar a lista de forma decrescente por número de reviews.
-
-![Etapa 6](../evidencias/Etapa6.png)
-
-### 7 - Precisamos criar pelo menos mais 2 cálculos sobre o dataset e apresentar um em formato de lista e outro em formato de valor. Por exemplo: "top 10 apps por número de reviews" e "o app mais caro existente no dataset."
-#### 7.1 - Primeiro cálculo: Script para cálcular os 5 apps mais bem avaliados que começam com a letra A
-```python
-df_ordernar_Apps = df[df['App'].str.startswith('a', na=False)].sort_values('Rating', ascending=False)
-top_5_apps_rating = df_ordernar_Apps[['App', 'Rating']].head(5)
-display(top_5_apps_rating)
-```
-### Resultado:
-![Etapa 7](../evidencias/Seven_ponto_Um.png)
-
-#### 7.2 - Segundo cálculo: Script para cálcular os 10 apps mais mal avaliados da categoria GAME
-```python
-df_ordernar_Categorias = df[df['Category'].str.startswith('GAME', na=False)].sort_values('Rating',  ascending=True)
-top_10_apps_rating = df_ordernar_Categorias[['App', 'Rating']].head(10)
-display(top_10_apps_rating) 
-```
-### Resultado:
-
-![Etapa 8](../evidencias/Seven_ponto_dois.png)
-
-
-### 8 - Para finalizar vamor criar pelo menos outras 2 formas gráficas de exibição dos indicadores acima utilizando a biblioteca matplotlib. Os gráficos tem que ser diferentes do que já fizemos.
-
-### Gráfico de histograma para analisar a distribuição de avaliações dos aplicativos 
-![histograma](../evidencias/histograma.png)
-
-### Gráfico de Linha para mostrar qual categoria tem mais avaliações
-![Linha](../evidencias/Grafico%20em%20Linha.png)
+## Podemos parar e remover os containers agora.
+![dockercompose](../evidencias/RemovendoContainerComposer.png)    
+ 
+Com o comando:
+    
+    docker-compose down
+Conseguimos remover todos os containers e imagens que foram gerados pelo nosso arquivo `docker-compose.yaml`.
