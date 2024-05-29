@@ -46,20 +46,27 @@ Decidi ir um pouco além do desafio e criei um arquivo `docker-compose.yaml` par
    cd C:\Users\srdes\OneDrive\Área de Trabalho\Compass\Sprint4\Desafio\DesafioDocker
 2. **Criar os containers com o arquivo**:   
     ```bash
-    docker-compose up 
+    docker-compose up -d
 ![image](../evidencias/ExecutandoDockerCompose.png)  
-Podemos observar que apenas o output do script da `etapa 1` apareceu, apesar dos dois containers serem executados, vamos entender isso:
+Podemos observar que tudo foi criado corretamente.
 
  **Digitando**:
     
     docker-compose ps -a 
 
 ![dockercompose](../evidencias/DockercomposePS.png)  
-Deu para perceber que ambos foram executados, o `carguru-container` foi o container da etapa 1 e foi executado com sucesso, como o `mascararDd-container` tem dentro dele o script `geradorhash.py` que tem um input nele, precimos entrar dentro desse container para que ele possa concluir sua execução completa, faremos isso dessa forma abaixo:
+Deu para perceber que ambos foram criados e executados, o `carguru-container` foi o container da etapa 1 e foi executado com sucesso, para vizualizar o resultado podemos dar um:
+
+    docker logs <id>
+
+
+![dockercompose](../evidencias/Dockerlogs.png)
+
+ como o `mascararDd-container` tem dentro dele o script `geradorhash.py` que tem um input nele, precimos entrar dentro desse container para que ele possa concluir sua execução completa, faremos isso dessa forma abaixo:
 
 ![dockercompose](../evidencias/ExecutandoContainerEtapa3UsandoComposer.png)  
 
-Usei esse comando para localizar o container que desejo entrar.
+Usei esses comando para localizar o container que desejo entrar.
 1. **Pegar Id do container**:  
    ```bash
    docker ps -a
