@@ -1,33 +1,25 @@
 # Desafio
 ## --[ Ir para Desafio](./Desafio/) --
 
-# Aprendizados
-### Nessa sprint aprendi sobre docker e o processo de conteinerização com docker, aprendi algumas noções de programação funcional, espero que eu tenha mais tempo para me aprofundar ainda mais nesses conhecimentos aprendidos, tanto nessa quanto nas outras sprints.
-
 # Evidências
 ## --[ Ir para Evidências](./evidencias/) --
 
-### Configurando o ambiente
-#### Etapa 1
-![ETAPA_UM](./evidencias/DockerfileEtapa1.png) 
+### Bucket S3
+![cmd](./evidencias/S3BucketAWS.png)
+![cmd](./evidencias/ArquivosNoBucket.png)
+### S3 SELECT
+![cmd](./evidencias/S3SelectQUERY.png) 
+![cmd](./evidencias/S3ResultQUERY.png) 
 
-#### Etapa 2
-![ETAPA_TRES](./evidencias/DockerfileEtapa3.png) 
+### Boto3 Python
+![cmd](./evidencias/Boto3result.png)
+![cmd](./evidencias/resultboto3json.png)
 
-### Comandos terminal
-
-![cmd](./evidencias/CriandoImagemEtapa1.png) 
-![cmd](./evidencias/CriandoImagemEtapa3.png) 
-![cmd](./evidencias/ExecutandoContainerEtapa1.png) 
-![cmd](./evidencias/ExecutandoContainerEtapa3.png) 
-![cmd](./evidencias/ExecutandoDockerCompose.png) 
-# Exercícios
-## --[ Ir para Exercícios](./exercicios/) --
 
 # Certificados
 
-- Certificado AWS credenciamento
-![Curso AWS](./certificados/AWS%20Credenciamento%20tecnico.png)
+- Certificado AWS 
+![Curso AWS](./certificados/AWSpractiioner.png)
 
-- Certificado AWS Technical
-![Curso AWS](./certificados/AWS%20Technical.png)
+- Certificado CloudQuest
+![Curso AWS](./certificados/cloudquestCertificate.png)

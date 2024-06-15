@@ -36,3 +36,8 @@
 ### [Sprint_QUATRO](./Sprint%204/)
 - **Tema:** [Python & Docker & AWS]
   - [O objetivo é a prática de Python com Containers Docker combinando conhecimentos adquiridos no PB.]
+
+## Sprint 5
+### [Sprint_CINCO](./Sprint%205/)
+- **Tema:** [AWS]
+  - [O objetivo é a prática dos conhecimentos adquiridos sobre AWS]
