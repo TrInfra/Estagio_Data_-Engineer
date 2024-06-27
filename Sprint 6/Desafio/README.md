@@ -1,13 +1,8 @@
 ## Informações do desafio:
-O objetivo é a prática dos conhecimentos adquiridos sobre AWS: ``Baixar um  CSV e colocar dentro de um bucket e atráves do boto3 e do S3 SELECT executar uma query SQL no arquivo CSV.  ``
+O objetivo é a práticar a combinação de conhecimentos vistos no Programa, fazer um mix de tudo que já foi dito: ``Enviar dois CSV para um bucket S3.``
+
+## Pergunta para o desafio final:
+### "Como a popularidade dos gêneros ação e aventura evoluiu ao longo das décadas, e quais são os diretores mais influentes nesses gêneros ao longo do tempo?"
 
 
-### Etapa 1
-- [Etapa1](../Desafio/Etapas/LimpezaDataset/)  
-### Etapa 2
-- [Etapa2](../Desafio/Etapas/QuerySQL/)
-### Etapa 3
-- [Etapa3](../Desafio/Etapas/ExecutandoBoto3/)
 
-## Aprendizados
-- [Etapa3](../Desafio/Aprendizados/)
