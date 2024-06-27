@@ -1,0 +1,18 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enviando-arq-imagem:latest  
+    container_name: enviando-arq-container 
+    volumes:
+      - .:/app
+      - Volume-Desafio:/app/
+    environment:
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_SESSION_TOKEN=${AWS_SESSION_TOKEN}
+    command: ["python", "enviarArquivos.py"]
+
+volumes:
+  Volume-Desafio:
