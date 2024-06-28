@@ -42,7 +42,7 @@ Só precisamos nos preocupar com a criação da imagem e container docker e tamb
 
 Para facilitar e fazer tudo isso de uma só vez vou criar um arquivo ``docker-compose.yaml``, então vamos configurar ele assim:  
 
-![cmd](../evidencias/docker-compose-build.png)
+![cmd](../evidencias/DockerComposeArquivo.png)
 
 
 Depois de concluir isso podemos executar esse arquivo.  
