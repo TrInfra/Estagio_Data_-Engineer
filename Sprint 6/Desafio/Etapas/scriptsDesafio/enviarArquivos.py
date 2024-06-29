@@ -58,6 +58,7 @@ client = boto3.client(
     aws_secret_access_key=aws_secret_access_key,
     aws_session_token=aws_session_token
 )
+
 bucket_name = "data-lake-do-nycolas"
 
 # Verificar se o bucket existe e criar se não existir
