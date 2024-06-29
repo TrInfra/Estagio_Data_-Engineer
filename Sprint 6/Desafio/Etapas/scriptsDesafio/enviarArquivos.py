@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 from tqdm import tqdm
 from dotenv import load_dotenv
-
+import pandas as pd
 # Carregar variáveis de ambiente do arquivo .env
 load_dotenv()
 
@@ -58,7 +58,6 @@ client = boto3.client(
     aws_secret_access_key=aws_secret_access_key,
     aws_session_token=aws_session_token
 )
-
 bucket_name = "data-lake-do-nycolas"
 
 # Verificar se o bucket existe e criar se não existir
@@ -67,6 +66,10 @@ create_bucket_if_not_exists(bucket_name, client)
 # Verifica se os arquivos existem
 if os.path.exists(movies_csv) and os.path.exists(series_csv):
     try:
+        movies_df = pd.read_csv(movies_csv, delimiter='|')
+        series_df = pd.read_csv(series_csv, delimiter='|')
+
+
         s3_path_movies = create_s3_path("Movies", "movies.csv")
         progress_movies = ProgressPercentage(movies_csv) # Barra de progresso para vizualizar
         client.upload_file(movies_csv, bucket_name, s3_path_movies.replace("\\", "/"), Callback=progress_movies)
