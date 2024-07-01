@@ -18,6 +18,7 @@ pip install python-dotenv
 pip install tqdm
 pip install os
 pip install datetime
+pip install pandas
 ```
 
 Irei considerar que já entende Docker e vai usar o mesmo ``Dockerfile`` que criei e vai utilizar o código python que fiz. Existem algumas questões importantes para obter o resultado do código com êxito:
