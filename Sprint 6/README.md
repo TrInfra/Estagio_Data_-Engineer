@@ -31,10 +31,13 @@
 
 ## --[ Ir para Script Python](./Desafio/Etapas/scriptsDesafio/enviarArquivos.py) --
 
-# Certificados
+# Certificados AWS
 
-- Certificado AWS 
-![Curso AWS](./certificados/)
 
-- Certificado CloudQuest
-![Curso AWS](./certificados/)
+![Curso AWS](./certificados/amazon%20EMR.png)
+![Curso AWS](./certificados/amazon%20glue.png)
+![Curso AWS](./certificados/amazon%20Quicksight.png)
+![Curso AWS](./certificados/amazon%20redshift.png)
+![Curso AWS](./certificados/Noções%20basicas%20analytics%20pt1.png)
+![Curso AWS](./certificados/Fundamentos%20Analytics%20pt2.png)
+![Curso AWS](./certificados/melhores%20praticas%20redshift.png)
