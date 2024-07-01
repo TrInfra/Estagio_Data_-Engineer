@@ -42,7 +42,7 @@
 - **Tema:** [AWS]
   - [O objetivo é a prática dos conhecimentos adquiridos sobre AWS]
 
-## Sprint 
-### [Sprint_SEIS](./Sprint%205/)
+## Sprint 6
+### [Sprint_SEIS](./Sprint%206/)
 - **Tema:** [Python & Docker & AWS]
   - [O objetivo é a práticar a combinação de conhecimentos vistos no Programa, fazer um mix de tudo que já foi dito]
