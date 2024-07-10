@@ -1,0 +1,7 @@
+requests
+boto3
+json
+os
+datetime
+pandas
+load_dotenv

@@ -1,0 +1,1958 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/8YURPHUqD2ODIffxPf8sG5l5UC7.jpg",
+        "genre_ids": [
+            12,
+            36,
+            10752,
+            28
+        ],
+        "id": 652,
+        "original_language": "en",
+        "original_title": "Troy",
+        "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+        "popularity": 81.568,
+        "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+        "release_date": "2004-05-13",
+        "title": "Troy",
+        "video": false,
+        "vote_average": 7.163,
+        "vote_count": 9916
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/14xx5Tf58mD8FRJ1B3BspiLiRxz.jpg",
+        "genre_ids": [
+            12,
+            18,
+            28
+        ],
+        "id": 254,
+        "original_language": "en",
+        "original_title": "King Kong",
+        "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+        "popularity": 81.564,
+        "poster_path": "/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+        "release_date": "2005-12-12",
+        "title": "King Kong",
+        "video": false,
+        "vote_average": 6.892,
+        "vote_count": 7696
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 545611,
+        "original_language": "en",
+        "original_title": "Everything Everywhere All at Once",
+        "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+        "popularity": 81.455,
+        "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+        "release_date": "2022-03-24",
+        "title": "Everything Everywhere All at Once",
+        "video": false,
+        "vote_average": 7.785,
+        "vote_count": 6187
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5i4go3D075xhHR0RIyPfzBbOd3u.jpg",
+        "genre_ids": [
+            878
+        ],
+        "id": 1086867,
+        "original_language": "en",
+        "original_title": "Cora",
+        "overview": "Cora is set decades into the future, after a deadly mist has covered earth, effectively wiping out most of humanity. Now, we follow Cora, a woman working for an organization trying to reverse the effects of the apocalypse.",
+        "popularity": 81.346,
+        "poster_path": "/5c28mVcDUzUMLNOk28iWx8Mm3sd.jpg",
+        "release_date": "2024-05-31",
+        "title": "Cora",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Ug3qr6Y0lWc3y35W0bgu0KgdFb.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35
+        ],
+        "id": 10057,
+        "original_language": "en",
+        "original_title": "The Three Musketeers",
+        "overview": "D'Artagnan travels to Paris hoping to become a musketeer, one of the French king's elite bodyguards, only to discover that the corps has been disbanded by conniving Cardinal Richelieu, who secretly hopes to usurp the throne. Fortunately, Athos, Porthos and Aramis have refused to lay down their weapons and continue to protect their king. D'Artagnan joins with the rogues to expose Richelieu's plot against the crown.",
+        "popularity": 81.339,
+        "poster_path": "/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg",
+        "release_date": "1993-11-11",
+        "title": "The Three Musketeers",
+        "video": false,
+        "vote_average": 6.386,
+        "vote_count": 930
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d6UxFCGQxpszcf8mwgGjQ3ynqGl.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 769,
+        "original_language": "en",
+        "original_title": "GoodFellas",
+        "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "popularity": 81.27,
+        "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "release_date": "1990-09-12",
+        "title": "GoodFellas",
+        "video": false,
+        "vote_average": 8.463,
+        "vote_count": 12537
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/94cS0mzODEoNIXFT7nhPcI8V4IJ.jpg",
+        "genre_ids": [
+            878
+        ],
+        "id": 842675,
+        "original_language": "zh",
+        "original_title": "流浪地球2",
+        "overview": "Humans built huge engines on the surface of the earth to find a new home. But the road to the universe is perilous. In order to save earth, young people once again have to step forward to start a race against time for life and death.",
+        "popularity": 81.23,
+        "poster_path": "/jAZzFYS36UFT0SKhKVmEY7qShal.jpg",
+        "release_date": "2023-01-22",
+        "title": "The Wandering Earth II",
+        "video": false,
+        "vote_average": 7.257,
+        "vote_count": 501
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iu2yI9aohZ6EnnU42dLQFdcepuZ.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            35
+        ],
+        "id": 15165,
+        "original_language": "en",
+        "original_title": "Barbie as The Princess & the Pauper",
+        "overview": "In her first animated musical featuring seven original songs, Barbie comes to life in this modern re-telling of a classic tale of mistaken identity and the power of friendship. Based on the story by Mark Twain.",
+        "popularity": 81.049,
+        "poster_path": "/xHYsUwUe4MaNc6mbNBGTkqZSnPk.jpg",
+        "release_date": "2004-09-28",
+        "title": "Barbie as The Princess & the Pauper",
+        "video": false,
+        "vote_average": 7.46,
+        "vote_count": 1441
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zd1owgoWgiPSVBXDnaSvS4D6RN9.jpg",
+        "genre_ids": [
+            35,
+            12
+        ],
+        "id": 11153,
+        "original_language": "en",
+        "original_title": "National Lampoon's Vacation",
+        "overview": "Clark Griswold is on a quest to take his family to the Walley World theme park for a vacation, but things don't go exactly as planned.",
+        "popularity": 81.018,
+        "poster_path": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+        "release_date": "1983-07-29",
+        "title": "National Lampoon's Vacation",
+        "video": false,
+        "vote_average": 7.129,
+        "vote_count": 1489
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5P6hWD4zxAMntRuRnB4MmPLijNw.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 22881,
+        "original_language": "en",
+        "original_title": "The Blind Side",
+        "overview": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+        "popularity": 81.005,
+        "poster_path": "/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
+        "release_date": "2009-11-20",
+        "title": "The Blind Side",
+        "video": false,
+        "vote_average": 7.686,
+        "vote_count": 6209
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg",
+        "genre_ids": [
+            12,
+            35,
+            878
+        ],
+        "id": 165,
+        "original_language": "en",
+        "original_title": "Back to the Future Part II",
+        "overview": "Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+        "popularity": 80.987,
+        "poster_path": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+        "release_date": "1989-11-22",
+        "title": "Back to the Future Part II",
+        "video": false,
+        "vote_average": 7.762,
+        "vote_count": 12474
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1kdyLiE2Mqt7cxnivdPX3qckvfW.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "id": 668,
+        "original_language": "en",
+        "original_title": "On Her Majesty's Secret Service",
+        "overview": "James Bond tracks his archnemesis, Ernst Blofeld, to a mountaintop retreat in the Swiss alps where he is training an army of beautiful, lethal women. Along the way, Bond falls for Italian contessa Tracy Draco, and marries her in order to get closer to Blofeld.",
+        "popularity": 80.956,
+        "poster_path": "/yVzJLLhBwuWJBR9BYEMurShu2WT.jpg",
+        "release_date": "1969-12-18",
+        "title": "On Her Majesty's Secret Service",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 1812
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zRQITMLvVi8z2Xz12Bi6wvbZE82.jpg",
+        "genre_ids": [
+            35,
+            28,
+            14
+        ],
+        "id": 594767,
+        "original_language": "en",
+        "original_title": "Shazam! Fury of the Gods",
+        "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+        "popularity": 80.929,
+        "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
+        "release_date": "2023-03-15",
+        "title": "Shazam! Fury of the Gods",
+        "video": false,
+        "vote_average": 6.554,
+        "vote_count": 2939
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i0M3a8Z2hfj5Oj4msArajhLjGvV.jpg",
+        "genre_ids": [
+            12,
+            35,
+            10751
+        ],
+        "id": 11774,
+        "original_language": "en",
+        "original_title": "Lemony Snicket's A Series of Unfortunate Events",
+        "overview": "Three wealthy children's parents are killed in a fire. When they are sent to a distant relative, they find out that he is plotting to kill them and seize their fortune.",
+        "popularity": 80.769,
+        "poster_path": "/r7S57FpBsCljWc9fBUo2Iy5XGew.jpg",
+        "release_date": "2004-12-16",
+        "title": "Lemony Snicket's A Series of Unfortunate Events",
+        "video": false,
+        "vote_average": 6.817,
+        "vote_count": 4886
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lhPq8R8qgoyLNWvVTiqZSkYGLPX.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "id": 691,
+        "original_language": "en",
+        "original_title": "The Spy Who Loved Me",
+        "overview": "Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.",
+        "popularity": 80.697,
+        "poster_path": "/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg",
+        "release_date": "1977-07-07",
+        "title": "The Spy Who Loved Me",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1904
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zUCpWrWU2kLZd0f8gPG2vma0AiM.jpg",
+        "genre_ids": [
+            12,
+            14,
+            16,
+            18,
+            10751
+        ],
+        "id": 15370,
+        "original_language": "ja",
+        "original_title": "猫の恩返し",
+        "overview": "Young Haru rescues a cat from being run over, but soon learns it's no ordinary feline; it happens to be the Prince of the Cats.",
+        "popularity": 80.595,
+        "poster_path": "/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg",
+        "release_date": "2002-07-19",
+        "title": "The Cat Returns",
+        "video": false,
+        "vote_average": 7.145,
+        "vote_count": 2100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ex2N7etWyKwDMw7mVhjKrA2GCy6.jpg",
+        "genre_ids": [
+            28,
+            27,
+            18
+        ],
+        "id": 924,
+        "original_language": "en",
+        "original_title": "Dawn of the Dead",
+        "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+        "popularity": 80.469,
+        "poster_path": "/fNw87FZ6u258qmbkNNjrPtGZuvB.jpg",
+        "release_date": "2004-03-19",
+        "title": "Dawn of the Dead",
+        "video": false,
+        "vote_average": 7.057,
+        "vote_count": 3871
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uFcFomOJbRHGsPId6U4Xcdacvt1.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 4257,
+        "original_language": "en",
+        "original_title": "Scary Movie 4",
+        "overview": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+        "popularity": 80.429,
+        "poster_path": "/vL03Mk1ES5uo1ZdXovz6NtgsbSb.jpg",
+        "release_date": "2006-04-12",
+        "title": "Scary Movie 4",
+        "video": false,
+        "vote_average": 5.478,
+        "vote_count": 3165
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7vy2K7cRU2RxRm2s5HTnWFFtZR8.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 351523,
+        "original_language": "ko",
+        "original_title": "동창회의 목적",
+        "overview": "Dongchul, who is managing a small bar, is always enthusiastic about his school reunions. One day, Yujin, who has never showed up to a reunion, shows up at his bar. Her baby face and vitality make her unlike other married women and all the men fall for her, especially Dongchul. They start a relationship but it abruptly flames out due to the sudden arrival of Dongchul’s wife. As they get to know each other's secrets, will their love be allowed to grow?",
+        "popularity": 80.406,
+        "poster_path": "/AjlwGaT6tDs2fBIgFaepYiDhL6A.jpg",
+        "release_date": "2015-08-06",
+        "title": "Purpose of Reunion",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vWriOBVlgW0XWdgbOiijhyLW7B8.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            35
+        ],
+        "id": 109451,
+        "original_language": "en",
+        "original_title": "Cloudy with a Chance of Meatballs 2",
+        "overview": "After the disastrous food storm in the first film, Flint and his friends are forced to leave the town. Flint accepts the invitation from his idol Chester V to join The Live Corp Company, which has been tasked to clean the island, and where the best inventors in the world create technologies for the betterment of mankind. When Flint discovers that his machine still operates and now creates mutant food beasts like living pickles, hungry tacodiles, shrimpanzees and apple pie-thons, he and his friends must return to save the world.",
+        "popularity": 80.396,
+        "poster_path": "/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg",
+        "release_date": "2013-09-26",
+        "title": "Cloudy with a Chance of Meatballs 2",
+        "video": false,
+        "vote_average": 6.441,
+        "vote_count": 3085
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jpipejVjqn7ifln05xeq9zpvprf.jpg",
+        "genre_ids": [
+            27,
+            53,
+            9648
+        ],
+        "id": 717728,
+        "original_language": "en",
+        "original_title": "Jeepers Creepers: Reborn",
+        "overview": "Forced to travel to a horror festival with her boyfriend, a young woman begins experiencing premonitions associated with the urban myth of The Creeper. She believes that something supernatural has been summoned — and that she is at the center of it all.",
+        "popularity": 70.206,
+        "poster_path": "/ym2zWdb6dbHGO3nd0EhbTY23j4y.jpg",
+        "release_date": "2022-09-15",
+        "title": "Jeepers Creepers: Reborn",
+        "video": false,
+        "vote_average": 5.441,
+        "vote_count": 952
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
+        "genre_ids": [
+            16,
+            28,
+            27
+        ],
+        "id": 1083862,
+        "original_language": "ja",
+        "original_title": "バイオハザード：デスアイランド",
+        "overview": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
+        "popularity": 79.718,
+        "poster_path": "/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
+        "release_date": "2023-06-22",
+        "title": "Resident Evil: Death Island",
+        "video": false,
+        "vote_average": 7.368,
+        "vote_count": 948
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+        "genre_ids": [
+            14,
+            12
+        ],
+        "id": 259316,
+        "original_language": "en",
+        "original_title": "Fantastic Beasts and Where to Find Them",
+        "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+        "popularity": 67.921,
+        "poster_path": "/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+        "release_date": "2016-11-16",
+        "title": "Fantastic Beasts and Where to Find Them",
+        "video": false,
+        "vote_average": 7.327,
+        "vote_count": 18475
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wNYUv8u5Z0AI4dkyxGyet7eLEWm.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 945675,
+        "original_language": "zh",
+        "original_title": "一周的朋友",
+        "overview": "A high school student suffers from a strange amnesia, causing her memories to only last a week. After she befriends a new student, his kindness and persistence make her gradually open up.",
+        "popularity": 76.937,
+        "poster_path": "/wjYcNLVwFpSAGAPKgo0NIwhfWJS.jpg",
+        "release_date": "2022-06-18",
+        "title": "One Week Friends",
+        "video": false,
+        "vote_average": 5.719,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8IFCWQ0fQEukqNY7LAljl7DuFZf.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 9772,
+        "original_language": "en",
+        "original_title": "Air Force One",
+        "overview": "When Russian neo-nationalists hijack Air Force One, the world's most secure and extraordinary aircraft, the President is faced with a nearly impossible decision to give in to terrorist demands or sacrifice not only the country's dignity, but the lives of his wife and daughter.",
+        "popularity": 92.884,
+        "poster_path": "/vE0Yl8oc4bfFuoGH30IORxQ6e9A.jpg",
+        "release_date": "1997-07-25",
+        "title": "Air Force One",
+        "video": false,
+        "vote_average": 6.482,
+        "vote_count": 2860
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/PwI3EfasE9fVuXsmMu9ffJh0Re.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 406563,
+        "original_language": "en",
+        "original_title": "Insidious: The Last Key",
+        "overview": "Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.",
+        "popularity": 58.638,
+        "poster_path": "/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg",
+        "release_date": "2018-01-03",
+        "title": "Insidious: The Last Key",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 2823
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9CkI4VsYF8qJWfZpPqwZnBctb3M.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 50270,
+        "original_language": "it",
+        "original_title": "Paprika",
+        "overview": "A young country girl comes to town and works in a brothel in order to help her fiance get the money to start his own business. \"Paprika\" is the name given to her by the madam.",
+        "popularity": 103.76,
+        "poster_path": "/7d8VB7xZcsjClsE6JaUr8BCbkCh.jpg",
+        "release_date": "1991-02-13",
+        "title": "Paprika",
+        "video": false,
+        "vote_average": 6.979,
+        "vote_count": 399
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aJxmgoNtP2BH7mRYvuf7AHB0VC3.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1302004,
+        "original_language": "tl",
+        "original_title": "Kaskasero",
+        "overview": "A talented mechanic and driver, Migs quickly finds success when a customer he likes, Gabbi, leads him into the life of street car racing. But as he goes along this life and learns of Gabbi’s past, Migs makes rash decisions that might put the brakes on their relationship.",
+        "popularity": 62.871,
+        "poster_path": "/veLIxyQJyXq8Lf6qSbXQl0ckHzC.jpg",
+        "release_date": "2024-07-26",
+        "title": "Kaskasero",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fGuu7bmpM7eFjHcU88SsQdtP5JF.jpg",
+        "genre_ids": [
+            16,
+            28,
+            35,
+            10751
+        ],
+        "id": 10555,
+        "original_language": "en",
+        "original_title": "Shark Tale",
+        "overview": "Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.",
+        "popularity": 74.013,
+        "poster_path": "/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
+        "release_date": "2004-09-20",
+        "title": "Shark Tale",
+        "video": false,
+        "vote_average": 6.033,
+        "vote_count": 6204
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hO1oTBGNxO5fBKVEuWnSpICJH7c.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 424139,
+        "original_language": "en",
+        "original_title": "Halloween",
+        "overview": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+        "popularity": 64.343,
+        "poster_path": "/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+        "release_date": "2018-10-18",
+        "title": "Halloween",
+        "video": false,
+        "vote_average": 6.553,
+        "vote_count": 4576
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878,
+            12
+        ],
+        "id": 1635,
+        "original_language": "en",
+        "original_title": "The Island",
+        "overview": "In 2019, Lincoln Six-Echo is a resident of a seemingly \"Utopian\" but contained facility. Like all of the inhabitants of this carefully-controlled environment, Lincoln hopes to be chosen to go to The Island — reportedly the last uncontaminated location on the planet. But Lincoln soon discovers that everything about his existence is a lie.",
+        "popularity": 75.567,
+        "poster_path": "/n4HyHxnKCJG8SbqeLEK1nU5JbIR.jpg",
+        "release_date": "2005-07-21",
+        "title": "The Island",
+        "video": false,
+        "vote_average": 6.674,
+        "vote_count": 5237
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wualVjoU8z2qEjshROwaLwjG8dT.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 611395,
+        "original_language": "zh",
+        "original_title": "征途",
+        "overview": "Keen to bring honor to his clan, young villager Dong Yilong embarks on a perilous journey to compete in a tournament that selects warriors for battle.",
+        "popularity": 103.16,
+        "poster_path": "/lv3RonWge4GlC9ymNzC0oWpFCfv.jpg",
+        "release_date": "2020-07-21",
+        "title": "Double World",
+        "video": false,
+        "vote_average": 6.751,
+        "vote_count": 225
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oRwBASyG34mwSpIR1CSao123Xi4.jpg",
+        "genre_ids": [
+            28,
+            878
+        ],
+        "id": 10017,
+        "original_language": "en",
+        "original_title": "The Wraith",
+        "overview": "Packard Walsh and his motorized gang control and terrorize an Arizona desert town where they force drivers to drag-race so they can 'win' their vehicles. After Walsh beats the decent teenager Jamie Hankins to death after finding him with his girlfriend, a mysterious power creates Jake Kesey, an extremely cool motor-biker who has a car which is invincible. Jake befriends Jamie's girlfriend Keri Johnson, takes Jamie's sweet brother Bill under his wing and manages what Sheriff Loomis couldn't; eliminate Packard's criminal gang the hard way...",
+        "popularity": 103.099,
+        "poster_path": "/vHrNnqqRYWzkkrJV8MtmUGgC4Kk.jpg",
+        "release_date": "1986-10-01",
+        "title": "The Wraith",
+        "video": false,
+        "vote_average": 6.376,
+        "vote_count": 422
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 1892,
+        "original_language": "en",
+        "original_title": "Return of the Jedi",
+        "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+        "popularity": 68.102,
+        "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+        "release_date": "1983-05-25",
+        "title": "Return of the Jedi",
+        "video": false,
+        "vote_average": 7.897,
+        "vote_count": 15359
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+        "genre_ids": [
+            18,
+            36,
+            80
+        ],
+        "id": 3131,
+        "original_language": "en",
+        "original_title": "Gangs of New York",
+        "overview": "In 1863, Amsterdam Vallon returns to the Five Points of America to seek vengeance against the psychotic gangland kingpin, Bill the Butcher, who murdered his father years earlier. With an eager pickpocket by his side and a whole new army, Vallon fights his way to seek vengeance on the Butcher and restore peace in the area.",
+        "popularity": 79.674,
+        "poster_path": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+        "release_date": "2002-12-14",
+        "title": "Gangs of New York",
+        "video": false,
+        "vote_average": 7.327,
+        "vote_count": 6452
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jkBFGhuJKLH8VurXqVKQ2mxvVYC.jpg",
+        "genre_ids": [
+            37
+        ],
+        "id": 1079394,
+        "original_language": "en",
+        "original_title": "The Five",
+        "overview": "A scorned woman enlists the help of five strangers to execute a bank robbery. Tensions rise as the men anxiously await her arrival with the money, leaving the crew to wonder if they have been betrayed.",
+        "popularity": 79.622,
+        "poster_path": "/xckDPGprPVDpuzhSyo9E7SZJ2wa.jpg",
+        "release_date": "2023-01-07",
+        "title": "The Five",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/67BHTjyEgURL60irOQu54qZ3zDk.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 976893,
+        "original_language": "ja",
+        "original_title": "PERFECT DAYS",
+        "overview": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+        "popularity": 79.565,
+        "poster_path": "/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
+        "release_date": "2023-11-10",
+        "title": "Perfect Days",
+        "video": false,
+        "vote_average": 7.792,
+        "vote_count": 925
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/88J6waYVTta8Qz3iX3qUeWNA5d5.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 447362,
+        "original_language": "en",
+        "original_title": "Life in a Year",
+        "overview": "A 17 year old finds out that his girlfriend is dying, so he sets out to give her an entire life, in the last year she has left.",
+        "popularity": 79.555,
+        "poster_path": "/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
+        "release_date": "2020-11-27",
+        "title": "Life in a Year",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 1796
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/akcFhNdibYAsGUOfUhb5y1rFTet.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            12,
+            878
+        ],
+        "id": 15512,
+        "original_language": "en",
+        "original_title": "Monsters vs Aliens",
+        "overview": "When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...",
+        "popularity": 79.527,
+        "poster_path": "/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
+        "release_date": "2009-03-19",
+        "title": "Monsters vs Aliens",
+        "video": false,
+        "vote_average": 6.222,
+        "vote_count": 4499
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9IUZw1blAscYnyFi5vEFlHVXAWr.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 8275,
+        "original_language": "en",
+        "original_title": "American Pie Presents: The Naked Mile",
+        "overview": "When Erik Stifler realizes that he's the only Stifler family member who might graduate high school a virgin, he decides to live up to his legacy. After some well-meaning advice from Jim's dad, Erik's ready to take his chances at the annual and infamous Naked Mile race, where his devoted friends and some uninhibited sorority girls will create the most outrageous weekend ever.",
+        "popularity": 79.459,
+        "poster_path": "/sreeL5kKj47oofEGVtDKTAcUDY6.jpg",
+        "release_date": "2006-12-01",
+        "title": "American Pie Presents: The Naked Mile",
+        "video": false,
+        "vote_average": 5.512,
+        "vote_count": 1988
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/UD0PBqGgXJOOqsNMOHeZ9Apjde.jpg",
+        "genre_ids": [
+            53,
+            27,
+            878
+        ],
+        "id": 1678,
+        "original_language": "ja",
+        "original_title": "ゴジラ",
+        "overview": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Yemani soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+        "popularity": 79.405,
+        "poster_path": "/fg635r7DxfmbQpnIh7vLCOsGoOG.jpg",
+        "release_date": "1954-11-03",
+        "title": "Godzilla",
+        "video": false,
+        "vote_average": 7.611,
+        "vote_count": 919
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ijZKFKzppG2GxGAQhJmyhKNw1wJ.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            27
+        ],
+        "id": 622,
+        "original_language": "en",
+        "original_title": "The Ninth Gate",
+        "overview": "An all-expenses-paid international search for a rare copy of the book 'The Nine Gates of the Kingdom of Shadows' brings an unscrupulous book dealer deep into a world of murder, double-dealing and Satanic worship.",
+        "popularity": 79.367,
+        "poster_path": "/rxw9l9YNL14ODdmAavUwHLBjiDo.jpg",
+        "release_date": "1999-08-25",
+        "title": "The Ninth Gate",
+        "video": false,
+        "vote_average": 6.468,
+        "vote_count": 2913
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/90ncBig0baagi298dA9ZdvKzUmJ.jpg",
+        "genre_ids": [
+            10752,
+            28,
+            18
+        ],
+        "id": 9567,
+        "original_language": "en",
+        "original_title": "Tears of the Sun",
+        "overview": "Navy SEAL Lieutenant A.K. Waters and his elite squadron of tactical specialists are forced to choose between their duty and their humanity, between following orders by ignoring the conflict that surrounds them, or finding the courage to follow their conscience and protect a group of innocent refugees. When the democratic government of Nigeria collapses and the country is taken over by a ruthless military dictator, Waters, a fiercely loyal and hardened veteran is dispatched on a routine mission to retrieve a Doctors Without Borders physician.",
+        "popularity": 79.286,
+        "poster_path": "/fUnSSQukwTwBSdCbufEE36petLq.jpg",
+        "release_date": "2003-03-07",
+        "title": "Tears of the Sun",
+        "video": false,
+        "vote_average": 6.862,
+        "vote_count": 2232
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/17QTukt4IwFKE9F3mSDEmIWOwTH.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            18
+        ],
+        "id": 164,
+        "original_language": "en",
+        "original_title": "Breakfast at Tiffany's",
+        "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+        "popularity": 79.276,
+        "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+        "release_date": "1961-10-06",
+        "title": "Breakfast at Tiffany's",
+        "video": false,
+        "vote_average": 7.671,
+        "vote_count": 4084
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6cwkM6dkWU4F9YM0JCIqLDK2Aue.jpg",
+        "genre_ids": [
+            27,
+            18,
+            14
+        ],
+        "id": 628,
+        "original_language": "en",
+        "original_title": "Interview with the Vampire",
+        "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+        "popularity": 79.247,
+        "poster_path": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+        "release_date": "1994-11-11",
+        "title": "Interview with the Vampire",
+        "video": false,
+        "vote_average": 7.387,
+        "vote_count": 5665
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3gngLp4zgjYLOUKC5MBHfszdvz9.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 36073,
+        "original_language": "ja",
+        "original_title": "ギニーピッグ2 血肉の華",
+        "overview": "Late at night, a woman is kidnapped by an unknown assailant and taken back to his blood-spattered dungeon, where he turns her into a \"flower of blood and flesh\" through a series of dismemberment and evisceration.",
+        "popularity": 79.232,
+        "poster_path": "/bSU1eNOC4KbkLYLMsjavGqVc7Ae.jpg",
+        "release_date": "1985-10-07",
+        "title": "Guinea Pig Part 2: Flower of Flesh and Blood",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iOUwya0vGQ6ApDZ8Ar3KUyeFOkQ.jpg",
+        "genre_ids": [
+            16,
+            10751
+        ],
+        "id": 175112,
+        "original_language": "en",
+        "original_title": "Tinker Bell and the Pirate Fairy",
+        "overview": "Zarina, a smart and ambitious dust-keeper fairy who’s captivated by Blue Pixie Dust and its endless possibilities, flees Pixie Hollow and joins forces with the scheming pirates of Skull Rock, who make her captain of their ship. Tinker Bell and her friends must embark on an epic adventure to find Zarina, and together they go sword-to-sword with the band of pirates led by a cabin boy named James, who’ll soon be known as Captain Hook himself.",
+        "popularity": 79.225,
+        "poster_path": "/fbKMx3taGom2ASpbLKtglW3XT87.jpg",
+        "release_date": "2014-02-13",
+        "title": "Tinker Bell and the Pirate Fairy",
+        "video": false,
+        "vote_average": 6.936,
+        "vote_count": 965
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aJ4s9UjVdmkmsnx9NHpmdUqZxlz.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 10012,
+        "original_language": "en",
+        "original_title": "Cursed",
+        "overview": "A werewolf loose in Los Angeles changes the lives of three young adults who, after being mauled by the beast, learn that the only way to break the curse put upon them is to kill the one who started it all.",
+        "popularity": 79.187,
+        "poster_path": "/em45jL4CfTMyj5V83kj7rhdorJu.jpg",
+        "release_date": "2005-02-25",
+        "title": "Cursed",
+        "video": false,
+        "vote_average": 5.439,
+        "vote_count": 674
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xThuEoirx0vXismkVbnMQqkMkHK.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 849509,
+        "original_language": "en",
+        "original_title": "Jade",
+        "overview": "Jade presents the story of a woman who comes between a powerful businessman and a gang leader in their search for a hard drive that could damage the operations of Interpol. Despite grieving for the brother she accidentally killed, the woman is required to use her unique set of skills to retrieve the drive and protect her brother's unborn child being carried by another woman.",
+        "popularity": 79.165,
+        "poster_path": "/qz6vvVSNPxuvEHKagfdvoVLz8yb.jpg",
+        "release_date": "2024-02-16",
+        "title": "Jade",
+        "video": false,
+        "vote_average": 5.615,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+        "genre_ids": [
+            35,
+            14
+        ],
+        "id": 620,
+        "original_language": "en",
+        "original_title": "Ghostbusters",
+        "overview": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+        "popularity": 79.139,
+        "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+        "release_date": "1984-06-08",
+        "title": "Ghostbusters",
+        "video": false,
+        "vote_average": 7.487,
+        "vote_count": 8706
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8lQnoUG0UVK6xXOvfoP0alVJrW.jpg",
+        "genre_ids": [
+            27,
+            18,
+            878
+        ],
+        "id": 1255,
+        "original_language": "ko",
+        "original_title": "괴물",
+        "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her.",
+        "popularity": 79.093,
+        "poster_path": "/dEDLY3KeghKFzks5nTDWdigVikr.jpg",
+        "release_date": "2006-07-27",
+        "title": "The Host",
+        "video": false,
+        "vote_average": 6.988,
+        "vote_count": 2672
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sKdDC38FHuPvEsRgIzMEQE6ydol.jpg",
+        "genre_ids": [
+            53,
+            27,
+            18
+        ],
+        "id": 714567,
+        "original_language": "ru",
+        "original_title": "Я иду играть",
+        "overview": "Rebellious schoolgirl Dana grieves for her younger sister, a once-happy kid who suddenly stepped in front of a train. Desperate to learn what happened, she explores her sister's online history, discovering a sinister social-media game.",
+        "popularity": 79.072,
+        "poster_path": "/2TmZ2lgDEYJAFpeUMALRx5NwqK.jpg",
+        "release_date": "2024-01-11",
+        "title": "#Blue_Whale",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x8yA4dKJyctamyiM6jF8Zgqrlkh.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 10044,
+        "original_language": "cn",
+        "original_title": "福星高照",
+        "overview": "Two Hong Kong cops are sent to Tokyo to catch an ex-cop who stole a large amount of money in diamonds. After one is captured by the Ninja-gang protecting the rogue cop, the other one gets his old Orphanage gang, dubbed the \"Five Lucky Stars,\" to help him. They don't like this much, but they do it.",
+        "popularity": 79.029,
+        "poster_path": "/dZzHBIcJsld2XMvwR75OZGf4NM2.jpg",
+        "release_date": "1985-02-10",
+        "title": "My Lucky Stars",
+        "video": false,
+        "vote_average": 6.295,
+        "vote_count": 173
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "id": 1071215,
+        "original_language": "en",
+        "original_title": "Thanksgiving",
+        "overview": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+        "popularity": 79.005,
+        "poster_path": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+        "release_date": "2023-11-16",
+        "title": "Thanksgiving",
+        "video": false,
+        "vote_average": 6.58,
+        "vote_count": 1024
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nWs0auTqn2UaFGfTKtUE5tlTeBu.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            14
+        ],
+        "id": 668482,
+        "original_language": "en",
+        "original_title": "Roald Dahl's Matilda the Musical",
+        "overview": "An extraordinary young girl discovers her superpower and summons the remarkable courage, against all odds, to help others change their stories, whilst also taking charge of her own destiny. Standing up for what's right, she's met with miraculous results.",
+        "popularity": 78.995,
+        "poster_path": "/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+        "release_date": "2022-11-25",
+        "title": "Roald Dahl's Matilda the Musical",
+        "video": false,
+        "vote_average": 6.787,
+        "vote_count": 702
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 389,
+        "original_language": "en",
+        "original_title": "12 Angry Men",
+        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+        "popularity": 78.983,
+        "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+        "release_date": "1957-04-10",
+        "title": "12 Angry Men",
+        "video": false,
+        "vote_average": 8.543,
+        "vote_count": 8347
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 381288,
+        "original_language": "en",
+        "original_title": "Split",
+        "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
+        "popularity": 78.969,
+        "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+        "release_date": "2017-01-19",
+        "title": "Split",
+        "video": false,
+        "vote_average": 7.346,
+        "vote_count": 17026
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ml8YBTJq7UkALfI022FWscCQuQW.jpg",
+        "genre_ids": [
+            14,
+            35,
+            10751
+        ],
+        "id": 642885,
+        "original_language": "en",
+        "original_title": "Hocus Pocus 2",
+        "overview": "29 years since the Black Flame Candle was last lit, the 17th-century Sanderson sisters are resurrected, and they are looking for revenge. Now it's up to three high school students to stop the ravenous witches from wreaking a new kind of havoc on Salem before dawn on All Hallow's Eve.",
+        "popularity": 78.951,
+        "poster_path": "/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg",
+        "release_date": "2022-09-30",
+        "title": "Hocus Pocus 2",
+        "video": false,
+        "vote_average": 7.257,
+        "vote_count": 1589
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 18823,
+        "original_language": "en",
+        "original_title": "Clash of the Titans",
+        "overview": "Born of a god but raised as a man, Perseus is helpless to save his family from Hades, vengeful god of the underworld. With nothing to lose, Perseus volunteers to lead a dangerous mission to defeat Hades before he can seize power from Zeus and unleash hell on earth. Battling unholy demons and fearsome beasts, Perseus and his warriors will only survive if Perseus accepts his power as a god, defies fate and creates his own destiny.",
+        "popularity": 78.888,
+        "poster_path": "/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
+        "release_date": "2010-03-26",
+        "title": "Clash of the Titans",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 6071
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            878,
+            12
+        ],
+        "id": 10386,
+        "original_language": "en",
+        "original_title": "The Iron Giant",
+        "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+        "popularity": 78.843,
+        "poster_path": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+        "release_date": "1999-08-06",
+        "title": "The Iron Giant",
+        "video": false,
+        "vote_average": 7.944,
+        "vote_count": 5417
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u5Xd1fhXNX09ZJzgCJX6N3VlvEc.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 8367,
+        "original_language": "en",
+        "original_title": "Robin Hood: Prince of Thieves",
+        "overview": "Nobleman crusader Robin of Locksley breaks out of a Jerusalem prison with the help of Moorish fellow prisoner Azeem and travels back home to England. But upon arrival he discovers his dead father in the ruins of his family estate, killed by the vicious sheriff of Nottingham, Robin and Azeem join forces with outlaws Little John and Will Scarlett to save the kingdom from the sheriff's villainy.",
+        "popularity": 78.842,
+        "poster_path": "/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg",
+        "release_date": "1991-06-14",
+        "title": "Robin Hood: Prince of Thieves",
+        "video": false,
+        "vote_average": 6.851,
+        "vote_count": 3148
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/CZiD27RwiE3urSTWT522bC8IY0.jpg",
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 139038,
+        "original_language": "en",
+        "original_title": "A Haunted House",
+        "overview": "Malcolm and Kisha move into their dream home, but soon learn a demon also resides there. When Kisha becomes possessed, Malcolm - determined to keep his sex life on track - turns to a priest, a psychic, and a team of ghost-busters for help in this spoof of all the \"found-footage/documentary style\" films released in recent years.",
+        "popularity": 78.703,
+        "poster_path": "/rF9F7msdQX74AToW7sTK0AGhvZ0.jpg",
+        "release_date": "2013-01-11",
+        "title": "A Haunted House",
+        "video": false,
+        "vote_average": 5.915,
+        "vote_count": 1836
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 140607,
+        "original_language": "en",
+        "original_title": "Star Wars: The Force Awakens",
+        "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+        "popularity": 78.675,
+        "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+        "release_date": "2015-12-15",
+        "title": "Star Wars: The Force Awakens",
+        "video": false,
+        "vote_average": 7.28,
+        "vote_count": 19039
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4EGvllNPwr8WF2Tzu7EXjkzakrb.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 754744,
+        "original_language": "ko",
+        "original_title": "볼빨간 며느리",
+        "overview": "Hail is worried because Seungha, a pretty and sexy daughter-in-law, looks like a woman these days. An open-minded way of walking around the house in short clothes without hesitation, showing aegyo, etc. It is becoming increasingly intolerable to the tsunami. Hearing the sound of his son Do-jin and Seung-ha having sex is also starting to get harder. One day, the tsunami was spent relaxing at an illegal massage parlor. He takes a nap, but Seung-ha appears and seduces himself to dream of having sex. Seungha gazes at the tsunami who wakes up after having a sweet dream.",
+        "popularity": 78.574,
+        "poster_path": "/uQD0RqVvBsrPh82G7kOBWdM9yWo.jpg",
+        "release_date": "2020-10-16",
+        "title": "Ball Red Daughter-in-law",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3ap6vhJN7q87mziDP6EltPGQ0hW.jpg",
+        "genre_ids": [
+            28,
+            878
+        ],
+        "id": 1705,
+        "original_language": "en",
+        "original_title": "Battle for the Planet of the Apes",
+        "overview": "The fifth and final episode in the Planet of the Apes series. After the collapse of human civilization, a community of intelligent apes led by Caesar lives in harmony with a group of humans. Gorilla General Aldo tries to cause an ape civil war and a community of human mutants who live beneath a destroyed city try to conquer those whom they perceive as enemies. All leading to the finale.",
+        "popularity": 78.574,
+        "poster_path": "/dP5dYjLp5p2CG103cJMio4Nj29d.jpg",
+        "release_date": "1973-06-15",
+        "title": "Battle for the Planet of the Apes",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 892
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mOyF7rHVLF6uLbyb18FWTmcrjJe.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "id": 956,
+        "original_language": "en",
+        "original_title": "Mission: Impossible III",
+        "overview": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who is as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear -- including the woman Hunt loves.",
+        "popularity": 78.541,
+        "poster_path": "/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+        "release_date": "2006-04-25",
+        "title": "Mission: Impossible III",
+        "video": false,
+        "vote_average": 6.735,
+        "vote_count": 6587
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hYY4k0346KtwskCrgmC4C4HGSnj.jpg",
+        "genre_ids": [
+            14,
+            12
+        ],
+        "id": 57165,
+        "original_language": "en",
+        "original_title": "Wrath of the Titans",
+        "overview": "Perseus tries to live a quieter life as a village fisherman while - dangerously weakened by humanity's lack of devotion - the gods are losing control of the long-imprisoned Titans and their ferocious leader, Kronos.",
+        "popularity": 78.529,
+        "poster_path": "/b9n2R3xZWQ8MVZgndQoV34stS0h.jpg",
+        "release_date": "2012-03-28",
+        "title": "Wrath of the Titans",
+        "video": false,
+        "vote_average": 5.74,
+        "vote_count": 4076
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z9DFGaWj4G4kZUWLZ6ESs1NP1Fp.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 2105,
+        "original_language": "en",
+        "original_title": "American Pie",
+        "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom.",
+        "popularity": 78.495,
+        "poster_path": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+        "release_date": "1999-07-09",
+        "title": "American Pie",
+        "video": false,
+        "vote_average": 6.585,
+        "vote_count": 7496
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dSPuaE2VEvTWP6LoADTL4rKNVkA.jpg",
+        "genre_ids": [
+            878,
+            14,
+            28
+        ],
+        "id": 76757,
+        "original_language": "en",
+        "original_title": "Jupiter Ascending",
+        "overview": "In a universe where human genetic material is the most precious commodity, an impoverished young Earth woman becomes the key to strategic maneuvers and internal strife within a powerful dynasty…",
+        "popularity": 78.491,
+        "poster_path": "/2NCcAZ3M3F0FxENYmammBknwpVn.jpg",
+        "release_date": "2015-02-04",
+        "title": "Jupiter Ascending",
+        "video": false,
+        "vote_average": 5.456,
+        "vote_count": 6598
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iHDgL6vulhP9j8ygG47gnOEyybf.jpg",
+        "genre_ids": [
+            35,
+            14,
+            10751,
+            10402,
+            16
+        ],
+        "id": 55301,
+        "original_language": "en",
+        "original_title": "Alvin and the Chipmunks: Chipwrecked",
+        "overview": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+        "popularity": 78.483,
+        "poster_path": "/7qm7OSNzw57leNtgEizdKVKqyqD.jpg",
+        "release_date": "2011-12-14",
+        "title": "Alvin and the Chipmunks: Chipwrecked",
+        "video": false,
+        "vote_average": 5.709,
+        "vote_count": 2112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 163,
+        "original_language": "en",
+        "original_title": "Ocean's Twelve",
+        "overview": "Danny Ocean reunites with his old flame and the rest of his merry band of thieves in carrying out three huge heists in Rome, Paris and Amsterdam – but a Europol agent is hot on their heels.",
+        "popularity": 78.469,
+        "poster_path": "/Ad55M8newGWemFWCsMAkxO3fDwl.jpg",
+        "release_date": "2004-12-09",
+        "title": "Ocean's Twelve",
+        "video": false,
+        "vote_average": 6.566,
+        "vote_count": 7070
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878
+        ],
+        "id": 679,
+        "original_language": "en",
+        "original_title": "Aliens",
+        "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+        "popularity": 78.464,
+        "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+        "release_date": "1986-07-18",
+        "title": "Aliens",
+        "video": false,
+        "vote_average": 7.94,
+        "vote_count": 9327
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+        "genre_ids": [
+            18,
+            878,
+            12
+        ],
+        "id": 644,
+        "original_language": "en",
+        "original_title": "A.I. Artificial Intelligence",
+        "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+        "popularity": 78.431,
+        "poster_path": "/zxUhHQxKRbVLsaHR1V81SWYADOl.jpg",
+        "release_date": "2001-06-29",
+        "title": "A.I. Artificial Intelligence",
+        "video": false,
+        "vote_average": 7.043,
+        "vote_count": 5985
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vQQkN90tiMugff0CT3KRDaKFNBQ.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 574451,
+        "original_language": "en",
+        "original_title": "Turtles All the Way Down",
+        "overview": "Aza confronts her potential for love, happiness, friendship, and hope while navigating an endless barrage of invasive, obsessive thoughts.",
+        "popularity": 78.423,
+        "poster_path": "/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg",
+        "release_date": "2024-04-27",
+        "title": "Turtles All the Way Down",
+        "video": false,
+        "vote_average": 7.681,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oLma4sWjqlXVr0E3jpaXQCytuG9.jpg",
+        "genre_ids": [
+            12,
+            35,
+            14
+        ],
+        "id": 512200,
+        "original_language": "en",
+        "original_title": "Jumanji: The Next Level",
+        "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+        "popularity": 78.396,
+        "poster_path": "/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+        "release_date": "2019-12-04",
+        "title": "Jumanji: The Next Level",
+        "video": false,
+        "vote_average": 6.91,
+        "vote_count": 8414
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 4247,
+        "original_language": "en",
+        "original_title": "Scary Movie",
+        "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+        "popularity": 78.335,
+        "poster_path": "/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",
+        "release_date": "2000-07-07",
+        "title": "Scary Movie",
+        "video": false,
+        "vote_average": 6.356,
+        "vote_count": 6740
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t6TL7V9IsT4Ktx6YO8b1UYj3agd.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 339846,
+        "original_language": "en",
+        "original_title": "Baywatch",
+        "overview": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.",
+        "popularity": 78.328,
+        "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+        "release_date": "2017-05-25",
+        "title": "Baywatch",
+        "video": false,
+        "vote_average": 6.094,
+        "vote_count": 7873
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28,
+            53
+        ],
+        "id": 1995,
+        "original_language": "en",
+        "original_title": "Lara Croft: Tomb Raider",
+        "overview": "English aristocrat Lara Croft is skilled in hand-to-hand combat and in the midst of a battle with a secret society. The shapely archaeologist moonlights as a tomb raider to recover lost antiquities and meets her match in the wicked Powell, who's in search of a powerful relic.",
+        "popularity": 78.327,
+        "poster_path": "/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+        "release_date": "2001-06-11",
+        "title": "Lara Croft: Tomb Raider",
+        "video": false,
+        "vote_average": 5.892,
+        "vote_count": 5931
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3RWsSQlqzRjsuqSRmoyggy74UA7.jpg",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ],
+        "id": 43074,
+        "original_language": "en",
+        "original_title": "Ghostbusters",
+        "overview": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+        "popularity": 78.295,
+        "poster_path": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+        "release_date": "2016-07-14",
+        "title": "Ghostbusters",
+        "video": false,
+        "vote_average": 5.361,
+        "vote_count": 6288
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 725201,
+        "original_language": "en",
+        "original_title": "The Gray Man",
+        "overview": "When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
+        "popularity": 78.255,
+        "poster_path": "/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg",
+        "release_date": "2022-07-13",
+        "title": "The Gray Man",
+        "video": false,
+        "vote_average": 6.965,
+        "vote_count": 3476
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jsIxoKIuH6lLt4Y3NW7Tf1BwcIO.jpg",
+        "genre_ids": [
+            16,
+            18,
+            10749
+        ],
+        "id": 15080,
+        "original_language": "ja",
+        "original_title": "おもひでぽろぽろ",
+        "overview": "In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+        "popularity": 78.224,
+        "poster_path": "/tOSnFE9e82iH3ZAzSTtuOkBsabJ.jpg",
+        "release_date": "1991-07-20",
+        "title": "Only Yesterday",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 1052
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m03jul0YdVEOFXEQVUv6pOVQYGL.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10751,
+            14
+        ],
+        "id": 400155,
+        "original_language": "en",
+        "original_title": "Hotel Transylvania 3: Summer Vacation",
+        "overview": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
+        "popularity": 78.192,
+        "poster_path": "/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",
+        "release_date": "2018-06-28",
+        "title": "Hotel Transylvania 3: Summer Vacation",
+        "video": false,
+        "vote_average": 6.871,
+        "vote_count": 4280
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Admlp6IYUI9UJEx451dvGldK7Mh.jpg",
+        "genre_ids": [
+            28,
+            18,
+            10752
+        ],
+        "id": 53182,
+        "original_language": "en",
+        "original_title": "300: Rise of an Empire",
+        "overview": "Greek general Themistocles attempts to unite all of Greece by leading the charge that will change the course of the war. Themistocles faces the massive invading Persian forces led by mortal-turned-god, Xerxes and Artemesia, the vengeful commander of the Persian navy.",
+        "popularity": 78.141,
+        "poster_path": "/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg",
+        "release_date": "2014-03-05",
+        "title": "300: Rise of an Empire",
+        "video": false,
+        "vote_average": 6.109,
+        "vote_count": 6356
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bMcXBBkLHgh60Z8OnpIX4GdMN6m.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            12
+        ],
+        "id": 14873,
+        "original_language": "en",
+        "original_title": "The Jungle Book 2",
+        "overview": "Mowgli has been living in the man-village with his little stepbrother Ranjan and his best friend Shanti. But the man-cub still has that jungle rhythm in his heart, and he misses his old buddies Baloo and Bagheera. When Mowgli wanders back to the wild for some swingin' fun, he soon finds the man-eating tiger Shere Khan is lurking in the shadows and planning his revenge.",
+        "popularity": 78.13,
+        "poster_path": "/21GanxizOIL1CN0HLx7j3je8k87.jpg",
+        "release_date": "2003-02-07",
+        "title": "The Jungle Book 2",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 1109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rBAtTt5qALvEoRlIu7ZXF5jqSYC.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 420634,
+        "original_language": "en",
+        "original_title": "Terrifier",
+        "overview": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
+        "popularity": 78.075,
+        "poster_path": "/nfRlQCl590F30L37aihuqBGBvaO.jpg",
+        "release_date": "2018-01-25",
+        "title": "Terrifier",
+        "video": false,
+        "vote_average": 6.459,
+        "vote_count": 1958
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hPIWQT70wQK6akqfLXByEvr62u0.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 726139,
+        "original_language": "ko",
+        "original_title": "탈출: 프로젝트 사일런스",
+        "overview": "Due to sudden deteriorating weather conditions, visibility on the Airport Bridge is severely impaired, leaving people stranded and at risk of the bridge collapsing due to a series of chain collisions and explosions. Amidst the chaos, the canine subjects \"Echo\" from the military experiment \"Project Silence,\" who were being transported in secret, break free, and all human survivors become targets of relentless attacks.",
+        "popularity": 77.917,
+        "poster_path": "/xSimc5OwG4wLfs6DVL3zpFAutBZ.jpg",
+        "release_date": "2024-07-11",
+        "title": "Project Silence",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y1W70TgfOeaX14xoDxfaiHutA3X.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 100241,
+        "original_language": "en",
+        "original_title": "I, Frankenstein",
+        "overview": "200 years after his shocking creation, Dr. Frankenstein's creature, Adam, still walks the earth. But when he finds himself in the middle of a war over the fate of humanity, Adam discovers he holds the key that could destroy humankind.",
+        "popularity": 77.874,
+        "poster_path": "/pQkJ1tNsKRvYhwbC8eztLElKrmS.jpg",
+        "release_date": "2014-01-22",
+        "title": "I, Frankenstein",
+        "video": false,
+        "vote_average": 5.356,
+        "vote_count": 1865
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ktzhr2m6y98PtwOdfOtTA0X232m.jpg",
+        "genre_ids": [
+            16,
+            878,
+            28,
+            18
+        ],
+        "id": 15137,
+        "original_language": "ja",
+        "original_title": "ヱヴァンゲリヲン新劇場版：序",
+        "overview": "After the Second Impact, Tokyo-3 is being attacked by giant monsters called Angels that seek to eradicate humankind. The child Shinji’s objective is to fight the Angels by piloting one of the mysterious Evangelion mecha units. A remake of the first six episodes of GAINAX’s famous 1996 anime series. The film was retitled “Evangelion: 1.01” for its DVD release and “Evangelion: 1.11” for a release with additional scenes.",
+        "popularity": 77.872,
+        "poster_path": "/pETU4GurpeEjBOM8oytMH0yNBHx.jpg",
+        "release_date": "2007-09-01",
+        "title": "Evangelion: 1.0 You Are (Not) Alone",
+        "video": false,
+        "vote_average": 7.601,
+        "vote_count": 907
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3tvwsRSIDgwJuaGdh67XZ942UMy.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 16871,
+        "original_language": "en",
+        "original_title": "Drag Me to Hell",
+        "overview": "After denying a woman the extension she needs to keep her home, loan officer Christine Brown sees her once-promising life take a startling turn for the worse. Christine is convinced she's been cursed by a Gypsy, but her boyfriend is skeptical. Her only hope seems to lie in a psychic who claims he can help her lift the curse and keep her soul from being dragged straight to hell.",
+        "popularity": 77.727,
+        "poster_path": "/fdyejM5Zd6dsa0YyWa02ZAKwQzK.jpg",
+        "release_date": "2009-05-27",
+        "title": "Drag Me to Hell",
+        "video": false,
+        "vote_average": 6.422,
+        "vote_count": 3573
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 75656,
+        "original_language": "en",
+        "original_title": "Now You See Me",
+        "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+        "popularity": 77.7,
+        "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+        "release_date": "2013-05-29",
+        "title": "Now You See Me",
+        "video": false,
+        "vote_average": 7.343,
+        "vote_count": 15247
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mKEmuB7diOa7Ef0tJSGQ3fYJnNe.jpg",
+        "genre_ids": [
+            18,
+            10752
+        ],
+        "id": 600,
+        "original_language": "en",
+        "original_title": "Full Metal Jacket",
+        "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "popularity": 77.626,
+        "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+        "release_date": "1987-06-26",
+        "title": "Full Metal Jacket",
+        "video": false,
+        "vote_average": 8.133,
+        "vote_count": 10204
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+        "genre_ids": [
+            28,
+            53,
+            18
+        ],
+        "id": 522938,
+        "original_language": "en",
+        "original_title": "Rambo: Last Blood",
+        "overview": "After fighting his demons for decades, John Rambo now lives in peace on his family ranch in Arizona, but his rest is interrupted when Gabriela, the granddaughter of his housekeeper María, disappears after crossing the border into Mexico to meet her biological father. Rambo, who has become a true father figure for Gabriela over the years, undertakes a desperate and dangerous journey to find her.",
+        "popularity": 77.548,
+        "poster_path": "/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
+        "release_date": "2019-09-19",
+        "title": "Rambo: Last Blood",
+        "video": false,
+        "vote_average": 6.525,
+        "vote_count": 3752
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+        "genre_ids": [
+            14,
+            12
+        ],
+        "id": 338953,
+        "original_language": "en",
+        "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+        "overview": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+        "popularity": 77.511,
+        "poster_path": "/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg",
+        "release_date": "2022-04-06",
+        "title": "Fantastic Beasts: The Secrets of Dumbledore",
+        "video": false,
+        "vote_average": 6.668,
+        "vote_count": 4302
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
+        "genre_ids": [
+            28,
+            10749,
+            16
+        ],
+        "id": 317442,
+        "original_language": "ja",
+        "original_title": "THE LAST -NARUTO THE MOVIE-",
+        "overview": "Two years after the events of the Fourth Great Ninja War, the moon that Hagoromo Otsutsuki created long ago to seal away the Gedo Statue begins to descend towards the world, threatening to become a meteor that would destroy everything on impact. Amidst this crisis, a direct descendant of Kaguya Otsutsuki named Toneri Otsutsuki attempts to kidnap Hinata Hyuga but ends up abducting her younger sister Hanabi. Naruto and his allies now mount a rescue mission before finding themselves embroiled in a final battle to decide the fate of everything.",
+        "popularity": 77.48,
+        "poster_path": "/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg",
+        "release_date": "2014-12-06",
+        "title": "The Last: Naruto the Movie",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 1789
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gx3Iat10dc39XbDwbmdfKPsow3U.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 843,
+        "original_language": "cn",
+        "original_title": "花樣年華",
+        "overview": "In Hong Kong of 1962, Mrs. Chan and Mr. Chow, a journalist, move into neighbouring apartments on the same day. Their encounters are formal and polite—until a discovery about their respective spouses creates an intimate bond between them.",
+        "popularity": 77.468,
+        "poster_path": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+        "release_date": "2000-09-29",
+        "title": "In the Mood for Love",
+        "video": false,
+        "vote_average": 8.112,
+        "vote_count": 2595
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+        "genre_ids": [
+            10751,
+            12,
+            16,
+            18
+        ],
+        "id": 37135,
+        "original_language": "en",
+        "original_title": "Tarzan",
+        "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+        "popularity": 77.458,
+        "poster_path": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+        "release_date": "1999-06-18",
+        "title": "Tarzan",
+        "video": false,
+        "vote_average": 7.407,
+        "vote_count": 6568
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mwlLjL3jTDmTdLWe2PyUVqYQTuK.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 22803,
+        "original_language": "en",
+        "original_title": "Law Abiding Citizen",
+        "overview": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
+        "popularity": 77.454,
+        "poster_path": "/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg",
+        "release_date": "2009-10-15",
+        "title": "Law Abiding Citizen",
+        "video": false,
+        "vote_average": 7.392,
+        "vote_count": 4990
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+        "genre_ids": [
+            878,
+            18,
+            53
+        ],
+        "id": 78,
+        "original_language": "en",
+        "original_title": "Blade Runner",
+        "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+        "popularity": 77.431,
+        "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "release_date": "1982-06-25",
+        "title": "Blade Runner",
+        "video": false,
+        "vote_average": 7.937,
+        "vote_count": 13457
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xi2pblvQtCnh26SeOYzx1YX3DLT.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 1227816,
+        "original_language": "en",
+        "original_title": "Red Right Hand",
+        "overview": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+        "popularity": 77.424,
+        "poster_path": "/aQmvIr5AGcqVIzlgozQrTcIvFLg.jpg",
+        "release_date": "2024-02-22",
+        "title": "Red Right Hand",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            10752
+        ],
+        "id": 1370,
+        "original_language": "en",
+        "original_title": "Rambo III",
+        "overview": "Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
+        "popularity": 77.421,
+        "poster_path": "/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
+        "release_date": "1988-05-24",
+        "title": "Rambo III",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 3064
+    }
+]
