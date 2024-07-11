@@ -75,7 +75,8 @@ load_dotenv()
 aws_access_key_id = os.getenv('AWS_ACCESS_KEY_ID')
 aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
 aws_session_token = os.getenv('AWS_SESSION_TOKEN')
-
+tokenAPI = os.getenv('tokenAPI')
+bucketname_s3 =os.getenv('bucket_name_s3')
 
 client = boto3.client(
     service_name='s3',
@@ -85,13 +86,13 @@ client = boto3.client(
 )
 #===========================================================================================================
 
-bucket_name = "data-lake-do-nycolas"
+bucket_name = f"{bucketname_s3}"
 
 url = "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=pt-br&page=1&release_date.gte=2000-01-01&release_date.lte=2023-12-30&sort_by=vote_average.desc&vote_count.gte=100&with_genres=28"
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3YzQ3YWI1MzNjZTNiNmU0YzAyOTAyNjA0ODE4YTM3OCIsIm5iZiI6MTcyMDYyNjQ3NC4yNjkwNDksInN1YiI6IjY2ODU4ODAxZmNiY2Q3NWU3ODNiMmI4MCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.AMdEloM2NB0Ry2fFJHDfyI62lynTml6OM9b0Rz0hvMU"
+    "Authorization": f"Bearer {tokenAPI}"
     }
 
 
