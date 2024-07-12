@@ -1,0 +1,326 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            10751,
+            878,
+            16
+        ],
+        "id": 844464,
+        "original_language": "ko",
+        "original_title": "Hwarang-V samchongsa",
+        "overview": "The super-powered trio of Sky, Earth, and Typhoon attempt to rescue Princess Lanka from the King of Evil with the help of young Ae-ri.",
+        "popularity": 0.001,
+        "poster_path": "/5y4U6VZi2lbgY7LbGslyhhxoDF8.jpg",
+        "release_date": "1987-12-19",
+        "title": "Hwarang-V Trio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 825523,
+        "original_language": "en",
+        "original_title": "The Ethereal Plane",
+        "overview": "There exists another dimension you never knew was there...until now.",
+        "popularity": 0.001,
+        "poster_path": "/2njelQhU4C0e3RZrb7jKsYofIka.jpg",
+        "release_date": "2006-01-01",
+        "title": "The Ethereal Plane",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 779856,
+        "original_language": "it",
+        "original_title": "Saetta salva la regina",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/vwAiEvY78KPrUlxDZFs2Qsq6xQD.jpg",
+        "release_date": "1920-06-01",
+        "title": "Saetta salva la regina",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            28,
+            12,
+            10751,
+            14,
+            878
+        ],
+        "id": 735916,
+        "original_language": "en",
+        "original_title": "Jayce and the Wheeled Warriors: The Bloodstone",
+        "overview": "The Pride intercepts a message to Saw Boss declaring the Planet Kyros deadly to Monster Minds. A weapon there turns everything to crystal. Jayce leads everyone to the planet to find this weapon; but upon landing, he discovers it is a trap set by Saw Boss. The planet's bloodstone is being sucked dry of it's energy by a spider. Without the bloodstone's power the planet turns to crystal. Everyone is crystalized, except for Jayce who manages to stay one step ahead of the process. He destroys the spider and gives the bloodstone his strength to return the planet and people to normal.",
+        "popularity": 0.001,
+        "poster_path": "/qVcHuJNmmEpX0nBmTLlN7SRD3oW.jpg",
+        "release_date": "1986-10-23",
+        "title": "Jayce and the Wheeled Warriors: The Bloodstone",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            28,
+            12,
+            878
+        ],
+        "id": 732765,
+        "original_language": "en",
+        "original_title": "Saber Rider and the Star Sheriffs: The Star Sheriff's Betrayal",
+        "overview": "In the distant future, a team of four high tech Star Sheriffs defends frontier space colony Yuma from outlaws, as well as Outriders, an army of humanoid alien beings called Vapors, led by mysterious Nemesis, who need Yuma's resources.",
+        "popularity": 0.001,
+        "poster_path": "/6jajyUqp6CJViLG5pYJLVgpLVkb.jpg",
+        "release_date": "1987-01-01",
+        "title": "Saber Rider and the Star Sheriffs: The Star Sheriff's Betrayal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            28,
+            12
+        ],
+        "id": 731700,
+        "original_language": "en",
+        "original_title": "Karate Kat: Aristokratic Kapers",
+        "overview": "Karate Kat betrays the myth of a graceful feline in his half-hour animated series. First aired on The Comic Strip in the late '80s, The Aristokratic Kapers follows a martial arts expert who heads the McClaw Detective Agency. The crime-fighting fur ball must contend with a trio of evil-doing misfits: Sumo Cat, Burglar Cat, and Mafia Cat. Karate Kat is joined by other lively characters like Meow-Baby, Katmandu, and Cat Gut. Using his sixth sense and somewhat questionable physical prowess, Kat takes the view on a series of misadventures.",
+        "popularity": 0.001,
+        "poster_path": "/cKEQwj9rQXgCT5ytc8XLzPwxVd.jpg",
+        "release_date": "1987-01-01",
+        "title": "Karate Kat: Aristokratic Kapers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            12,
+            28
+        ],
+        "id": 719465,
+        "original_language": "en",
+        "original_title": "Jonny Quest: Time is Running Out",
+        "overview": "A board game featuring the characters from Jonny Quest as they set out to save Dr. Benton Quest from an octopus.",
+        "popularity": 0.001,
+        "poster_path": "/2UZpKfOSIeff8gebCzk8BXkWAPG.jpg",
+        "release_date": "2001-06-17",
+        "title": "Jonny Quest: Time is Running Out",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            35
+        ],
+        "id": 700353,
+        "original_language": "en",
+        "original_title": "Palm Harbor Vice 2: Brotherhood of the Monkey",
+        "overview": "In the sequel to Palm Harbor Vice, small town cops of Palm Harbor, Florida find their daily routine of setting up speed traps disrupted by a drug syndicate and a brilliant mad mad out to destroy life in their quiet community. If they're going to stop the crooks, the Vice cops must take part in a quest for law, order and a fresh box of donuts. This time with an alternate ending also.",
+        "popularity": 0.001,
+        "poster_path": "/k0pNYw687AJzNRbXIZViq8kcBch.jpg",
+        "release_date": "1993-04-10",
+        "title": "Palm Harbor Vice 2: Brotherhood of the Monkey",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 653617,
+        "original_language": "en",
+        "original_title": "Bhagwan Shri Krishna",
+        "overview": "A mythological movie about Lord Krishna that tells the tale of the prophesized killing of his tyrannical uncle, and his role in the epic battle of the Mahabharat.",
+        "popularity": 0.001,
+        "poster_path": "/zEyt61QudnqPvqVP3LWm1KOVaTX.jpg",
+        "release_date": "1985-01-01",
+        "title": "Bhagwan Shri Krishna",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            28,
+            12
+        ],
+        "id": 459124,
+        "original_language": "ja",
+        "original_title": "Miyamoto Musashi den",
+        "overview": "An early Miyamoto Musashi silent short film",
+        "popularity": 0.001,
+        "poster_path": null,
+        "release_date": "1909-05-25",
+        "title": "The Legend of Miyamoto's Valor",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7PkEz0tHOl6CPMMMsEsYgwRXHQa.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 384575,
+        "original_language": "en",
+        "original_title": "Leopard Men of Africa",
+        "overview": "Dr. Paul Hoefler, a prominent explorer, organizes an exhibition to track down a secret cannibalistic society in Africa known as the \"Leopard Men.\"",
+        "popularity": 0.001,
+        "poster_path": "/oDlKJUBRFne38GsU6ek6N6hh3jH.jpg",
+        "release_date": "1940-07-28",
+        "title": "Leopard Men of Africa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 267106,
+        "original_language": "en",
+        "original_title": "Rakshak: The Protector",
+        "overview": "Raju lives a poor lifestyle in rural India along with his parents. He meets with a wealthy city girl, both fall in love, and get married much to the chagrin of her father who decides to separate them with much success. When she gives birth to Akila, she goes to meet with Raju, but he refuses to speak with her. Now an Engineer, she is assigned the task of building a railroad bridge that is jinxed by the frequent appearance of a ferocious and fearless lion that continually preys on laborers.",
+        "popularity": 0.001,
+        "poster_path": null,
+        "release_date": "2004-01-01",
+        "title": "Rakshak: The Protector",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 234365,
+        "original_language": "fr",
+        "original_title": "Le lotus et l'épée",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/se2xsSgmtQLY6aOI8zLxB3FB3fV.jpg",
+        "release_date": "2004-11-06",
+        "title": "Le lotus et l'épée",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            18,
+            878
+        ],
+        "id": 196837,
+        "original_language": "en",
+        "original_title": "Alibaba Aur 40 Chor",
+        "overview": "Intelligent Alibaba was poor while his greedy brother Kasim was rich. One day in the forest, Alibaba discovered the magic passwords to enter the treasure cave of dacoit Zakali and his 40 thieves. Using the words, 'Open Sesame', he entered the cave, took gold coins and walked away by saying, 'Close Sesame'. Greedy Kasim tries to replicate the same but is killed by Zakali. Alibaba manages to bring Kasim's dead body outside the cave but Zakali traces the missing gold coins back to his house. Alibaba's wife Marjina manages to keep the thieves at bay for some time but Zakali enters the house in the guise of an oil merchant. he 40 thieves hide in the oil jars brought by Zakali, Do Zakali and his 40 thieves kill Aibaba and Marjina? Will Alibaba manage to outwit the thieves and avenge his brother's death?",
+        "popularity": 0.001,
+        "poster_path": null,
+        "release_date": "2004-12-10",
+        "title": "Alibaba and 40 Thieves",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "id": 87604,
+        "original_language": "en",
+        "original_title": "Duct Wars: The Rebellion",
+        "overview": "The Masked empire is growing in strength. Council members Juan Zi Nobie and Dantin must find new recruits to help fight for the Ductorian way of life.",
+        "popularity": 0.001,
+        "poster_path": null,
+        "release_date": "1999-11-05",
+        "title": "Duct Wars: The Rebellion",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            14,
+            12,
+            28
+        ],
+        "id": 1315627,
+        "original_language": "de",
+        "original_title": "Die Wikinger Saga - Die Schlachten der Seekrieger",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/hyVbWy7ursgNUc9jML8lnvMMKrT.jpg",
+        "release_date": "2013-06-17",
+        "title": "Die Wikinger Saga - Die Schlachten der Seekrieger",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

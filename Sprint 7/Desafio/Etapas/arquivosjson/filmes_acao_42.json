@@ -1,0 +1,2021 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/dTDf1YSiuiOrHw0T1ZgikC5gZw.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28,
+            53
+        ],
+        "id": 105242,
+        "original_language": "it",
+        "original_title": "Sangraal, la spada di fuoco",
+        "overview": "A swordsman's wife is murdered by followers of the evil Goddess Rani. He vows vengeance upon the cult and journeys to the Ark of the Templars to get a magic crossbow that will help him accomplish his mission.",
+        "popularity": 4.394,
+        "poster_path": "/f3mxn23uhq2xsLxTzu1n9u5s66J.jpg",
+        "release_date": "1982-11-27",
+        "title": "The Sword of the Barbarians",
+        "video": false,
+        "vote_average": 4.769,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y4ECpMFwlazy2xI5jvjfJ6cEMVc.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            53
+        ],
+        "id": 40715,
+        "original_language": "en",
+        "original_title": "Big Jim McLain",
+        "overview": "House Un-American Activities Committee investigators Jim McLain and Mal Baxter come to post war Hawaii to track Communist Party activities even though belonging to the party was legal at the time. They are interested in everything from insurance fraud to the sabotage of a U.S. naval vessel.",
+        "popularity": 4.393,
+        "poster_path": "/7Q6uk1eRinGvEo1exXWxsm8C8fu.jpg",
+        "release_date": "1952-08-30",
+        "title": "Big Jim McLain",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            14,
+            36
+        ],
+        "id": 405188,
+        "original_language": "tr",
+        "original_title": "Tarkan: Altın Madalyon",
+        "overview": "Vandal king Attila's trying to save his son kidnapped by Tarkan and stories of friends.",
+        "popularity": 4.391,
+        "poster_path": "/lKMy1LgsjbUlmc7pvnIBfKPuRHD.jpg",
+        "release_date": "1973-10-01",
+        "title": "Tarkan: The Golden Medallion",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Kk58LfV2vzciEF8VKA4qfe1C5X.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 292285,
+        "original_language": "tl",
+        "original_title": "Magic Temple",
+        "overview": "The magical world of \"Samadhi\" is threatened by the evil forces of Ravenal and Sifu sends out three teenage boys to journey on the Magic Temple. Jubal, Sambag, and Omar, each with their own unique power battle the threat to the world of Samadhi and along the way face many extraordinary things. The boys are sure to face a huge battle ahead of them but with the help of magical creatures they met along their journey, evil is eliminated and they learn the true value of camaraderie and believing in themselves to face any problem.",
+        "popularity": 4.386,
+        "poster_path": "/66Dk7XX4TasCkQbqoTrWSoYDGtl.jpg",
+        "release_date": "1996-12-25",
+        "title": "Magic Temple",
+        "video": false,
+        "vote_average": 8.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            37
+        ],
+        "id": 82727,
+        "original_language": "te",
+        "original_title": "టక్కరి దొంగ",
+        "overview": "A fearless outlaw offers to safeguard the daughter of his accomplice in return for a map to a secret diamond mine. However, his quest is compromised after a bandit gets wind of the secret map.",
+        "popularity": 4.382,
+        "poster_path": "/o0NMVdynF0qJvl7wTtblLi9GBtQ.jpg",
+        "release_date": "2002-01-12",
+        "title": "Takkari Donga",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1vPsB25k9KDalSmF4cQA09fsXf.jpg",
+        "genre_ids": [
+            53,
+            12,
+            28,
+            18
+        ],
+        "id": 72935,
+        "original_language": "ru",
+        "original_title": "В квадрате 45",
+        "overview": "An air base for forest protection is located not far from the border. A team of parachute firefighters takes off to extinguish the fire. Newcomer Valentin Volgin shows indecisiveness during his first flight and is late with his jump. Painfully experiencing his first failure, he avoids the gaze of the pretty instructor Irina Aleeva, who witnessed his unsuccessful jump. And then the team receives the task of providing assistance to the border guards, and Valentin, after a tense chase through the burning forest, overtakes and detains the saboteur.",
+        "popularity": 4.381,
+        "poster_path": "/h5VQ6kDT8MlWDKqKx3xAdzqu0hW.jpg",
+        "release_date": "1955-06-06",
+        "title": "In Square 45",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ixM0mNBr30tDI3LqSRuwFgzMmaP.jpg",
+        "genre_ids": [
+            28,
+            12,
+            10751
+        ],
+        "id": 516698,
+        "original_language": "nl",
+        "original_title": "Superjuffie",
+        "overview": "Josje, a primary school teacher, is a secret super hero saving animals: Superteacher. When animals of a zoo are in danger she has to choose: rescue them or run.",
+        "popularity": 4.379,
+        "poster_path": "/iAnXnGdV5Yn0dWIgSBnIUVvpJsd.jpg",
+        "release_date": "2018-10-10",
+        "title": "Super Miss",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ommQ7rSXfVQUoor1S1GE07YybNN.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "id": 221557,
+        "original_language": "en",
+        "original_title": "The Lawless Land",
+        "overview": "Action-adventure set in a world of the near-future, where young love is forbidden among the lower classes. Nevertheless, one couple defies their police-state world to fight and hold on to whatever love they can find.",
+        "popularity": 4.377,
+        "poster_path": "/c45AWWluV6ZuAI6kH5joKFSZF2K.jpg",
+        "release_date": "1988-01-15",
+        "title": "The Lawless Land",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2PDIwL9f06kLIB6lHwayAp2hts3.jpg",
+        "genre_ids": [
+            28,
+            12,
+            37
+        ],
+        "id": 175946,
+        "original_language": "en",
+        "original_title": "Zorro Rides Again",
+        "overview": "The California-Yucatan Railroad, being built for the good of Mexico, is under siege by a gang of terrorists hoping to force its sale; no one can prove their connection to profiteer Marsden. Manuel Vega, aged co-owner, calls in the aid of his nephew James, great-grandson of the original Zorro. Alas, James seems more adept at golf than derring-do; but after he arrives, Zorro rides again! Can one black-clad man on horseback defeat a gang supplied with airplanes and machine guns?",
+        "popularity": 4.375,
+        "poster_path": "/6FIVTAuKJYuKYnnJ8u2YAOmdoIM.jpg",
+        "release_date": "1937-11-20",
+        "title": "Zorro Rides Again",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            12,
+            16,
+            28,
+            18
+        ],
+        "id": 336800,
+        "original_language": "ja",
+        "original_title": "ハイスクールAGENT",
+        "overview": "Teenager Kanemori Kousuke is a secret agent for the international VN spy network. Using his computer hacking skills, he tracks international criminals. Later he goes after Neo-Nazis to the Arctic were they try to raise a U-boat with a sinister secret.",
+        "popularity": 4.372,
+        "poster_path": "/bh6TNFJ7qZJBqvg5x5fErv5Ek3l.jpg",
+        "release_date": "1988-02-12",
+        "title": "High School Agent",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            36
+        ],
+        "id": 126149,
+        "original_language": "ru",
+        "original_title": "Господа офицеры: Спасти императора",
+        "overview": "During the Civil War in Russia a group of White Guard officers is trying to rescue the family of the tsar Nicholas II captured by Bolsheviks. The officers face betrayal and fight a Red Army detachment sent to eliminate them. It is the Red Army commander against the head of the White Guard group. The only thing that matters is who will be the first to reach the tsar placed under arrest in Yekaterinburg...",
+        "popularity": 4.372,
+        "poster_path": "/rMhhQuOaND9vhwZYwsUEhPeDIkW.jpg",
+        "release_date": "2008-04-17",
+        "title": "Gentlemen Officers: Save the Emperor",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hAqDrBgOpt4rKVbwPknrXhpmuqD.jpg",
+        "genre_ids": [
+            28,
+            35,
+            12,
+            878
+        ],
+        "id": 389061,
+        "original_language": "ja",
+        "original_title": "国際秘密警察　絶体絶命",
+        "overview": "In Hong Kong an International Secret Police (ISP) Agent is murdered while investigating ZZZ, a group bent on assassinating the Prime Minister of Buddhabal. ISP Agents Carter and Kitami are assigned to the case. When the Prime Minister arrives in Tokyo for a friendship visit, Carter and Kitami are on hand to protect him. On hand, too, are assorted ZZZ blackguards. Several attempts on the Prime Minister's life fail, until finally the ZZZ introduces a new device designed to eliminate not only the Prime Minister but the ISP Agents as well: THE KILLING BOTTLE, then, is a pocket-sized container filled with a substance that can expand to thousands of times its size and throttle its victim, then disappear leaving only the corpse.",
+        "popularity": 4.37,
+        "poster_path": "/8kPsB0womOwBaHOqcStjtp8PTuC.jpg",
+        "release_date": "1967-02-11",
+        "title": "The Killing Bottle",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            28,
+            12
+        ],
+        "id": 1284866,
+        "original_language": "ja",
+        "original_title": "藤子·F·不二雄アニメスペシャル SFアドベンチャー T·P[タイムパトロール]ぼん",
+        "overview": "A Japanese schoolboy, Heibon, is enlisted in the efforts of the time patrol to keep the past out of trouble.",
+        "popularity": 4.369,
+        "poster_path": "/di2aHecm5JNC1HUIa4lKz9cnyRD.jpg",
+        "release_date": "1989-10-14",
+        "title": "Time-Patrol Bon: Fujiko F. Fujio Anime Special - SF Adventure",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h1zIrI2Y09bmOI1oqTANakXWnAH.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            28,
+            12
+        ],
+        "id": 802843,
+        "original_language": "en",
+        "original_title": "Super Spy Ryan",
+        "overview": "In Super Spy Ryan, Ryan is transported into an animated virtual reality world where he and his friends must become the ultimate super spies. Their mission is to recover the precious Golden Console from the clutches of a new character to the Ryan’s World universe: a nefarious hamster named The Packrat, following a glitch in the Virtual World that turns all of Ryan’s friends into babies. The show toggles between live-action, featuring scenes with Ryan and his family; and animation, featuring Ryan’s signature avatar and characters in his animated world.",
+        "popularity": 4.364,
+        "poster_path": "/v06vyZ2DEK5YQBEIwQaAGJGOrhQ.jpg",
+        "release_date": "2020-11-27",
+        "title": "Super Spy Ryan",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eXUlUCPvAOc5JrhEc3Dl1M3KiTf.jpg",
+        "genre_ids": [
+            18,
+            28,
+            12,
+            36
+        ],
+        "id": 120829,
+        "original_language": "en",
+        "original_title": "The Beloved Rogue",
+        "overview": "François Villon, in his lifetime the most renowned poet in France, is also a prankster, an occasional criminal, and an ardent patriot.",
+        "popularity": 4.362,
+        "poster_path": "/edg5jh8LPxv28REslObgb7u26N5.jpg",
+        "release_date": "1927-03-12",
+        "title": "The Beloved Rogue",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kTv6FPkT5MXBNdWNWJEjj5rMKQn.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12
+        ],
+        "id": 106583,
+        "original_language": "en",
+        "original_title": "Chase Me",
+        "overview": "While escaping a dull party, Bruce Wayne finds Catwoman robbing a vault and gives chase as Batman.",
+        "popularity": 4.362,
+        "poster_path": "/mHAQy2tbj0YfWmhzvkQeAQu8rwS.jpg",
+        "release_date": "2003-10-21",
+        "title": "Chase Me",
+        "video": false,
+        "vote_average": 6.977,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 166220,
+        "original_language": "en",
+        "original_title": "The Lion of Africa",
+        "overview": "Brooke Adams plays a woman who has to put up with Brian Dennehy's character if she wants to get across a desolate section of Africa.  They fight and naturally sparks fly.",
+        "popularity": 4.357,
+        "poster_path": "/bWAjLxhtZgdRiD2vymHe4i8difz.jpg",
+        "release_date": "1987-06-28",
+        "title": "The Lion of Africa",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cQ4c9oR85r2dy6kOYUqShvT0gs5.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 1276128,
+        "original_language": "pa",
+        "original_title": "ਨਿਦਰ",
+        "overview": "A father sends his son on a suicide mission. The son, knowing the danger, accepts for the sake of his country.",
+        "popularity": 4.355,
+        "poster_path": "/iQuRU6JQNhI3BhGc0HZgNy5kYBN.jpg",
+        "release_date": "2023-05-12",
+        "title": "Nidarr",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10751,
+            28,
+            12,
+            10402
+        ],
+        "id": 1004548,
+        "original_language": "no",
+        "original_title": "Kaptein Sabeltann og den forheksede øya",
+        "overview": "When Captain Sabertooth and his men arrive on the mysterious island of Grail, they are warned by the sorceress Miriam of Grail that the island's ruler, the Count of Grail, is evil and wants to replace Captain Sabertooth as king of the sea.",
+        "popularity": 4.353,
+        "poster_path": "/gSgdNuyWKHxmtVKYpIqfYP38glg.jpg",
+        "release_date": "2008-11-19",
+        "title": "Kaptein Sabeltann og den forheksede øya",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 895915,
+        "original_language": "ja",
+        "original_title": "悪の報酬",
+        "overview": "After finishing his sentence, Ryosuke Ogiwara, who left the prison gate, got into a car that was sent by his wife's cell and Kenmochi detective of the Metropolitan Police Department, but the real Kenmochi detective arrived a few minutes later. The corpse of the bunch went up in the moat near Akasaka, and the Metropolitan Police Department's Investigation Division 1 was colored.",
+        "popularity": 4.351,
+        "poster_path": "/bN464N8JTeW0Z4FjAxjD1zEYSJj.jpg",
+        "release_date": "1956-01-08",
+        "title": "Evil Reward",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 671037,
+        "original_language": "ja",
+        "original_title": "落日の血闘",
+        "overview": "A remake of High Noon (1952) as a Japanese jidai-geki sword-fighting movie.",
+        "popularity": 4.351,
+        "poster_path": "/mw86JQKQyLioPUwZx3ynTypJDkv.jpg",
+        "release_date": "1955-05-24",
+        "title": "Duel at Sundown",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/39JKf9Xb1zbu5VrAHaMCCmAX39G.jpg",
+        "genre_ids": [
+            28,
+            12,
+            27
+        ],
+        "id": 93018,
+        "original_language": "en",
+        "original_title": "Vigilante Force",
+        "overview": "In a small town in California, the quiet citizens find their lives disrupted by boisterous, lawless oil-field workers who have infested their community. One resident, Ben Arnold, enlists his brother Aaron, a Vietnam veteran, to assemble a group of men to restore law and order to the town. Though Aaron's crew succeeds, the newfound power goes to some of their heads, and Aaron and Ben must again reclaim the town for the citizens.",
+        "popularity": 4.351,
+        "poster_path": "/rCsOARWcU3m9dzRqA1CqCd32lqC.jpg",
+        "release_date": "1976-09-09",
+        "title": "Vigilante Force",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uT8FZDclIlRImBeYKyoOma3YGej.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            53
+        ],
+        "id": 32005,
+        "original_language": "en",
+        "original_title": "Breaking Point",
+        "overview": "\"Breaking Point\" is a dramatic tale of corruption and self-realization, in which one man has to overcome a deep-seated conspiracy and his own lingering past in order to gain the redemption he desires.",
+        "popularity": 4.349,
+        "poster_path": "/r0TnXF7KAEzGOw4q2SBQPx6pBZF.jpg",
+        "release_date": "2009-12-04",
+        "title": "Breaking Point",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            14,
+            27
+        ],
+        "id": 669239,
+        "original_language": "id",
+        "original_title": "Pendekar Ilmu Api",
+        "overview": "In a small village, a young man named Yudha revolts against ruthless, oppressive tribal chief Mahesa and his pet monster, Gordo. After Yudha is defeated and falls into a ravine, he ends up in a land of amazon women and then plots of decapitate an evil princess with death ray eyes to use as a secret weapon.",
+        "popularity": 4.346,
+        "poster_path": "/n8sb6SuI4ol9XMekcEmbjKdC0lP.jpg",
+        "release_date": "1989-01-01",
+        "title": "Fire Fighter",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7k9vXddjWZcVRuNMbaVGUCVWp3k.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 142150,
+        "original_language": "en",
+        "original_title": "Kidnapped",
+        "overview": "When Scottish young gentleman David Balfour's father dies, he leaves school to collect his inheritance from uncle Ebenezer, who in turn sells the boy as a future slave to a pirate ship. When staunch Stuart dynasty supporter Alan Breck Stewart accidentally boards the ship, he takes David along on his escape back to Edinburgh. They part and meet again repeatedly, mutually helpful against the Redcoats and respectful, although David is loyal to the English crown, but learns about its cruel oppression. Both ultimately face their adversaries.",
+        "popularity": 4.346,
+        "poster_path": "/pegmnsYtN6wRxgDFGAFZ0KRHVWs.jpg",
+        "release_date": "1995-11-05",
+        "title": "Kidnapped",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            12,
+            28,
+            14,
+            878
+        ],
+        "id": 106718,
+        "original_language": "zh",
+        "original_title": "大蛇王",
+        "overview": "A research lab has developed \"The Formula\", a box that allows living organic material to grow hundreds of times its original size.  Criminals invade the lab to steal it, but it's thrown off the side of the road.  There it's found by a girl who decides it will be the perfect home for Mosler, the snake she has adopted.  Mosler immediately outgrows the box, springing to the ground like a pile of novelty dog poo.  Gang members see the girl and her huge snake frolicking outside and put two and two together.  Mosler thwarts their first attempt to snatch her, but when they do succeed he goes on a rampage trying to find his friend",
+        "popularity": 4.346,
+        "poster_path": "/q5WzDrol5bCgxdvV4e43bNRX1dx.jpg",
+        "release_date": "1984-02-04",
+        "title": "King of Snake",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A19kry3gY9PA3NgLIZmPZJgYZOp.jpg",
+        "genre_ids": [
+            27,
+            28,
+            53,
+            12,
+            80
+        ],
+        "id": 577658,
+        "original_language": "en",
+        "original_title": "Girl Blood Sport",
+        "overview": "Chaos follows a deadly duo of maniac assassins after they host a brutal, no-holds-barred tournament inside a sinister steel cage surrounded by razor-sharp barb-wire after luring hungry, aspiring models into the backwoods of Columbus, Ohio with a prize too good to be true. Just as they turn the tide on each other, a mysterious and haunting violent vixen, literally with an ax to grind threatens their status as deadly assassins in this blood-soaked, sweat-drenched nightmare you'll never forget. Inspired by shockingly true events.",
+        "popularity": 4.344,
+        "poster_path": "/dpev3mrOR8eqtsDe64mdbs7JfHz.jpg",
+        "release_date": "2020-04-20",
+        "title": "Girl Blood Sport",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 724300,
+        "original_language": "zh",
+        "original_title": "Ruan shi san xiong",
+        "overview": "This film focuses on  three important characters  from the famous Chinese classic novel \"The water Margin \"-The three brothers, Ruan Xiaowu,  Ruan Xiaoer Ruan Xiaoqi were brothers of the original Northern Song Dynasty Shandong Prefecture of Jeju Shijie village of fishermen, all blessed with outstanding courage and martial art skills, The three brothers helped fight the oppression by the evil Minister Kao Chu and robbed his wealthy cohorts and donated their plundering’s to the cause being fought by Lin Chung and the other heroes from, “The Water Margin”. Brilliant action from both Iron monkey stars Chen Kwan Tai & Yu Rong-Guang.",
+        "popularity": 4.342,
+        "poster_path": "/g2nOjQpZYHZwEAn8N6EEqix9goG.jpg",
+        "release_date": "1984-01-01",
+        "title": "The Three Heroes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v9z8oskK6k0jGKmnXzL9RdEreuD.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 397730,
+        "original_language": "en",
+        "original_title": "Hell's Outpost",
+        "overview": "A returning Korean War vet becomes embroiled in a fight over possession of a tungsten mine.",
+        "popularity": 4.342,
+        "poster_path": "/uJLyXMwN3dq97H2FhAHX2i9itTy.jpg",
+        "release_date": "1954-12-15",
+        "title": "Hell's Outpost",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 187727,
+        "original_language": "zh",
+        "original_title": "紅粉動江湖",
+        "overview": "Spoiled Yuen Si Si, the naive daughter of an affluent merchant, lives her cosseted life dreaming of meeting her idol, the heroic Qin Ge. When her father decides to marry her off, she runs away in search of Qin Ge, with her fiancee in pursuit. What she doesn't realise though is that her kung-fu skills are not what she thinks they are and that the outside world is far less chivalrous that she expected.",
+        "popularity": 4.341,
+        "poster_path": "/5yZfYo8iy6Opf2d5a9sCHEc2ncw.jpg",
+        "release_date": "1981-12-10",
+        "title": "Ambitious Kung Fu Girl",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eFDl4Uj3qpjm703QIPc9H8Wmer.jpg",
+        "genre_ids": [
+            12,
+            18,
+            28
+        ],
+        "id": 158136,
+        "original_language": "ka",
+        "original_title": "წითელი ეშმაკუნები",
+        "overview": "Adventures of three Red Army soldiers. Misha, Duniasha and Tom Jackson, an afro-American boy, are fighting against enemies.",
+        "popularity": 4.34,
+        "poster_path": "/mu7r0tE1VSVLb9c2Q9x3ZF2jN6x.jpg",
+        "release_date": "1923-09-25",
+        "title": "Red Devils",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            28,
+            12,
+            14
+        ],
+        "id": 405049,
+        "original_language": "ja",
+        "original_title": "妖世紀水滸伝 魔星降臨",
+        "overview": "In the early 21st century, an earthquake destroyed Tokyo. Japan lost its center of government and industry, and turned into a lawless territory. Looking for his sister, Takateru Suga learns that she was kidnapped by the powerful Koryukai gang. He decides to ally himself with a drag queen, two ex-mercenaries and a nun to destroy the crime organization and save his sister!",
+        "popularity": 4.336,
+        "poster_path": "/kK8SSjBTGxQQcgi4Wl6CpyEH5DX.jpg",
+        "release_date": "1993-09-25",
+        "title": "Suikoden Demon Century",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dbqaS85ORtfJHlhyFsqiT2OQ1J.jpg",
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 203272,
+        "original_language": "en",
+        "original_title": "Tripoli",
+        "overview": "In 1805, the United States battles the pirates of Tripoli as the Marines fight to raise the American flag.",
+        "popularity": 4.336,
+        "poster_path": "/aV1N2nO6m73sbUTNxYGtXgDMMDJ.jpg",
+        "release_date": "1950-11-09",
+        "title": "Tripoli",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 30629,
+        "original_language": "de",
+        "original_title": "Lenya - Die größte Kriegerin aller Zeiten",
+        "overview": "She grows up in a village, protected by a foster mother. Her fearlessness indicates early on that heroic blood is flowing in Lenya's young veins. When her village is raided and many of her friends are murdered, she makes it her business to seek vengeance and fight for justice.",
+        "popularity": 4.336,
+        "poster_path": "/uw8TuNOxrl7O5iwEmGisMyDQYn9.jpg",
+        "release_date": "2001-11-18",
+        "title": "Lenya - Die größte Kriegerin aller Zeiten",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uaYTMRNc9jNmAjxWqHgGDJ2wmY8.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 200607,
+        "original_language": "ja",
+        "original_title": "ジャッカー電撃隊VSゴレンジャー",
+        "overview": "While investigating a UFO in the Sky Ace, J.A.K.Q. is caught off guard by the return of Iron Claw, with the Big Four now leading the remnants of Crime and the Black Cross Army.",
+        "popularity": 4.333,
+        "poster_path": "/gPlAw3vyNoRIe0OwutbULxUxOWE.jpg",
+        "release_date": "1978-03-17",
+        "title": "J.A.K.Q. Dengekitai vs. Gorenger",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/srQWcajeWMfFZh8gXEwTdFKP3vg.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35
+        ],
+        "id": 153855,
+        "original_language": "en",
+        "original_title": "Battle Of Broadway",
+        "overview": "The wealthy owner of a Pennsylvania steel business travels to New York to break up his son's romance with a showgirl. Director George Marshall's 1938 comedy stars Victor McLaglen, Brian Donlevy, Gypsy Rose Lee, Raymond Walburn, Hattie McDaniel, Lynn Bari, Robert Kellard, Jane Darwell, Andrew Tombes, Esther Muir and Frank Moran.",
+        "popularity": 4.333,
+        "poster_path": "/gY9VKCIDLzFzlhPPJ127OjaP1jA.jpg",
+        "release_date": "1938-04-22",
+        "title": "Battle Of Broadway",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 220763,
+        "original_language": "en",
+        "original_title": "Land of Giants",
+        "overview": "\"Land of Giants\" is a creative mix of the apocalyptic science-fiction, western and martial arts genre. After the storm reduced our world to ruins, the Giants came to us, to punish those who would ever again lay their hands on the magic called \"Electricity\". A long time ago Crutch (Mathis Landwehr) challenged the Gigants anger. His destroyed knee won't let him forget the day, they took everything from him. So he ventured out to hunt and kill them.",
+        "popularity": 4.331,
+        "poster_path": "/iGnDperoQD3nqnplO3S8htPZTn5.jpg",
+        "release_date": "2013-03-09",
+        "title": "Land of Giants",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7tZp26mx5waMVL0CHg7XwIG8kUG.jpg",
+        "genre_ids": [
+            12,
+            28,
+            80
+        ],
+        "id": 822368,
+        "original_language": "ja",
+        "original_title": "新・極道の紋章3",
+        "overview": "\"Why Yakuza still grows in this nation? The secret is in its soil.\"  Starring Koji Matoba,this is the third story of this series.  The former head of the Yamakura group returned to their side as a member of the Minobe group. Its opponent organization launched the Kanto Seido Mutsuchi Kyokai to fight again them.  Born as the son of a gang member, Raizo lived a strong life. One day, he then takes a step in the world of the Sula for revenge, treachery and deceit will be repaid in blood....",
+        "popularity": 4.33,
+        "poster_path": "/o2Bfuz0e2gmYqjnF5X1kbI4Csew.jpg",
+        "release_date": "2014-12-05",
+        "title": "New Gang Emblem 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/deuTqm57E9R5YrPcYxdUJguJSyU.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 208269,
+        "original_language": "en",
+        "original_title": "Outpost in Morocco",
+        "overview": "Captain Gerard, greatest lover in the Foreign Legion, is assigned to escort an emir's daughter to her father's mountain citadel and find out what he can about the emir's activities. Gerard enjoys his work with lovely Cara, but arrives to find rebellion brewing.",
+        "popularity": 4.33,
+        "poster_path": "/xtUplP8tQgCeSdLJKGGGjGdIfG3.jpg",
+        "release_date": "1949-05-02",
+        "title": "Outpost in Morocco",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            28,
+            35,
+            12
+        ],
+        "id": 854177,
+        "original_language": "en",
+        "original_title": "Star Wars: Rogue Seven - A Star Wars Fan Film",
+        "overview": "A young thief named Zav Kassim must help a group of X-Wing pilots battle an Imperial armada and an overconfident bounty hunter.",
+        "popularity": 4.328,
+        "poster_path": "/jge4uDqXllZ9fZMomOxuHzayZON.jpg",
+        "release_date": "2020-04-27",
+        "title": "Star Wars: Rogue Seven - A Star Wars Fan Film",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uWAwgcCxiAkiuRbcycO25JEosdw.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 88518,
+        "original_language": "en",
+        "original_title": "Angel of Destruction",
+        "overview": "Undercover cop Jo Alwood is out to avenge her sisters death at the hands of a serial killer.",
+        "popularity": 4.325,
+        "poster_path": "/977SQSeEt4l8mg0ravCtt3H6zIB.jpg",
+        "release_date": "1994-01-01",
+        "title": "Angel of Destruction",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            10770
+        ],
+        "id": 1025757,
+        "original_language": "en",
+        "original_title": "High Mountain Rangers",
+        "overview": "Action adventure set in the High Sierra country involving an intrepid ranger who has come out of retirement and, with the special squad he has created, leads the search for a vicious escaped convict who had returned to the mountains. This TV-movie pilot aired nearly a year before the short-lived subsequent series began.",
+        "popularity": 4.323,
+        "poster_path": "/hiCV7yIegCUuki5XBTXdtBBZrTw.jpg",
+        "release_date": "1987-04-19",
+        "title": "High Mountain Rangers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hbvaDeqjxbnJG7AxWG6ZCdEuGhR.jpg",
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 481215,
+        "original_language": "en",
+        "original_title": "D.H.A.R.M.A. 9",
+        "overview": "A band of misfits are trained by a secret government agency bent on taking down a rogue set of villains, each with their own unique set of abilities and skills. Loads of kung fu action in this memorable tale you'll long remember!",
+        "popularity": 4.323,
+        "poster_path": "/3WiRPL3rdEYAS8iZgbxlAkz55KX.jpg",
+        "release_date": "2017-10-14",
+        "title": "D.H.A.R.M.A. 9",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zlkpeTxwIio7yLWRXZEDKBMDkV6.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 86509,
+        "original_language": "en",
+        "original_title": "Jungle Fever",
+        "overview": "A group of models fly into the jungle of some South American country to look for a photo location. Their plane is shot down and they are captured by a drug baron's private army. At the same time, the Mafia's representative arrive to negotiate future collaboration.",
+        "popularity": 4.323,
+        "poster_path": "/cLRpfSFOiQTqAgFlGa9wTArkKaL.jpg",
+        "release_date": "1984-05-11",
+        "title": "Jungle Warriors",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            36,
+            28,
+            12,
+            18
+        ],
+        "id": 467717,
+        "original_language": "zh",
+        "original_title": "旋風劍客",
+        "overview": "Two halves of a treasure map owned by two brothers is the one thing that the Golden Dragon Gang wants to get, and they'll kill anyone who gets in their way. When the gang quickly dispenses with the two brothers in a blitz home invasion, their third brother, returning from ten years of wandering, arrives and teaches the gang a lesson they'll never forget--that is, if they survive at all!  Henchman after henchman gets filleted like a brook trout as our hero literally cuts his way through a jungle of sword-wielding thugs, a trio of fancy-weapon gang leaders, and a masked ninja assassin that's killing people on both sides. Who will be left alive to claim the treasure? Find out in this high body-count wuxia classic.",
+        "popularity": 4.322,
+        "poster_path": "/8t7vhBE6z7RwoJZOsfDXqwEcYUR.jpg",
+        "release_date": "1969-07-19",
+        "title": "The Whirlwind Knight",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 221049,
+        "original_language": "cn",
+        "original_title": "师父出马",
+        "overview": "Master Yu is invited to Los Angeles to take on numerous fighters in a Kung Fu contest. He beats all comers and this angers a local mob boss who lost a great deal of money on illegal betting…",
+        "popularity": 4.321,
+        "poster_path": "/xii9fHhUXlo2Hb47I1T7A2YpAjr.jpg",
+        "release_date": "1979-10-11",
+        "title": "The Old Master",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9e9WbVlxNvacvfPYW9BjPj0wiNb.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 13124,
+        "original_language": "ja",
+        "original_title": "けんか空手 極真無頼拳",
+        "overview": "Masutatsu Oyama is recruited by his former Army friend to work for a crew of gangsters, but when they kill both his girlfriend and his best friend, Oyama flees away to a small town where he both learns lessons in martial arts philosophy from a wandering master and helps a young boy take on a challenge to fight a ferocious captured bear to win money for the boy's injured father.",
+        "popularity": 4.319,
+        "poster_path": "/uVfTKtwjTgiu7HdK7rUEkApQkRU.jpg",
+        "release_date": "1975-12-27",
+        "title": "Karate Bear Fighter",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7DgamIfbA52DbH27urAbE4O3Puo.jpg",
+        "genre_ids": [
+            12,
+            28,
+            14
+        ],
+        "id": 328337,
+        "original_language": "he",
+        "original_title": "גאליס: המסע לאסטרה",
+        "overview": "Galis - The Journey to Astra is a high-quality adventure film for children. The movie operates on two levels - as a suspenseful, entertaining fairytale, and as a coming-of-age story. Yonatan is at the height of his glory as the chosen one , but as always, there is only enough room at the top for one, and Yonatan has left all of his friends behind. When he finds himself in an alien world called Astra - Yonatan feels compelled to prove his abilities as a leader, and prove that he is the chosen one on Astra as he is on Earth. But through his Journey Yonatan will realize that this vanity is stopping him from listening to the people closest to him and the lost could be crucial..",
+        "popularity": 4.317,
+        "poster_path": "/9gR1qKWkj7myyJXRd2tfg4WDK10.jpg",
+        "release_date": "2014-08-07",
+        "title": "Galis: The Journey to Astra",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ySTPzXxJa7wPeC5SSxZRvmvhh3i.jpg",
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 210360,
+        "original_language": "it",
+        "original_title": "La furia dei barbari",
+        "overview": "In an imaginary northern European country during the High Middle Ages, two leaders of a barbarian village fight to gain power: one is good and right and the other is an evil selfish. Who will have it?",
+        "popularity": 4.317,
+        "poster_path": "/7s9SE71v5LUNH0mVXJJFu0MXTQ7.jpg",
+        "release_date": "1960-10-26",
+        "title": "Fury of the Pagans",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35,
+            12,
+            878
+        ],
+        "id": 187916,
+        "original_language": "ja",
+        "original_title": "ネット版 仮面ライダー×スーパー戦隊 スーパーヒーロー大変 ～犯人はダレだ？！",
+        "overview": "Kamen Rider x Super Sentai: Superhero Taihen – Hannin wa Dare da?! (Superhero Disaster) are a series of non-canon net movies that deal with murder mysteries involving deaths of Super Sentai and Kamen Riders, uncovering hidden circumstances behind the Super Sentai and Kamen Rider, and more.",
+        "popularity": 4.316,
+        "poster_path": "/nSxkaB6sxeyN5W7OTJC6PPGTu6q.jpg",
+        "release_date": "2012-04-01",
+        "title": "Kamen Rider × Super Sentai: Super Hero Trouble – Who’s the culprit?!",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4uM9ZxGzhbGxi3RODUbfmpG9iux.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            10751
+        ],
+        "id": 61871,
+        "original_language": "en",
+        "original_title": "Big Red",
+        "overview": "Wealthy sportsman James Haggin (Walter Pidgeon) lives on a Quebec estate called Wintapi. Émile Fornet (Émile Genest), handler of Haggin's hunting dogs, and Émile's wife Therese (Janette Bertrand), Haggin's cook and housekeeper, live in a separate house on the estate. To start a line of top show dogs, Haggin purchases the winner of the Montreal Kennel Club show, an Irish setter named Red.",
+        "popularity": 4.316,
+        "poster_path": "/oFE9DlcfKkOUxQMa3LLLPVomxRk.jpg",
+        "release_date": "1962-06-06",
+        "title": "Big Red",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jsn1EtDB6UPgWJ5mR7WxLfV3ugr.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 617676,
+        "original_language": "el",
+        "original_title": "Τσακιτζής: Ο Προστάτης των Φτωχών",
+        "overview": "",
+        "popularity": 4.315,
+        "poster_path": "/tph0Sy3NP0Y1b4dnxZbdVyTnycx.jpg",
+        "release_date": "1960-01-01",
+        "title": "Tsakitzis: The Patron Saint of the Poor",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            28,
+            18
+        ],
+        "id": 343014,
+        "original_language": "it",
+        "original_title": "Le sette spade del vendicatore",
+        "overview": "In this costume adventure, a dashing swordsman helps protect Philip III of Spain from the traitors trying to overthrow him.",
+        "popularity": 4.315,
+        "poster_path": "/bgXxPrlLvodvtRPYhs2kl7jt26V.jpg",
+        "release_date": "1962-10-29",
+        "title": "The Seventh Sword",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jwQVXvWkm4lxXbCmRSXdBUttyE9.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878,
+            53
+        ],
+        "id": 18291,
+        "original_language": "en",
+        "original_title": "Cyborg Soldier",
+        "overview": "A cyborg escapes the facility where he was created. With the help of a local sheriff, he tries to run from the dangerous scientists that created him.",
+        "popularity": 4.313,
+        "poster_path": "/uyGO12Cy3l1Udz4MYITXKllAPU9.jpg",
+        "release_date": "2008-07-10",
+        "title": "Cyborg Soldier",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z5fIkBOKXMPQcYgLTtnTL7pOrgt.jpg",
+        "genre_ids": [
+            18,
+            28,
+            12
+        ],
+        "id": 183195,
+        "original_language": "ru",
+        "original_title": "В мирные дни",
+        "overview": "A few days from the life of Soviet submariners - during a regular peaceful time...",
+        "popularity": 4.312,
+        "poster_path": "/mi3619VjiIYk7PKL9iYbwNIAOUa.jpg",
+        "release_date": "1950-06-06",
+        "title": "In Peaceful Time",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h6OTb41mDekReOaQU4MSQRNGH8N.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 675827,
+        "original_language": "es",
+        "original_title": "Los hijos de San Luis",
+        "overview": "",
+        "popularity": 4.311,
+        "poster_path": "/9iI5nEHTXC2Xa1kXtgxZXpDH8rZ.jpg",
+        "release_date": "2020-02-21",
+        "title": "The Sons of Saint Louis",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gEloRAwShW5VpoR6lo1mAuv54Dq.jpg",
+        "genre_ids": [
+            28,
+            12,
+            16
+        ],
+        "id": 155765,
+        "original_language": "ja",
+        "original_title": "幻想魔伝 最遊記 Requiem 選ばれざる者への鎮魂歌",
+        "overview": "The Sanzo party has always been haunted by the past. And they've always been able to deal with their ghosts. But when they enter the House Of Dougan, they may have met their match. Lured to the mysterious shrine by a beautiful girl, Sanzo, Goku, Gojyo, and Hakkai become ensnared in a trap of dangerous shikigami, murderous doppelgangers, and a malevolent monster who has destroyed his own soul for a demented purpose. Don't miss this stunningly animated full-length motion picture, starring the coolest cast of demon hunters in the history of anime!",
+        "popularity": 4.307,
+        "poster_path": "/nU4Nagcc8vKtUer3xSAFgM5EW9J.jpg",
+        "release_date": "2001-08-18",
+        "title": "Gensomaden Saiyuki Requiem: For the One Not Chosen",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            27,
+            14
+        ],
+        "id": 107392,
+        "original_language": "zh",
+        "original_title": "小俠龍捲風",
+        "overview": "Action packed vampire kung fu movie produced by Joseph Kuo. Jack Long portrays a fighting Taoist priest, who helps with the aid of his disciples to reunite a baby vampire with his parents from the \"King of Evil\", who has captured the young hopper to enhance his own powers.",
+        "popularity": 4.307,
+        "poster_path": "/iq8zeotrIDwjViRgnISwEwHJQ87.jpg",
+        "release_date": "1988-12-09",
+        "title": "Chess Boxing Matrix",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 385240,
+        "original_language": "es",
+        "original_title": "Alerta, alta tension",
+        "overview": "After a criminal gang kidnaps a scientist with valuable information about nuclear weapons, an undercover agent named Jorge Rubio tries to infiltrate this gang in order to deal with the situation. The gang, however, quickly unmasks Rubio and uses both brainwashing and torture techniques on him. They also create a clone of Rubio, thus setting up a show-down battle between the two look-alikes.",
+        "popularity": 4.304,
+        "poster_path": "/htRhHo7IorZf1Hi4hpqFYAK8gdt.jpg",
+        "release_date": "1969-02-13",
+        "title": "Alerta, alta tension",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lBMEUsxVG5t4i9GivrSmquUPo6s.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 710571,
+        "original_language": "zh",
+        "original_title": "风流弯刀",
+        "overview": "A mysterious masked venom clan wreak havoc in the martial world as feuds erupt over a the coveted dazzling scimitar.  Superb Taiwan swordplay action Venoms style.",
+        "popularity": 4.303,
+        "poster_path": "/e376toYiipllPDqUiZYv07Rp9Ee.jpg",
+        "release_date": "1981-05-20",
+        "title": "The Knight of the Dazzling Scimitar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1LdYlmoEYLtF7ZgJ9yLfVj5dHJs.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 210948,
+        "original_language": "ja",
+        "original_title": "紫頭巾",
+        "overview": "Kataoka Chiezo stars as Murasaki Zukin, a mysterious hero of the people who helps those in need. Now under the rule of the evil Tanuma, the people look to Murasaki Zukin more than ever, to confront and punish those who bring misfortune upon the commoners. Will he be able to bring peace to the land? One of the greatest actors from Toei Studios, known mainly for his swashbuckling roles as powerful swordsmen such as Ryunosuke in SOULS IN THE MOONLIGHT, he appeared in 325 films both before and after the war, beginning with CHUSHINGURA in 1928, and including KUNISADA CHUJI in 1933, and DOKUGANRYO MASAMUNE. While best known for his swordplay, Chiezo really did not enjoy the action, but was able to use his menacing presence to stare down his adversaries. Although Kataoka Chiezo passed away in 1983 at the age of 79, he still has many fans today. This film shows him at his best.",
+        "popularity": 4.302,
+        "poster_path": "/7wNBQikOJIuarXK2Gn50PgnDIJA.jpg",
+        "release_date": "1958-10-29",
+        "title": "The Purple Hood",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            18,
+            10749
+        ],
+        "id": 930424,
+        "original_language": "zh",
+        "original_title": "黑匣喋血记",
+        "overview": "",
+        "popularity": 4.301,
+        "poster_path": "/jhMPA5NAfB7blwcytXya8M4HSm3.jpg",
+        "release_date": "1986-02-06",
+        "title": "The Little Black Box",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            10752
+        ],
+        "id": 222351,
+        "original_language": "en",
+        "original_title": "Field of Fire",
+        "overview": "Sergeant Thomas Duncan takes his men behind enemy lines to recover a secret government fighter copter and its pilot, a secret weapon all his own. But once stationed in the dense jungle brush of Vietnam, their radio goes out all hope of contacting their home base is out, and it is up to Duncan and his men to get to the hook up point by the agreed time. A traitor in the home camp is sending messages to the enemy side; Duncan must hurry!",
+        "popularity": 4.301,
+        "poster_path": "/lFQBT9W2SLobujhM27MAJ9349xu.jpg",
+        "release_date": "1991-01-01",
+        "title": "Field of Fire",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            28,
+            12
+        ],
+        "id": 117871,
+        "original_language": "es",
+        "original_title": "Zindy, el niño de los pantanos",
+        "overview": "The story is about a fugitive who lives apart from society in a jungle area with the company of his grandson",
+        "popularity": 4.298,
+        "poster_path": "/2v6P2kobyavRkRAQHkOzBrWsa4A.jpg",
+        "release_date": "1973-05-03",
+        "title": "Zindy, the Swamp Boy",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            37,
+            12
+        ],
+        "id": 569230,
+        "original_language": "es",
+        "original_title": "Los Desalmados",
+        "overview": "",
+        "popularity": 4.297,
+        "poster_path": "/j0lh1fl2PwAiuV45FvhqeKh3tQe.jpg",
+        "release_date": "1971-06-17",
+        "title": "Los Desalmados",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dLLFPTbb5Sm3t29D50Nxsz6e0C1.jpg",
+        "genre_ids": [
+            12,
+            18,
+            28
+        ],
+        "id": 1296173,
+        "original_language": "en",
+        "original_title": "Upanga Kingdom",
+        "overview": "In corrupt Upanga, French botanist Claiborne seeks a cure for his wife. He clashes with a ruthless leader & forms a fragile alliance with a local woman. As a fearless teen fights oppression, can they unite to heal the land?",
+        "popularity": 4.295,
+        "poster_path": "/Am2TTeESwQ7hrBhlnJCshPgbpz1.jpg",
+        "release_date": "2024-06-29",
+        "title": "Upanga Kingdom",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mHd2r8ddLuXgnL0SYPDwWmA64Lp.jpg",
+        "genre_ids": [
+            18,
+            28,
+            12,
+            10751
+        ],
+        "id": 529773,
+        "original_language": "az",
+        "original_title": "Kölgələr Sürünür",
+        "overview": "",
+        "popularity": 4.292,
+        "poster_path": "/a9x7ID7hszYzJE2fBzYG8WLOwwd.jpg",
+        "release_date": "1958-09-26",
+        "title": "The Shadows are Crawling",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            80,
+            28
+        ],
+        "id": 452649,
+        "original_language": "es",
+        "original_title": "Capos de Almoloya",
+        "overview": "A drug cartel boss keeps control over his empire while in prison.",
+        "popularity": 4.292,
+        "poster_path": "/i7xmkjIPEeVihFVH4Zg2DAvTzHt.jpg",
+        "release_date": "1997-01-01",
+        "title": "Capos de Almoloya",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2dilfaNRyB608qSfZgWQOQoeSrx.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 57707,
+        "original_language": "ja",
+        "original_title": "牙狼之介 地獄斬り",
+        "overview": "Kiba Okaminosuke finds himself entangled with a group of prisoners being transported to their executions, one of whom oddly looks exactly like his dead father. There are crooked gold miners, a beautiful girl who is unfortunately a complete lunatic and a dojo master who is obsessed with killing Kiba just to prove that his school's sword style is the best.",
+        "popularity": 4.292,
+        "poster_path": "/bFWruTccbJKDpw8hJDfsz8TIlgL.jpg",
+        "release_date": "1967-05-13",
+        "title": "Samurai Wolf II",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ZRqeB9uurxQswNQXf2ZkDmyEUH.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 3692,
+        "original_language": "it",
+        "original_title": "New York chiama Superdrago",
+        "overview": "A series of murders in Michigan lead an American secret agent to Amsterdam, where he uncovers a plot to imperil the world with a potent new drug.",
+        "popularity": 4.292,
+        "poster_path": "/a9hyX0Pj7ZOGrXEf1Epnp0KWk5M.jpg",
+        "release_date": "1966-02-17",
+        "title": "Secret Agent Super Dragon",
+        "video": false,
+        "vote_average": 3.441,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            99
+        ],
+        "id": 20311,
+        "original_language": "en",
+        "original_title": "Love the Beast",
+        "overview": "What if you were a Hollywood movie star with an obsession for cars and racing? Eric Bana is such a star!",
+        "popularity": 4.289,
+        "poster_path": "/wS07CFqr1mmAqBYgMiObGgN7mHt.jpg",
+        "release_date": "2009-03-12",
+        "title": "Love the Beast",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6gfQmTZszopcQm8Lzp6R4fJfPP6.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            10751,
+            10770
+        ],
+        "id": 60713,
+        "original_language": "en",
+        "original_title": "Captains Courageous",
+        "overview": "Harvey Cheyne, Jr., second richest person in the world, orphaned and spoiled rotten, encounters a cigar and the sea on his way to England for boarding school. Seasick, over the rail for real, rescued by Dan Troop of a Gloucester fishing sailboat. Three months at sea, under a firm but fair Captain Troop (fair wages of $10.50 a month, if you don't work you don't eat). A hard life and a dangerous one, and a lot of growing up to do through hardship and tragedy.",
+        "popularity": 4.287,
+        "poster_path": "/ab5fAOedU84zGrJ7uzZfhDygUpl.jpg",
+        "release_date": "1996-04-21",
+        "title": "Captains Courageous",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AfAV6zgutN9DhdYA0du4LYMnDn5.jpg",
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 40248,
+        "original_language": "nl",
+        "original_title": "Ballistica",
+        "overview": "A man has been trained in a deadly form of hand-to-hand combat using ballistics and firearms. He is one of the few Americans who has perfected it, which makes him the CIA's best weapon against International Terrorism.",
+        "popularity": 4.286,
+        "poster_path": "/9ZfJzmDdIxhXIHMBX4VPhXR3QoU.jpg",
+        "release_date": "2009-12-18",
+        "title": "Ballistica",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lpNuYbQ7QoTE0VZdscYp428Xj16.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            10751
+        ],
+        "id": 43037,
+        "original_language": "en",
+        "original_title": "Kidnapped",
+        "overview": "Kidnapped and cheated out of his inheritance, young David Balfour falls in with a Jacobite adventurer, Alan Breck Stewart. Falsely accused of murder, they must flee across the Highlands, evading the redcoats.",
+        "popularity": 4.285,
+        "poster_path": "/5aMT9Mkkqx1q9JhDmAX5ydcSTrK.jpg",
+        "release_date": "1960-02-24",
+        "title": "Kidnapped",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            14,
+            28,
+            12
+        ],
+        "id": 705329,
+        "original_language": "zh",
+        "original_title": "五龙镇棺传",
+        "overview": "Thousands of years ago, the cruel Simo tribe made a crystal coffin out of meteorites outside, trying to use its mysterious power to expand its power. Unexpectedly, the rebellion inside the door detonated the mysterious power of the crystal coffin. The ancient country was razed to the ground overnight.",
+        "popularity": 4.284,
+        "poster_path": "/6Add111iSg9QsBSJecLDCYF97sh.jpg",
+        "release_date": "2020-05-15",
+        "title": "Five Dragon Town Coffin Biography",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 234153,
+        "original_language": "lv",
+        "original_title": "Pats garākais salmiņš",
+        "overview": "Post-war Latvia. Francis' gang operates in a small town and the new KGB agent Juris Vilks has been asked to infiltrate his gang and gain his confidence.",
+        "popularity": 4.28,
+        "poster_path": "/v2PrjGFoLkzpOuXDR8qEfQMJlSM.jpg",
+        "release_date": "1982-01-01",
+        "title": "The Longest Straw",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jDMWp5AEq6imhwf4zVxPvvaqOMd.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            878
+        ],
+        "id": 491123,
+        "original_language": "en",
+        "original_title": "Children of Ether",
+        "overview": "Follow Rhonda, a woman with a dark past and a mysterious power, as she is pursued by an unknown assailant after the death of her father. Aided only by her wits and a pair of orphans, she journeys through a decaying, dystopian metropolis populated by raiders, gangs, and the supernatural. As she struggles to survive in this harsh urban tangle, she meets both friends and enemies, and searches for answers about this power, \"The Ether\", awakening within her.",
+        "popularity": 4.278,
+        "poster_path": "/rRhRIap0qrNWZC4GrkplR7mf68O.jpg",
+        "release_date": "2017-11-29",
+        "title": "Children of Ether",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kICozB5A7MSiVUuSemHACDfkOpr.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 207790,
+        "original_language": "it",
+        "original_title": "I tartari",
+        "overview": "The Tartars and the Vikings maintain a fragile peace in the harsh landscape of the Russian Steppe. When the leader of the Vikings, Oleg, declines to accompany the Tartars on a campaign against the Slavs, there is an explosion of violence. After Oleg kills the Tartar leader and kidnaps his daughter, the dead man's brother, Burandai, retaliates by holding Oleg's wife, Helga, hostage. The stalemate can be resolved only on the battlefield.",
+        "popularity": 4.276,
+        "poster_path": "/as54CbqUCiXOF3fTwz0s7w8ovqX.jpg",
+        "release_date": "1961-04-01",
+        "title": "The Tartars",
+        "video": false,
+        "vote_average": 5.389,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            28,
+            12
+        ],
+        "id": 291999,
+        "original_language": "en",
+        "original_title": "In The Blood",
+        "overview": "Film starring Tyssen Butler, Robin Hurt, Theodore Roosevelt, R.L. Wilson, Webster Kalipswa, Ray Stanley",
+        "popularity": 4.275,
+        "poster_path": "/hDaDjNchaSn4Xr8bgFDPzPp45Dr.jpg",
+        "release_date": "1989-09-09",
+        "title": "In The Blood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iigTKX5POBq76BZHq7KTXnViO8k.jpg",
+        "genre_ids": [
+            18,
+            28,
+            12
+        ],
+        "id": 976068,
+        "original_language": "ku",
+        "original_title": "سڵاو پێشمەرگە",
+        "overview": "It is the story of a foreign reporter who accompanies Kurdish rebels (Peshmerga) forces reporting on their national movement against the former dictatorship in Iraq. The government is informed about this and attacks the mountainous area to arrest her. What will the Peshmerga do?",
+        "popularity": 4.274,
+        "poster_path": "/hoGME4fU8Yejy2Fk3kwmulwvDAK.jpg",
+        "release_date": "2016-05-15",
+        "title": "Behind the Clouds: Salute to Peshmerga",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 525493,
+        "original_language": "tr",
+        "original_title": "Bin Defa Ölürüm",
+        "overview": "",
+        "popularity": 4.274,
+        "poster_path": "/fTyVO1GllA81oN3TcRhm9uOLXuN.jpg",
+        "release_date": "1985-04-01",
+        "title": "Bin Defa Ölürüm",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            18,
+            10749,
+            37
+        ],
+        "id": 20893,
+        "original_language": "en",
+        "original_title": "Shadowheart",
+        "overview": "James Conners comes home to the town of Legend, New Mexico in 1865 to avenge his fathers death against the ruthless Will Tunney. Along the way he re-captures his long lost love Mary Cooper. With the chance to take Will Tunney he must choose revenge or redemption.",
+        "popularity": 4.274,
+        "poster_path": "/tOX5OHzHsIpm525hjfrrIzUhvDp.jpg",
+        "release_date": "2009-08-04",
+        "title": "Shadowheart",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 485264,
+        "original_language": "zh",
+        "original_title": "不共戴天",
+        "overview": "Top star, Chang Yi plays a swordsman, who is out to avenge his father and uncle. The story starts with a lecherous young master who wants to rape the daughter of Chang Yi's uncle. When they resist, the young master and his goons kill the uncle. Chang Yi appears and kills the young master and his goons. The young master's father goes to Chang Yi's home to take revenge and kills his father in the process",
+        "popularity": 4.273,
+        "poster_path": "/3URv2qnBhB6H5AsxhFGIaJTww5C.jpg",
+        "release_date": "1972-07-21",
+        "title": "Filial Son",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            27
+        ],
+        "id": 259075,
+        "original_language": "it",
+        "original_title": "Bermude: la fossa maledetta",
+        "overview": "When Andres and his partner are hired to recover some valuables from an airplane that went down in the Bermuda Triangle, they face not only human treachery but also the mysterious powers of an underwater civilization.",
+        "popularity": 4.272,
+        "poster_path": "/lIzU1LjArriHn5uR4TABgqIml7h.jpg",
+        "release_date": "1978-06-28",
+        "title": "Cave of the Sharks",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            12,
+            28
+        ],
+        "id": 167947,
+        "original_language": "ja",
+        "original_title": "Makyo Gaiden Le Deus",
+        "overview": "In a post-apocalyptic world, the treasure hunter Riot and his pretty sidekicks are searching for Eyes of Zalem, which they hope will guide them to Rido, the treasure of a long-lost Quall civilization. A limitless energy source, the Rido has the power to even restore life; but unfortunately for Riot, the evil Demsters are after it too. If he is to bring his sister back to life, Riot must pit his skill and cunning against the ruthless enemy army in a race for the lost treasure.  Source: Anime-Planet",
+        "popularity": 4.27,
+        "poster_path": "/bXGjzKodfGKH5xBbAKbSjFD2Sc6.jpg",
+        "release_date": "1987-11-30",
+        "title": "Ladius",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/IrB95jMwVsRmI00mSSIm08jvjJ.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 839829,
+        "original_language": "id",
+        "original_title": "Ben & Jody",
+        "overview": "Two best friends band together with a group of villages to fight back against treacherous illegal loggers attempting to take away their land.",
+        "popularity": 4.267,
+        "poster_path": "/1zpRGNnbeMoDs300hqwAL0awiq6.jpg",
+        "release_date": "2022-01-27",
+        "title": "Ben & Jody",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gKAcNQjpFO10GF96FeXTyjASSfr.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 198954,
+        "original_language": "zh",
+        "original_title": "天下第一劍",
+        "overview": "A great \"swordfighter\" learns humility after he is defeated by a master martial arts monk. But his reputation always precedes him, leading to danger, destruction, challenges, cruelty, kidnapping, and killing.",
+        "popularity": 4.265,
+        "poster_path": "/7YGmhrOnzCSY3eQthvk2LzGwwTW.jpg",
+        "release_date": "1968-12-11",
+        "title": "The Fastest Sword",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 245498,
+        "original_language": "en",
+        "original_title": "Lost on Mars",
+        "overview": "Lost on Mars is a science fiction movie directed by Eric Shook. The first ship designed to go to Mars is scheduled for a routine planetary space exploration. The mission is drastically changed once Earth receives a strange signal transmitted by a probe on Mars.  The Sequel to Lost on mars is\" Empire of Danger\"",
+        "popularity": 4.262,
+        "poster_path": null,
+        "release_date": "2002-12-25",
+        "title": "Lost on Mars",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 984563,
+        "original_language": "id",
+        "original_title": "Si Buta dari Gua Hantu: Sorga yang Hilang",
+        "overview": "In a forest in Mount Bromo, Badra, the Blind Fighter, finds a woman on a stretcher, attacked by a group of villains. Badra quickly acts. Upon her death, the woman asks Badra to take care of the children. So he finds the father of the children. On the way, he is ambushed by his arch enemy and is hurt. The king helps him to recover, then he meets again with his arch enemy.",
+        "popularity": 4.261,
+        "poster_path": "/vE8h5Fmt99ridITY17EnfA9MItI.jpg",
+        "release_date": "1977-05-31",
+        "title": "The Blind Man from Ghost Cave: Lost Paradise",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            35,
+            18,
+            10751
+        ],
+        "id": 50417,
+        "original_language": "en",
+        "original_title": "Street Dreams",
+        "overview": "Derrick Cabrera, like all skateboarders, dreams of being sponsored one day. He has all the talent in the world to make it happen but some major roadblocks to overcome before he can make the dream a reality.",
+        "popularity": 4.261,
+        "poster_path": "/lu7BaXyDvZgAV2c7uWRo49Xk5bU.jpg",
+        "release_date": "2009-06-12",
+        "title": "Street Dreams",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            28,
+            12
+        ],
+        "id": 359588,
+        "original_language": "es",
+        "original_title": "El cuatrero",
+        "overview": "Gambler-horsethief-womanizer ends up hiding out in a church-run orphanage. Spiritual regeneration stuff happens.",
+        "popularity": 4.26,
+        "poster_path": "/sZ7YDTCRCeW0FVMJs4Gpq2ZwBjt.jpg",
+        "release_date": "1989-09-28",
+        "title": "El cuatrero",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            10770
+        ],
+        "id": 220341,
+        "original_language": "en",
+        "original_title": "The Diamond Trap",
+        "overview": "When streetwise Manhattan police detectives Rawlings (Howard Hesseman) and Brendan Thomas (Ed Marinaro) discover a major diamond heist is about to go down at a renowned gallery, they enlist one of their suspects, gallery employee Tara Holden (Brooke Shields). But an attempt to foil the robbery explodes with deadly consequences for Tara. Committed to break the case, Rawlings relentlessly pursues the clues through a twisted maze of deceit and danger that takes him to England, where he and Scotland Yard detecive Charlie Lawson expose the ultimate con and solve the crime.",
+        "popularity": 4.259,
+        "poster_path": "/lqNW0KFNBFD3BtLNkgipmYqgz4b.jpg",
+        "release_date": "1988-01-01",
+        "title": "The Diamond Trap",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f6BtNQmHrXdjzCkwXl1TFHc0CdN.jpg",
+        "genre_ids": [
+            28,
+            80,
+            12,
+            18,
+            37
+        ],
+        "id": 91284,
+        "original_language": "en",
+        "original_title": "The Soul of Nigger Charley",
+        "overview": "After the end of the Civil War, Charley fights against a group of Southern soldiers seeking to reignite the Confederacy.",
+        "popularity": 4.259,
+        "poster_path": "/3GFP9b0eeSiFFCkBSuD4tGfL476.jpg",
+        "release_date": "1973-05-15",
+        "title": "The Soul of Nigger Charley",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zTSAwQKV8ucGIZQHuHbPQfJOC0K.jpg",
+        "genre_ids": [
+            12,
+            10749,
+            28,
+            10770
+        ],
+        "id": 220346,
+        "original_language": "en",
+        "original_title": "In Love and War",
+        "overview": "This movie is an account of US Navy Commander James Stockdale's 8 year imprisonment in North Vietnam. During his confinement in such camps as the infamous \"Hanoi Hilton\", Stockdale, among other senior officers, led a resistance group against the North Vietnamese, facing torture, isolation, and starvation in attempts to break their wills. Back in the US, Stockdale's wife, Sybil, begins working with other POW wives to try to get information on their husbands and to inform the world on their treatment.",
+        "popularity": 4.256,
+        "poster_path": "/lKpMtLlo40YBImkXOtkoAkiMF8o.jpg",
+        "release_date": "1987-01-01",
+        "title": "In Love and War",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zu3cnkRTFtsxekqXaj7Su8jn5Ax.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 200569,
+        "original_language": "ja",
+        "original_title": "天装戦隊ゴセイジャーVSシンケンジャー エピックon銀幕",
+        "overview": "The film features the remnant Ayakashi who seek to revive Dokoku Chimatsuri, but instead revive the Goseigers' nemesis Buredoran of the Comet as the Gedoushu Buredoran Chimatsuri. To make matters worse, Takeru Shiba has been brainwashed into serving Buredoran as Gedou Shinken Red.",
+        "popularity": 4.255,
+        "poster_path": "/ub7M8rcz9061J49xq0MmnJOPTAh.jpg",
+        "release_date": "2011-01-22",
+        "title": "Tensou Sentai Goseiger vs Shinkenger: Epic on the Silver Screen",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wCBzKUHg7pvJLuFrP3X2GLPTgnr.jpg",
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 639074,
+        "original_language": "de",
+        "original_title": "Hexenjagd",
+        "overview": "In a dark world of violence and lies, an assimilated Ottoman frees a sentenced Witch from the pyre to start a new life with her.",
+        "popularity": 4.254,
+        "poster_path": "/9g0YpasbGjUbDxmyvZ7z4INsPkZ.jpg",
+        "release_date": "2021-01-05",
+        "title": "The Witch and the Believer",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            28,
+            12
+        ],
+        "id": 943694,
+        "original_language": "en",
+        "original_title": "We Will Be Monsters",
+        "overview": "The Bride of Frankenstein goes on a globe-trotting quest to rescue fellow Monsters, such as Dracula, the Wolf Man and the Mummy.",
+        "popularity": 4.249,
+        "poster_path": "/4OGrrVkeVHDBiOSTSlYL5VkNSfM.jpg",
+        "release_date": "2021-10-28",
+        "title": "We Will Be Monsters",
+        "video": false,
+        "vote_average": 2.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/afLqvBaNb1UVhDjnEoyGQO1ttI5.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 466551,
+        "original_language": "zh",
+        "original_title": "海神密码",
+        "overview": "Scientists and the Chinese Maritime Police race to save sea turtles endangered by criminal gangs and ecological disaster.",
+        "popularity": 4.248,
+        "poster_path": "/hgw5ryBFnMPErTVqInBEJW5Bgam.jpg",
+        "release_date": "2014-06-27",
+        "title": "Poseidon Code",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            10752,
+            36,
+            28,
+            12
+        ],
+        "id": 330091,
+        "original_language": "es",
+        "original_title": "Pancho Villa y la Valentina",
+        "overview": "The second chapter of director Ismael Rodríguez's series about Pancho Villa. Several stories about the life and death of the famous mexican revolutionary general.",
+        "popularity": 4.247,
+        "poster_path": "/suABw4x0YT8bfylQhFuDOWicSjI.jpg",
+        "release_date": "1958-12-01",
+        "title": "This Was Pancho Villa: Second chapter",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            28,
+            36
+        ],
+        "id": 70936,
+        "original_language": "hy",
+        "original_title": "Чрезвычайное поручение",
+        "overview": "The second film of the trilogy about Armenian Bolshevik revolutionery Simon Ter-Petrosyan (1882-1922) known as Kamo.",
+        "popularity": 4.244,
+        "poster_path": "/ta7eCfHdAUPeJLZum1ksVOfOUVB.jpg",
+        "release_date": "1966-01-10",
+        "title": "An Extraordinary Assignment",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    }
+]
