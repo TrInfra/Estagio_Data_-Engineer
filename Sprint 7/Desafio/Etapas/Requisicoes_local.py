@@ -4,17 +4,19 @@ import os
 import boto3
 from datetime import datetime
 from dotenv import load_dotenv
+
 #============================================Funções====================================================
 def buscar_path_arquivo(file_name):
     return os.path.join(os.path.dirname(os.path.abspath(__file__)), file_name)
 
-def buscar_filmes(url,headers):
+def buscar_filmes(api_url, headers):
     all_movies = []
     unique_ids = set()
-    total_results = 1000
+    total_results = 8000
     current_page = 1
 
     while len(unique_ids) < total_results:
+        url = f"{api_url}&page={current_page}"
         response = requests.get(url, headers=headers)
         data = response.json()
         
@@ -26,15 +28,13 @@ def buscar_filmes(url,headers):
         else:
             break
         
-        if data['page'] >= data['total_pages']:
+        if current_page >= data['total_pages']:
             break
         
         current_page += 1
-        url = f"{url.split('?')[0]}?page={current_page}"
-
     return all_movies[:total_results]
 
-def salvar_arq_json(movies , file_path):
+def salvar_arq_json(movies, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(movies, f, ensure_ascii=False, indent=4)
 
@@ -67,7 +67,6 @@ def listar_arquivos_diretorio(diretorio):
     return arquivos
 #===========================================================================================================
 
-
 #============================================Credenciais====================================================
 
 load_dotenv()
@@ -76,7 +75,7 @@ aws_access_key_id = os.getenv('AWS_ACCESS_KEY_ID')
 aws_secret_access_key = os.getenv('AWS_SECRET_ACCESS_KEY')
 aws_session_token = os.getenv('AWS_SESSION_TOKEN')
 tokenAPI = os.getenv('tokenAPI')
-bucketname_s3 =os.getenv('bucket_name_s3')
+bucketname_s3 = os.getenv('bucket_name_s3')
 
 client = boto3.client(
     service_name='s3',
@@ -88,21 +87,19 @@ client = boto3.client(
 
 bucket_name = f"{bucketname_s3}"
 
-url = "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=pt-br&page=1&release_date.gte=2000-01-01&release_date.lte=2023-12-30&sort_by=vote_average.desc&vote_count.gte=100&with_genres=28"
+url = "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&with_genres=28,12&sort_by=popularity.desc&release_date.lte=2024-07-10"
 
 headers = {
     "accept": "application/json",
     "Authorization": f"Bearer {tokenAPI}"
     }
 
-
-movies = buscar_filmes(url,headers)
+movies = buscar_filmes(url, headers)
 separar_filme_por_arquivo(movies, itens_por_arq=100)
 
 diretorio_arquivosjson = buscar_path_arquivo("arquivosjson/")
 arquivos = listar_arquivos_diretorio(diretorio_arquivosjson)
 enviar_arquivos_para_s3(arquivos, bucket_name, client)
-
 
 print(f"Número de filmes armazenados: {len(movies)}")
 print("Os dados foram salvos em filmes_acao.json")
