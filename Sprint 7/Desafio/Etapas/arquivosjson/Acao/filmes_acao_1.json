@@ -1,0 +1,2022 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/fDmci71SMkfZM8RnCuXJVDPaSdE.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            35,
+            28
+        ],
+        "id": 519182,
+        "original_language": "en",
+        "original_title": "Despicable Me 4",
+        "overview": "Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
+        "popularity": 6223.665,
+        "poster_path": "/65QQjZNrVfTiuGp3chxx8dkfHDG.jpg",
+        "release_date": "2024-06-20",
+        "title": "Meu Malvado Favorito 4",
+        "video": false,
+        "vote_average": 7.515,
+        "vote_count": 260
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 786892,
+        "original_language": "en",
+        "original_title": "Furiosa: A Mad Max Saga",
+        "overview": "Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.",
+        "popularity": 2656.928,
+        "poster_path": "/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
+        "release_date": "2024-05-22",
+        "title": "Furiosa: Uma Saga Mad Max",
+        "video": false,
+        "vote_average": 7.657,
+        "vote_count": 2106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 653346,
+        "original_language": "en",
+        "original_title": "Kingdom of the Planet of the Apes",
+        "overview": "Várias gerações no futuro, após o reinado de César, os macacos são agora a espécie dominante e vivem harmoniosamente, enquanto os humanos foram reduzidos a viver nas sombras. À medida que um novo líder símio tirânico constrói o seu império, um jovem macaco empreende uma jornada angustiante que o levará a questionar tudo o que sabia sobre o passado e a fazer escolhas que definirão um futuro tanto para os macacos como para os humanos.",
+        "popularity": 2440.986,
+        "poster_path": "/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg",
+        "release_date": "2024-05-08",
+        "title": "Planeta dos Macacos: O Reinado",
+        "video": false,
+        "vote_average": 7.105,
+        "vote_count": 1799
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 280180,
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop: Axel F",
+        "overview": "Quarenta anos depois de seu primeiro caso em Beverly Hills, o policial Axel Foley está de volta para fazer aquilo que ele mais ama: resolver crimes. E causar, óbvio.",
+        "popularity": 2019.24,
+        "poster_path": "/i5kOCCqFl0m2UayMjAU8tdN7R2I.jpg",
+        "release_date": "2024-06-20",
+        "title": "Um Tira da Pesada 4: Axel Foley",
+        "video": false,
+        "vote_average": 6.923,
+        "vote_count": 541
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lA6KdSkCTxwzvqzPqxch997RabQ.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 560016,
+        "original_language": "en",
+        "original_title": "Monkey Man",
+        "overview": "Kid é um jovem que ganha a vida em um clube de luta clandestino, onde, usando uma máscara de gorila, é brutalmente espancado todas as noites por lutadores mais populares. Após anos de raiva contida e uma vida muito dura, Kid encontra uma maneira de se infiltrar na elite da cidade. À medida que seu trauma de infância ressurge, ele não mede esforços para acertar as contas com os homens da alta sociedade que tiraram o pouco que ele tinha.",
+        "popularity": 1884.955,
+        "poster_path": "/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg",
+        "release_date": "2024-04-03",
+        "title": "Fúria Primitiva",
+        "video": false,
+        "vote_average": 7.078,
+        "vote_count": 586
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gRApXuxWmO2forYTuTmcz5RaNUV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            35
+        ],
+        "id": 573435,
+        "original_language": "en",
+        "original_title": "Bad Boys: Ride or Die",
+        "overview": "Depois que seu falecido ex-capitão é incriminado, Lowrey e Burnett tentam limpar seu nome, apenas para acabarem se tornando os mais procurados de Miami.",
+        "popularity": 1630.878,
+        "poster_path": "/ak6VZDHms5T4p0eFISk336kqjR6.jpg",
+        "release_date": "2024-06-05",
+        "title": "Bad Boys: Até o Fim",
+        "video": false,
+        "vote_average": 7.085,
+        "vote_count": 553
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jvPMJ2zM92jfXxVEFsqP1MMrLaO.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 823464,
+        "original_language": "en",
+        "original_title": "Godzilla x Kong: The New Empire",
+        "overview": "O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre.",
+        "popularity": 1247.417,
+        "poster_path": "/kO6K9zEsKhNyqcrdGTSqAI6jrie.jpg",
+        "release_date": "2024-03-27",
+        "title": "Godzilla e Kong: O Novo Império",
+        "video": false,
+        "vote_average": 7.201,
+        "vote_count": 3166
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iTWrsOVsUqcwYSxrpINNs3hG2nC.jpg",
+        "genre_ids": [
+            53,
+            27,
+            28,
+            9648
+        ],
+        "id": 1001311,
+        "original_language": "fr",
+        "original_title": "Sous la Seine",
+        "overview": "Um tubarão gigante apareceu no rio Sena, em Paris. Para evitar a catástrofe, uma cientista vai ter que encarar as tragédias do próprio passado.",
+        "popularity": 1006.876,
+        "poster_path": "/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg",
+        "release_date": "2024-06-04",
+        "title": "Sob as Águas do Sena",
+        "video": false,
+        "vote_average": 6.085,
+        "vote_count": 896
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a4IWRYNMNMszIkRbEIiNsRg6cvt.jpg",
+        "genre_ids": [
+            10752,
+            28,
+            18
+        ],
+        "id": 929590,
+        "original_language": "en",
+        "original_title": "Civil War",
+        "overview": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.",
+        "popularity": 962.609,
+        "poster_path": "/fIEjqQnnkxwUH102XU9R3QwRGEu.jpg",
+        "release_date": "2024-04-10",
+        "title": "Guerra Civil",
+        "video": false,
+        "vote_average": 6.988,
+        "vote_count": 1891
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fZv4EldEPurSz0d2uVIoL4Sng8x.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ],
+        "id": 1016346,
+        "original_language": "bn",
+        "original_title": "MR-9: Do or Die",
+        "overview": "Com Frank Grillo. Um espião de elite de Bangladesh e um agente da CIA formam uma aliança improvável para deter um império do crime implacável liderado por um magnata inescrupuloso.",
+        "popularity": 807.478,
+        "poster_path": "/8Js658DZ6zaY135wpRnINGuTPOL.jpg",
+        "release_date": "2023-08-25",
+        "title": "MR-9: Missão Mortal",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aATi2PtaOQCVAquCym6OU0Z4FjY.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 704673,
+        "original_language": "en",
+        "original_title": "Trigger Warning",
+        "overview": "Uma militar de elite descobre uma perigosa conspiração ao retornar à cidade natal em busca de respostas para a morte do pai.",
+        "popularity": 798.593,
+        "poster_path": "/cQLJT6hTXio0md94oBsSWADOECf.jpg",
+        "release_date": "2024-06-20",
+        "title": "Alerta de Risco",
+        "video": false,
+        "vote_average": 5.887,
+        "vote_count": 311
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
+        "genre_ids": [
+            16,
+            28,
+            10751,
+            35,
+            14
+        ],
+        "id": 1011985,
+        "original_language": "en",
+        "original_title": "Kung Fu Panda 4",
+        "overview": "Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro.  Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.",
+        "popularity": 733.004,
+        "poster_path": "/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
+        "release_date": "2024-03-02",
+        "title": "Kung Fu Panda 4",
+        "video": false,
+        "vote_average": 7.134,
+        "vote_count": 2268
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35,
+            53
+        ],
+        "id": 955555,
+        "original_language": "ko",
+        "original_title": "범죄도시 3",
+        "overview": "",
+        "popularity": 638.319,
+        "poster_path": "/kPtNokhBtgwSp3MHaR3X4O0SPbF.jpg",
+        "release_date": "2023-05-31",
+        "title": "The Round Up: No Way Out",
+        "video": false,
+        "vote_average": 7.284,
+        "vote_count": 364
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 746036,
+        "original_language": "en",
+        "original_title": "The Fall Guy",
+        "overview": "Colt é um dublê que tem uma tremenda queda pela diretora do filme que está filmando. As coisas começam a dar errado quando o ator principal do filme desaparece.",
+        "popularity": 534.151,
+        "poster_path": "/7AkiDy6DVlfhJusglf6tvifX6dB.jpg",
+        "release_date": "2024-04-24",
+        "title": "O Dublê",
+        "video": false,
+        "vote_average": 7.245,
+        "vote_count": 1550
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "id": 614933,
+        "original_language": "en",
+        "original_title": "Atlas",
+        "overview": "Uma brilhante analista em contraterrorismo não confia em inteligência artificial, mas precisa usá-la quando a missão para capturar um robô rebelde dá errado.",
+        "popularity": 464.563,
+        "poster_path": "/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+        "release_date": "2024-05-23",
+        "title": "Atlas",
+        "video": false,
+        "vote_average": 6.865,
+        "vote_count": 982
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gGmf3CyHdXvaZtcun0DvU1WSNft.jpg",
+        "genre_ids": [
+            28,
+            14,
+            12
+        ],
+        "id": 626412,
+        "original_language": "ko",
+        "original_title": "외계+인 2부",
+        "overview": "",
+        "popularity": 456.486,
+        "poster_path": "/3l04H9ljNegDGG9gnKDhLExJvpz.jpg",
+        "release_date": "2024-01-10",
+        "title": "외계+인 2부",
+        "video": false,
+        "vote_average": 6.791,
+        "vote_count": 422
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 38700,
+        "original_language": "en",
+        "original_title": "Bad Boys for Life",
+        "overview": "Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.",
+        "popularity": 442.192,
+        "poster_path": "/lkWYrzLIclGj56r4NJxuWeisK9R.jpg",
+        "release_date": "2020-01-15",
+        "title": "Bad Boys Para Sempre",
+        "video": false,
+        "vote_average": 7.135,
+        "vote_count": 8037
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+        "genre_ids": [
+            878,
+            27,
+            28
+        ],
+        "id": 940721,
+        "original_language": "ja",
+        "original_title": "ゴジラ-1.0",
+        "overview": "O Japão do pós-guerra está no seu ponto mais baixo quando surge uma nova crise sob a forma de um monstro gigante, batizado com o terrível poder da bomba atómica.",
+        "popularity": 439.565,
+        "poster_path": "/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg",
+        "release_date": "2023-11-03",
+        "title": "Godzilla Minus One",
+        "video": false,
+        "vote_average": 7.583,
+        "vote_count": 1883
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
+        "genre_ids": [
+            53,
+            27,
+            28
+        ],
+        "id": 1096197,
+        "original_language": "en",
+        "original_title": "No Way Up",
+        "overview": "Um grupo de desconhecidos acabam no meio do Oceano Pacífico depois de um acidente aéreo. Presos em uma bolsa de ar, eles devem trabalhar juntos para enfrentar os perigos que os cercam antes que o oxigênio acabe.",
+        "popularity": 422.173,
+        "poster_path": "/ktxq0LYgl41I2DUn49TYIaS9dZR.jpg",
+        "release_date": "2024-01-18",
+        "title": "Desespero Profundo",
+        "video": false,
+        "vote_average": 6.473,
+        "vote_count": 808
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hU1Q9YVzdYhokr8a9gLywnSUMlN.jpg",
+        "genre_ids": [
+            16,
+            12,
+            28,
+            14,
+            10751
+        ],
+        "id": 1147400,
+        "original_language": "fr",
+        "original_title": "Miraculous World : Paris, Les Aventures de Toxinelle et Griffe Noire",
+        "overview": "Enquanto Marinette e Adrien lidam com seus novos poderes, Shadybug e Claw Noir, suas versões malignas, aparecem em Paris em busca do Miraculous da Borboleta.",
+        "popularity": 420.176,
+        "poster_path": "/lwMl9Do2mfHDn1EtxugvHjK7bYZ.jpg",
+        "release_date": "2023-10-21",
+        "title": "Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir",
+        "video": false,
+        "vote_average": 7.358,
+        "vote_count": 317
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            35,
+            10751
+        ],
+        "id": 940551,
+        "original_language": "en",
+        "original_title": "Migration",
+        "overview": "A família Mallard está um pouco refém da rotina. Enquanto Mack, o pai, se contenta em manter sua família segura nos arredores de um lago da Nova Inglaterra para sempre, Pam, a mãe, está ansiosa para agitar as coisas e mostrar a seus filhos – o adolescente Dax e a patinha Gwen – o mundo inteiro. Quando uma família de patos migratórios aterrissa em seu lago com histórias emocionantes de lugares distantes, Pam convence Mack a embarcar em uma viagem em família, via Nova York, para a Jamaica tropical.",
+        "popularity": 417.436,
+        "poster_path": "/wXWnUhdnSuADRp9w7aAZNHx682v.jpg",
+        "release_date": "2023-12-06",
+        "title": "Patos!",
+        "video": false,
+        "vote_average": 7.464,
+        "vote_count": 1538
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            80
+        ],
+        "id": 7451,
+        "original_language": "en",
+        "original_title": "xXx",
+        "overview": "O ex-atleta de esportes extremos Xander \"XXX\" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que pode ter sucesso em ações que espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Agora, em uma perigosa missão, ele precisa usar todas as suas habilidades para combater um inimigo mortal.",
+        "popularity": 405.696,
+        "poster_path": "/lpmyeqSR2Pc7ytfTp1ScD3ferX4.jpg",
+        "release_date": "2002-08-09",
+        "title": "Triplo X",
+        "video": false,
+        "vote_average": 5.933,
+        "vote_count": 4116
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+        "genre_ids": [
+            16,
+            878,
+            10751,
+            28
+        ],
+        "id": 829402,
+        "original_language": "en",
+        "original_title": "Ultraman: Rising",
+        "overview": "Um atleta de sucesso volta à sua terra natal para assumir o papel do pai e se tornar o lendário Ultraman, protegendo Tóquio de monstros gigantes.",
+        "popularity": 364.253,
+        "poster_path": "/aQ2MhjWQtVOTDbqKvIkQp0xXjtv.jpg",
+        "release_date": "2024-06-14",
+        "title": "Ultraman: A Ascensão",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k9X79JC2dDTcSpxuKJ3p2Teq3oZ.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 1025463,
+        "original_language": "pt",
+        "original_title": "Biônicos",
+        "overview": "Em um futuro distópico em que as próteses robóticas dominam os esportes, duas irmãs competem no salto em distância. Só que essa rivalidade leva a um caminho sinistro.",
+        "popularity": 350.881,
+        "poster_path": "/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg",
+        "release_date": "2024-05-28",
+        "title": "Biônicos",
+        "video": false,
+        "vote_average": 5.784,
+        "vote_count": 111
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1I2eym35Q8DPX7tKPRDtposAfCV.jpg",
+        "genre_ids": [
+            878,
+            28,
+            14,
+            12
+        ],
+        "id": 601796,
+        "original_language": "ko",
+        "original_title": "외계+인 1부",
+        "overview": "A porta do tempo se abre entre o espadachim que quer apoderar-se da lendária espada divina no final da Dinastia Goryeo e aqueles que perseguem um prisioneiro alienígena preso em um corpo humano em 2022.",
+        "popularity": 338.007,
+        "poster_path": "/ynyN9hdxL5vq7GnSX8Fdz3TfoTE.jpg",
+        "release_date": "2022-07-20",
+        "title": "Alienoid",
+        "video": false,
+        "vote_average": 6.872,
+        "vote_count": 378
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            28,
+            878,
+            35,
+            18,
+            12
+        ],
+        "id": 893723,
+        "original_language": "en",
+        "original_title": "PAW Patrol: The Mighty Movie",
+        "overview": "Um meteoro mágico cai em Adventure City, dá superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da prisão e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervilões antes que seja tarde demais.",
+        "popularity": 320.809,
+        "poster_path": "/uzqjYjnnA3fpXFvd4JfMEc1fBhj.jpg",
+        "release_date": "2023-09-21",
+        "title": "Patrulha Canina: Um Filme Superpoderoso",
+        "video": false,
+        "vote_average": 7.106,
+        "vote_count": 407
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 76341,
+        "original_language": "en",
+        "original_title": "Mad Max: Fury Road",
+        "overview": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
+        "popularity": 315.214,
+        "poster_path": "/mtgqrSlT47VsmeMVanLTny7BknB.jpg",
+        "release_date": "2015-05-13",
+        "title": "Mad Max: Estrada da Fúria",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 22097
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+        "genre_ids": [
+            28,
+            14
+        ],
+        "id": 634492,
+        "original_language": "en",
+        "original_title": "Madame Web",
+        "overview": "Depois de sobreviver a um terrível acidente, a paramédica Cassandra Webb começa a desenvolver habilidades de clarividência. Forçada a enfrentar revelações sobre seu passado, ela estabelece um relacionamento com três jovens destinadas a futuros poderosos... se todas conseguirem sobreviver a um presente mortal.",
+        "popularity": 311.726,
+        "poster_path": "/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg",
+        "release_date": "2024-02-14",
+        "title": "Madame Teia",
+        "video": false,
+        "vote_average": 5.58,
+        "vote_count": 1519
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qekky2LbtT1wtbD5MDgQvjfZQ24.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 984324,
+        "original_language": "fr",
+        "original_title": "Le salaire de la peur",
+        "overview": "Quando uma explosão em um poço de petróleo ameaça centenas de vidas, uma equipe de salvamento é chamada para cruzar o deserto com um carregamento de nitroglicerina.",
+        "popularity": 309.183,
+        "poster_path": "/wQpmQV4asLYTAmw4BwgmtfGx0Os.jpg",
+        "release_date": "2024-03-28",
+        "title": "O Salário do Medo",
+        "video": false,
+        "vote_average": 6.153,
+        "vote_count": 370
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uaSIzbRfwLidxRNMvdZAUwW3vtL.jpg",
+        "genre_ids": [
+            28,
+            14,
+            10752
+        ],
+        "id": 856289,
+        "original_language": "zh",
+        "original_title": "封神第一部：朝歌风云",
+        "overview": "Baseado no mais conhecido romance clássico de fantasia da China, Fengshenyanyi, a trilogia é um magnífico épico de fantasia oriental que recria as prolongadas guerras míticas entre humanos, imortais e monstros, que aconteceram há mais de três mil anos.",
+        "popularity": 291.229,
+        "poster_path": "/8fzJZQhmkLyZeXdZUi1eE2ZKhkm.jpg",
+        "release_date": "2023-07-15",
+        "title": "Criação dos Deuses I: Reino das Tempestades",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 317
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1m1rXopfNDVL3UMiv6kriYaJ3yE.jpg",
+        "genre_ids": [
+            53,
+            80,
+            12,
+            28
+        ],
+        "id": 882059,
+        "original_language": "en",
+        "original_title": "Boy Kills World",
+        "overview": "Garoto jura vingança depois que sua família é assassinada por Hilda Van Der Koy, a matriarca impiedosa de uma dinastia pós-apocalíptica corrupta que deixou o órfão, surdo e sem voz. Impulsionado por sua voz interior, baseada em seu videogame favorito de infância, Garoto treina com um misterioso xamã para se tornar um instrumento de morte e é solto na véspera do abate anual de dissidentes. A confusão começa quando ele comete um caos sangrento nas artes marciais, incitando uma ira de carnificina e derramamento de sangue. Enquanto tenta se orientar neste reino delirante, Garoto logo se junta a um grupo de resistência desesperado, enquanto briga com o aparente fantasma de sua irmã mais nova rebelde.",
+        "popularity": 288.171,
+        "poster_path": "/eBfLxyzwCCACTieZ2NH41m0jilk.jpg",
+        "release_date": "2024-04-24",
+        "title": "Contra o Mundo",
+        "video": false,
+        "vote_average": 6.876,
+        "vote_count": 350
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "id": 934632,
+        "original_language": "en",
+        "original_title": "Rebel Moon - Part Two: The Scargiver",
+        "overview": "Conforme os rebeldes se preparam para a batalha contra as forças implacáveis do Mundo-Mãe, laços são forjados, heróis emergem e lendas nascem.",
+        "popularity": 279.885,
+        "poster_path": "/kkP50MUDBqt4JqDEwxk32wUHePk.jpg",
+        "release_date": "2024-04-19",
+        "title": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes",
+        "video": false,
+        "vote_average": 6.126,
+        "vote_count": 925
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 603692,
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+        "popularity": 273.864,
+        "poster_path": "/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
+        "release_date": "2023-03-22",
+        "title": "John Wick 4: Baba Yaga",
+        "video": false,
+        "vote_average": 7.74,
+        "vote_count": 6085
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 10138,
+        "original_language": "en",
+        "original_title": "Iron Man 2",
+        "overview": "Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.",
+        "popularity": 271.859,
+        "poster_path": "/A7NFIOapixCJV3zA3sF823KVrNL.jpg",
+        "release_date": "2010-04-28",
+        "title": "Homem de Ferro 2",
+        "video": false,
+        "vote_average": 6.841,
+        "vote_count": 20606
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 359410,
+        "original_language": "en",
+        "original_title": "Road House",
+        "overview": "Um ex-lutador do UFC consegue um emprego como segurança em um estabelecimento na Flórida Keys, apenas para descobrir que este paraíso não é tudo o que parece.",
+        "popularity": 270.707,
+        "poster_path": "/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg",
+        "release_date": "2024-03-08",
+        "title": "Matador de Aluguel",
+        "video": false,
+        "vote_average": 7.008,
+        "vote_count": 2009
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jnE1GA7cGEfv5DJBoU2t4bZHaP4.jpg",
+        "genre_ids": [
+            28,
+            878
+        ],
+        "id": 1094844,
+        "original_language": "en",
+        "original_title": "Ape vs Mecha Ape",
+        "overview": "Reconhecendo o poder destrutivo de seu macaco gigante, o exército americano decide criar um macaco robô. Mas o primeiro teste acaba dando terrivelmente errado e obriga o exército a soltar o animal de verdade para enfrentar a máquina.",
+        "popularity": 269.341,
+        "poster_path": "/isXDRoaeOm7BJVXVwPzPTnKWKqi.jpg",
+        "release_date": "2023-03-24",
+        "title": "Macaco vs. Máquina",
+        "video": false,
+        "vote_average": 5.778,
+        "vote_count": 257
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+        "genre_ids": [
+            28,
+            53,
+            10752
+        ],
+        "id": 969492,
+        "original_language": "en",
+        "original_title": "Land of Bad",
+        "overview": "Uma missão das forças especiais vira um grande desastre e, cercados pelo inimigo em um território remoto nas Filipinas, a única chance de resgate está nas mãos de Reaper (Russel Crowe), um piloto de drone, e Kinney (Liam Hemsworth), um jovem oficial da aeronáutica. Eles têm 48 horas para resgatar os soldados antes que vire um banho de sangue.",
+        "popularity": 261.12,
+        "poster_path": "/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg",
+        "release_date": "2024-01-25",
+        "title": "Zona de Risco",
+        "video": false,
+        "vote_average": 7.313,
+        "vote_count": 876
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 385687,
+        "original_language": "en",
+        "original_title": "Fast X",
+        "overview": "O fim da estrada está chegando. Velozes & Furiosos 10, é o décimo filme da franquia Velozes & Furiosos, lança os capítulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira década e ainda mais forte. Com o mesmo elenco e personagens principais de quando começou. Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto (Vin Diesel) e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família.",
+        "popularity": 261.095,
+        "poster_path": "/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
+        "release_date": "2023-05-17",
+        "title": "Velozes & Furiosos 10",
+        "video": false,
+        "vote_average": 7.109,
+        "vote_count": 5321
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            878
+        ],
+        "id": 569094,
+        "original_language": "en",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+        "popularity": 240.013,
+        "poster_path": "/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg",
+        "release_date": "2023-05-31",
+        "title": "Homem-Aranha: Através do Aranhaverso",
+        "video": false,
+        "vote_average": 8.356,
+        "vote_count": 6510
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 667538,
+        "original_language": "en",
+        "original_title": "Transformers: Rise of the Beasts",
+        "overview": "Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah (Anthony Ramos) e Elena (Dominique Fishback) farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.",
+        "popularity": 236.53,
+        "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+        "release_date": "2023-06-06",
+        "title": "Transformers: O Despertar das Feras",
+        "video": false,
+        "vote_average": 7.325,
+        "vote_count": 4355
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35
+        ],
+        "id": 293660,
+        "original_language": "en",
+        "original_title": "Deadpool",
+        "overview": "Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.",
+        "popularity": 236.394,
+        "poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+        "release_date": "2016-02-09",
+        "title": "Deadpool",
+        "video": false,
+        "vote_average": 7.615,
+        "vote_count": 30146
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/91wcqNBLHhKWBIhMknG4qa6ejxE.jpg",
+        "genre_ids": [
+            12,
+            28,
+            18
+        ],
+        "id": 845111,
+        "original_language": "fr",
+        "original_title": "Les trois mousquetaires : Milady",
+        "overview": "No segundo capítulo da saga dos Três Mosqueteiros, Constance Bonacieux é sequestrada diante dos olhos de D'Artagnan, o que o leva a iniciar uma frenética busca para salvá-la, sendo forçado a aliar-se à misteriosa Milady de Winter. Junto a Athos, Porthos e Aramis, o jovem mosqueteiro enfrentará alguns segredos obscuros que podem balançar velhas alianças e desencadear uma grande guerra.",
+        "popularity": 233.688,
+        "poster_path": "/qsOK6mqsmddKmiEtLReV6nlbuW0.jpg",
+        "release_date": "2023-12-13",
+        "title": "Os Três Mosqueteiros: Milady",
+        "video": false,
+        "vote_average": 6.465,
+        "vote_count": 468
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 299536,
+        "original_language": "en",
+        "original_title": "Avengers: Infinity War",
+        "overview": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+        "popularity": 231.414,
+        "poster_path": "/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg",
+        "release_date": "2018-04-25",
+        "title": "Vingadores: Guerra Infinita",
+        "video": false,
+        "vote_average": 8.246,
+        "vote_count": 29120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 22,
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "overview": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.",
+        "popularity": 227.921,
+        "poster_path": "/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg",
+        "release_date": "2003-07-09",
+        "title": "Piratas do Caribe: A Maldição do Pérola Negra",
+        "video": false,
+        "vote_average": 7.803,
+        "vote_count": 20160
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fUC5VsQcU3m6zmYMD96R7RqPuMn.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1105407,
+        "original_language": "en",
+        "original_title": "Damaged",
+        "overview": "Dan Lawson, um detetive de Chicago, viaja para a Escócia para se juntar ao detetive escocês Boyd, acompanhando o ressurgimento de um serial killer cujos crimes coincidem com um caso não solucionado que ele investigou cinco anos antes.",
+        "popularity": 227.245,
+        "poster_path": "/2cXxEXhVGDMTMXspbAhHs2RXEA9.jpg",
+        "release_date": "2024-04-12",
+        "title": "Danificado",
+        "video": false,
+        "vote_average": 5.596,
+        "vote_count": 156
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hvqNAz3cq48sh9GKxu4lPiogfBo.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648,
+            53
+        ],
+        "id": 996154,
+        "original_language": "en",
+        "original_title": "Black Lotus",
+        "overview": "O agente das forças especiais, Matteo Donner, percorreu o mundo lutando contra a culpa depois de perder seu melhor amigo em uma missão. De volta a Amsterdã, Donner trava uma guerra de um homem só pelas ruas e canais da cidade. Entre explosões, balas voando e carros batendo, ele tem apenas um objetivo: resgatar a filha de seu amigo falecido, que foi sequestrada.",
+        "popularity": 226.17,
+        "poster_path": "/iw3zC4i0wA1k6qlMiYdM7AG92q5.jpg",
+        "release_date": "2023-04-12",
+        "title": "Resgate em Amsterdã",
+        "video": false,
+        "vote_average": 6.516,
+        "vote_count": 129
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 8961,
+        "original_language": "en",
+        "original_title": "Bad Boys II",
+        "overview": "Os detetives da Narcóticos Marcus Burnett e Mike Lowrey foram designados para investigar a proliferação do ecstasy na cidade de Miami. As investigações os levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra entre quadrilhas. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade deles à prova.",
+        "popularity": 225.066,
+        "poster_path": "/43uHXNlX3Ip7HgLOvxMHOpCxYC0.jpg",
+        "release_date": "2003-07-18",
+        "title": "Os Bad Boys II",
+        "video": false,
+        "vote_average": 6.63,
+        "vote_count": 5265
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ksZTspehDCC4PCZN8ci31pFT6yp.jpg",
+        "genre_ids": [
+            28,
+            36,
+            18,
+            10752
+        ],
+        "id": 660360,
+        "original_language": "ko",
+        "original_title": "노량: 죽음의 바다",
+        "overview": "Inverno de 1598. Este filme é a história da morte de Yi Sun Shin e sua última batalha naval durante as invasões japonesas da Coréia que aconteceram no Estreito de Noryang.",
+        "popularity": 225.039,
+        "poster_path": "/WqgLrAbPnEfgn7WP7J2IvL1Z9V.jpg",
+        "release_date": "2023-12-20",
+        "title": "Noryang: Deadly Sea",
+        "video": false,
+        "vote_average": 6.256,
+        "vote_count": 129
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 575264,
+        "original_language": "en",
+        "original_title": "Mission: Impossible - Dead Reckoning Part One",
+        "overview": "Ethan Hunt e sua equipe embarcam em sua missão mais perigosa: rastrear uma nova arma aterrorizante que ameaça toda a humanidade antes que caia em mãos erradas. Com o controle do futuro e o destino do mundo em jogo e as forças sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo começa. Confrontado por um inimigo misterioso e todo-poderoso, Ethan é forçado a considerar que nada pode importar mais do que sua missão – nem mesmo a vida daqueles com quem ele mais se importa.",
+        "popularity": 222.068,
+        "poster_path": "/gbPUEuu2MGzbVen3tB1S48HpgDP.jpg",
+        "release_date": "2023-07-08",
+        "title": "Missão: Impossível - Acerto de Contas Parte 1",
+        "video": false,
+        "vote_average": 7.552,
+        "vote_count": 3535
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53
+        ],
+        "id": 9737,
+        "original_language": "en",
+        "original_title": "Bad Boys",
+        "overview": "Um carregamento de heroína confiscada avaliada em um milhão de dólares foi simplesmente roubado do depósito da polícia. O sumiço das dorgas pode destruir as carreiras dos detetives Mike Lawrey e Marcus Burnett e acabar com a divisão de narcóticos do Departamento de Polícia de Miami. Quando as investigações ameaçam os traficantes e eles raptam a única testemunha do caso – uma bela informante da polícia que se torna amiga dos Bad Boys – as coisas se tornam pessoais!",
+        "popularity": 219.71,
+        "poster_path": "/8fkDLt6Fbr2yyBqt3MEwiumnsar.jpg",
+        "release_date": "1995-04-07",
+        "title": "Os Bad Boys",
+        "video": false,
+        "vote_average": 6.808,
+        "vote_count": 6149
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+        "genre_ids": [
+            14,
+            28,
+            12
+        ],
+        "id": 763215,
+        "original_language": "en",
+        "original_title": "Damsel",
+        "overview": "O casamento de uma jovem com um príncipe encantado se transforma em uma luta por sobrevivência quando ela é oferecida em sacrifício a um dragão que cospe fogo.",
+        "popularity": 217.54,
+        "poster_path": "/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg",
+        "release_date": "2024-03-07",
+        "title": "Donzela",
+        "video": false,
+        "vote_average": 7.103,
+        "vote_count": 1949
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 634649,
+        "original_language": "en",
+        "original_title": "Spider-Man: No Way Home",
+        "overview": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+        "popularity": 213.977,
+        "poster_path": "/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg",
+        "release_date": "2021-12-15",
+        "title": "Homem-Aranha: Sem Volta Para Casa",
+        "video": false,
+        "vote_average": 7.963,
+        "vote_count": 19613
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 76600,
+        "original_language": "en",
+        "original_title": "Avatar: The Way of Water",
+        "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+        "popularity": 213.947,
+        "poster_path": "/mbYQLLluS651W89jO7MOZcLSCUw.jpg",
+        "release_date": "2022-12-14",
+        "title": "Avatar: O Caminho da Água",
+        "video": false,
+        "vote_average": 7.624,
+        "vote_count": 11481
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
+        "genre_ids": [
+            28,
+            16,
+            12,
+            14,
+            53
+        ],
+        "id": 635302,
+        "original_language": "ja",
+        "original_title": "劇場版「鬼滅の刃」無限列車編",
+        "overview": "Tanjiro Kamado, junto com Inosuke Hashibira, um garoto criado por javalis que usa uma cabeça de javali, e Zenitsu Agatsuma, um garoto assustado que revela seu verdadeiro poder quando dorme, embarca no Trem Infinito em uma nova missão com o Hashira de Fogo, Kyojuro Rengoku, para derrotar um demônio que tem atormentado o povo e matado os caçadores de oni que se opõem a ele!",
+        "popularity": 211.632,
+        "poster_path": "/jlGL6yoyDTAZeVzqTfD9aU1tFnr.jpg",
+        "release_date": "2020-10-16",
+        "title": "Demon Slayer: Mugen Train - O Filme",
+        "video": false,
+        "vote_average": 8.226,
+        "vote_count": 3771
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 572802,
+        "original_language": "en",
+        "original_title": "Aquaman and the Lost Kingdom",
+        "overview": "Agora mais temível do que nunca, Arraia Negra detém o poder do mítico Tridente Preto e sua ancestral força malévola. Para derrotá-lo, Aquaman recorrerá a seu irmão Orm, o ex-Rei da Atlântida, ainda na prisão, para forjar uma aliança improvável. Juntos, eles vão ter que deixar de lado suas diferenças para proteger seu reino, salvar a família de Aquaman e o mundo da irreversível destruição.",
+        "popularity": 207.825,
+        "poster_path": "/ysHxydAZzfhc4kV5ae8IBbVG5gk.jpg",
+        "release_date": "2023-12-20",
+        "title": "Aquaman 2: O Reino Perdido",
+        "video": false,
+        "vote_average": 6.731,
+        "vote_count": 2536
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg",
+        "genre_ids": [
+            16,
+            28
+        ],
+        "id": 1263421,
+        "original_language": "ja",
+        "original_title": "範馬刃牙VSケンガンアシュラ",
+        "overview": "É o confronto final. Os lutadores mais fortes de “Baki Hanma” e “Kengan Ashura” se enfrentam neste crossover inédito de artes marciais.",
+        "popularity": 205.613,
+        "poster_path": "/qWEJj7wSVB5TIRFNtF3NkDX6zt8.jpg",
+        "release_date": "2024-06-05",
+        "title": "Baki Hanma x Kengan Ashura",
+        "video": false,
+        "vote_average": 7.873,
+        "vote_count": 193
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+        "genre_ids": [
+            28,
+            878,
+            27
+        ],
+        "id": 615656,
+        "original_language": "en",
+        "original_title": "Meg 2: The Trench",
+        "overview": "Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.",
+        "popularity": 204.461,
+        "poster_path": "/klGKGITBYYyTiHrph1VDSgGULOR.jpg",
+        "release_date": "2023-08-02",
+        "title": "Megatubarão 2",
+        "video": false,
+        "vote_average": 6.534,
+        "vote_count": 3232
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 866398,
+        "original_language": "en",
+        "original_title": "The Beekeeper",
+        "overview": "Clay está em busca de vingança e não vai parar até acabar com o sistema criminoso responsável pela morte de sua amiga. O plano brutal de Clay, um ex-agente de uma organização secreta poderosa conhecida como “Beekeepers”, ganha dimensões nacionais envolvendo governos e as instituições mais influentes do mundo. Determinado a fazer justiça com suas próprias mãos, ele está disposto a tudo e não vai poupar ninguém para concluir seu plano.",
+        "popularity": 200.692,
+        "poster_path": "/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg",
+        "release_date": "2024-01-08",
+        "title": "Beekeeper: Rede de Vingança",
+        "video": false,
+        "vote_average": 7.387,
+        "vote_count": 2673
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 90,
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop",
+        "overview": "Poucas horas depois de chegar em Detroit, Mikey Tandino foi morto. Axel Foley, policial e seu melhor amigo, viaja para Los Angeles, pois tinha sido o último lugar onde Mikey trabalhou. O emprego de Mikey tinha sido conseguido por Jenny Summers, amiga de ambos, que administra uma famosa galeria de arte em Beverly Hills. Porém, Foley tem de fazer tudo informalmente, pois está fora do caso e pretende seguir a pista do possível mandante do crime, Victor Maitland, o chefe de Jenny e dono da galeria. Apesar de Maitland ser considerado um dos maiores marchands do país, Axel acredita que ele usa o mercado de arte como fachada e consegue que dois relutantes policiais locais, Billy Rosewood e John Taggart, se unam a ele nas investigações.",
+        "popularity": 193.065,
+        "poster_path": "/wjcOukmiJKp4oMrIXOa3hlvODph.jpg",
+        "release_date": "1984-12-05",
+        "title": "Um Tira da Pesada",
+        "video": false,
+        "vote_average": 7.194,
+        "vote_count": 3982
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4TFCA5Lm5miseV3Wy02yxurEQL9.jpg",
+        "genre_ids": [
+            878,
+            28,
+            18,
+            53
+        ],
+        "id": 119450,
+        "original_language": "en",
+        "original_title": "Dawn of the Planet of the Apes",
+        "overview": "Em 2026, a humanidade está enfrentando sua pior crise e está muito próxima da extinção por conta de um vírus mortal. Um grupo de sobreviventes organiza uma expedição pelas florestas próximas de São Francisco em busca de uma nova fonte de energia quando se deparam com uma comunidade, muito evoluída, de macacos liderados por César. Alguns dissidentes, mesmo com o pacto de paz firmado, quebram a trégua e dão início a uma guerra sem precedentes entre as duas espécies.",
+        "popularity": 189.791,
+        "poster_path": "/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg",
+        "release_date": "2014-07-08",
+        "title": "Planeta dos Macacos: O Confronto",
+        "video": false,
+        "vote_average": 7.327,
+        "vote_count": 11113
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hlxduUs8y9icWGMzYCDLcYHEQ2u.jpg",
+        "genre_ids": [
+            53,
+            28
+        ],
+        "id": 985939,
+        "original_language": "en",
+        "original_title": "Fall",
+        "overview": "Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.",
+        "popularity": 189.651,
+        "poster_path": "/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
+        "release_date": "2022-08-11",
+        "title": "A Queda",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 3677
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 1029575,
+        "original_language": "en",
+        "original_title": "The Family Plan",
+        "overview": "Dan Morgan é muitas coisas: um marido dedicado, um pai amoroso, um reconhecido vendedor de carros. Ele também é um ex-assassino. E quando seu passado encontra seu presente, ele é forçado a levar sua desavisada família em uma viagem diferente de qualquer outra.",
+        "popularity": 188.136,
+        "poster_path": "/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg",
+        "release_date": "2023-12-14",
+        "title": "Plano em Família",
+        "video": false,
+        "vote_average": 7.284,
+        "vote_count": 1251
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+        "genre_ids": [
+            28,
+            35,
+            12
+        ],
+        "id": 383498,
+        "original_language": "en",
+        "original_title": "Deadpool 2",
+        "overview": "Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.",
+        "popularity": 186.963,
+        "poster_path": "/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg",
+        "release_date": "2018-05-10",
+        "title": "Deadpool 2",
+        "video": false,
+        "vote_average": 7.49,
+        "vote_count": 17243
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x1Ex090BNIXcmaBYB2US0j3hBUF.jpg",
+        "genre_ids": [
+            28,
+            53,
+            18
+        ],
+        "id": 1057001,
+        "original_language": "ko",
+        "original_title": "귀공자",
+        "overview": "Marco Han luta em estádios de boxe ilegais nas Filipinas e está procurando por seu pai coreano para arrecadar dinheiro para a cirurgia de sua mãe filipina doente. Um dia, ele recebe uma mensagem do lado de seu pai e voa para a Coreia do Sul para encontrá-lo. No entanto, a jornada é cheia de dificuldades, pois ele se envolve com pessoas desagradáveis.",
+        "popularity": 186.535,
+        "poster_path": "/x0PHh4LH5pvp2PeG3qInrfWlG9q.jpg",
+        "release_date": "2023-06-21",
+        "title": "The Childe",
+        "video": false,
+        "vote_average": 7.022,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 664,
+        "original_language": "en",
+        "original_title": "Twister",
+        "overview": "Em Oklahoma está se anunciando uma tempestade que não acontece há décadas e dois grupos de cientistas rivais planejam entrar para a história colocando sensores no tornado, para que estas informações possam ir até um computador e, assim, seja possível prever sua chegada com maior antecedência. Mas para colocar os sensores, é necessário ficar o mais próximo possível do tornado e torcer para que os sensores sejam sugados pela tempestade. Em uma das equipes está uma jovem (Helen Hunt) obcecada por tal idéia, pois em 1969 ela viu o pai ser sugado por uma tempestade e atualmente ela planeja conseguir seu intento ou morrer tentando.",
+        "popularity": 185.565,
+        "poster_path": "/7QXT40RNaD0vac198G3O0U45m3y.jpg",
+        "release_date": "1996-05-10",
+        "title": "Twister",
+        "video": false,
+        "vote_average": 6.494,
+        "vote_count": 3150
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 609681,
+        "original_language": "en",
+        "original_title": "The Marvels",
+        "overview": "Quando suas obrigações a levam a uma fenda espacial anômala ligada a um revolucionário Kree, os poderes de Carol Danvers, a Capitã Marvel, se entrelaçam aos de Kamala Khan, a Ms. Marvel, e aos da sobrinha de Carol, astronauta da S.A.B.E.R., Capitã Monica Rambeau. Juntas, esse trio improvável deve ser unir para salvar o universo como \"As Marvels\".",
+        "popularity": 184.277,
+        "poster_path": "/wpp5KIwjtrKoWj5H0TSsJdqsDx7.jpg",
+        "release_date": "2023-11-08",
+        "title": "As Marvels",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 2440
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z3v5lEJgn759x81X6e5ieqFsYV6.jpg",
+        "genre_ids": [
+            12,
+            10751,
+            16,
+            28,
+            35
+        ],
+        "id": 177572,
+        "original_language": "en",
+        "original_title": "Big Hero 6",
+        "overview": "O grande robô inflável está sempre a postos para cuidar de Hiro Hamada. Quando algo devastador assola a cidade, o menino prodígio, seus amigos e o robô formam um grupo de heróis para combater o mal.",
+        "popularity": 180.905,
+        "poster_path": "/5EodFesjReSDlX1c0I5ANZijBFy.jpg",
+        "release_date": "2014-10-24",
+        "title": "Operação Big Hero",
+        "video": false,
+        "vote_average": 7.735,
+        "vote_count": 15311
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53
+        ],
+        "id": 155,
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+        "popularity": 180.215,
+        "poster_path": "/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+        "release_date": "2008-07-16",
+        "title": "Batman: O Cavaleiro das Trevas",
+        "video": false,
+        "vote_average": 8.516,
+        "vote_count": 32206
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 580489,
+        "original_language": "en",
+        "original_title": "Venom: Let There Be Carnage",
+        "overview": "Em busca de seu próximo furo de reportagem, o jornalista Eddie Brock consegue uma entrevista exclusiva com Cletus Kasady, um assassino no corredor da morte, que descobre o segredo de Eddie e se torna o hospedeiro de Carnificina, um simbionte aterrorizante e ameaçador. Eddie e Venom precisam superar sua relação atribulada e trabalhar em conjunto para derrotar Carnificina.",
+        "popularity": 179.156,
+        "poster_path": "/h5UzYZquMwO9FVn15R2eK2itmHu.jpg",
+        "release_date": "2021-09-30",
+        "title": "Venom: Tempo de Carnificina",
+        "video": false,
+        "vote_average": 6.802,
+        "vote_count": 9779
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 58,
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+        "overview": "Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. A única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte.",
+        "popularity": 177.511,
+        "poster_path": "/dCXOveWolVMMbJZQ0cNslpqohPM.jpg",
+        "release_date": "2006-07-06",
+        "title": "Piratas do Caribe: O Baú da Morte",
+        "video": false,
+        "vote_average": 7.359,
+        "vote_count": 15571
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 447365,
+        "original_language": "en",
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "overview": "Peter Quill, que ainda está se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+        "popularity": 177.451,
+        "poster_path": "/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+        "release_date": "2023-05-03",
+        "title": "Guardiões da Galáxia: Vol. 3",
+        "video": false,
+        "vote_average": 7.974,
+        "vote_count": 6441
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zVDJ4cRgSpHlILSm7kGiklHQ6O7.jpg",
+        "genre_ids": [
+            16,
+            35,
+            12,
+            28
+        ],
+        "id": 1062807,
+        "original_language": "ja",
+        "original_title": "劇場版 SPY×FAMILY CODE: White",
+        "overview": "Ele é um espião. Ela uma assassina. Juntos, Loid e Yor mantêm suas vidas duplas enquanto fingem serem a família perfeita. No entanto, sua filha adotiva, Anya, uma telepata, conhece seus empolgantes segredos, sem eles saberem. Usando o pretexto de levar sua família numa viagem de inverno no fim de semana, a tentativa de Loid de progredir em sua missão atual, a Operação Strix, é frustrada quando Anya se envolve por engano e ativa eventos que ameaçam a paz mundial!",
+        "popularity": 177.096,
+        "poster_path": "/8ru02e6N6MgqeeRN9iZizPmbeiA.jpg",
+        "release_date": "2023-12-22",
+        "title": "SPY x FAMILY CÓDIGO: Branco",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 250
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rVJfabCz1ViynQCEz54MRqdZig1.jpg",
+        "genre_ids": [
+            16,
+            878,
+            28
+        ],
+        "id": 1155089,
+        "original_language": "en",
+        "original_title": "Justice League: Crisis on Infinite Earths Part One",
+        "overview": "A morte é iminente. Pior que a morte: o esquecimento. Não apenas para a nossa Terra, mas para todos, em todos os lugares, em todos os universos! Para aplacar essa destruição derradeira, o misterioso Monitor reuniu a maior equipe de super-heróis já vista. Mas o que o poder combinado de Superman, Mulher-Maravilha, Batman, Flash, Lanterna Verde e centenas de heróis de várias Terras pode fazer para salvar toda a realidade de um implacável Armagedom de antimatéria?!",
+        "popularity": 176.054,
+        "poster_path": "/epdREWqn5CAvpBNtGS9jXb4Se3S.jpg",
+        "release_date": "2024-01-08",
+        "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Um",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 228
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 926393,
+        "original_language": "en",
+        "original_title": "The Equalizer 3",
+        "overview": "Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local.  À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.",
+        "popularity": 175.939,
+        "poster_path": "/AnJOKbSQsp0QqiUhsQooqFRjPsD.jpg",
+        "release_date": "2023-08-30",
+        "title": "O Protetor: Capítulo Final",
+        "video": false,
+        "vote_average": 7.343,
+        "vote_count": 2748
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7TdVWAO7vV9j1OLDq1hQJS3pb4U.jpg",
+        "genre_ids": [
+            28,
+            53,
+            35,
+            12
+        ],
+        "id": 739405,
+        "original_language": "en",
+        "original_title": "Operation Fortune: Ruse de Guerre",
+        "overview": "O agente secreto Orson Fortune e seus companheiros recrutam uma das maiores estrelas de Hollywood para ajudá-los em uma missão importante - e arriscada.  Quando a venda de uma nova tecnologia de armamento mortal ameaça perturbar a ordem mundial, todos os recursos se mostram necessários para combater esse inimigo.",
+        "popularity": 175.405,
+        "poster_path": "/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg",
+        "release_date": "2023-01-04",
+        "title": "Esquema de Risco: Operação Fortune",
+        "video": false,
+        "vote_average": 6.522,
+        "vote_count": 1386
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qX5T5GVAcq2UKaaiAx5SZp1AtlY.jpg",
+        "genre_ids": [
+            80,
+            28,
+            878
+        ],
+        "id": 198184,
+        "original_language": "en",
+        "original_title": "Chappie",
+        "overview": "Em um futuro próximo, a África do Sul decidiu substituir os seus policiais humanos por robôs dotados de inteligência artificial. O criador , o cientista Deon, sonha em embutir emoções nos robôs. Um dia, ele rouba um modelo defeituoso e faz experiências nele, até conseguir criar Chappie, um robô capaz de pensar e aprender por conta própria. Mas Chappie é roubado por ladrões que precisam da ajuda para um assalto a banco. Quando Vincent, um engenheiro rival de Deon, decide sabotar as experiências do colega de trabalho, a segurança do país e o futuro de Chappie correm riscos.",
+        "popularity": 175.134,
+        "poster_path": "/cg93jYwHiDVkesAkllPfeiO6brm.jpg",
+        "release_date": "2015-03-04",
+        "title": "Chappie",
+        "video": false,
+        "vote_average": 6.787,
+        "vote_count": 7746
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kPcHuPYqzkSo4bmPHtH82GaeEgX.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 285,
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: At World's End",
+        "overview": "Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo.",
+        "popularity": 174.486,
+        "poster_path": "/2vgdFnsThB3acNVSUN9TzpUwLg5.jpg",
+        "release_date": "2007-05-19",
+        "title": "Piratas do Caribe: No Fim do Mundo",
+        "video": false,
+        "vote_average": 7.255,
+        "vote_count": 13994
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+        "genre_ids": [
+            878,
+            28,
+            80
+        ],
+        "id": 932420,
+        "original_language": "en",
+        "original_title": "Code 8 Part II",
+        "overview": "Em uma cidade onde pessoas com superpoderes são vigiadas e oprimidas, um ex-criminoso se une a um traficante para proteger uma adolescente de um policial corrupto.",
+        "popularity": 174.425,
+        "poster_path": "/jwkzUuoTd4ISBNBMWPSp1qrVGNy.jpg",
+        "release_date": "2024-02-27",
+        "title": "Code 8: Renegados - Parte II",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 496
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tBmJCH9llj1Q9jDOS7vGWnl7GVj.jpg",
+        "genre_ids": [
+            16,
+            878,
+            28
+        ],
+        "id": 1209288,
+        "original_language": "en",
+        "original_title": "Justice League: Crisis on Infinite Earths Part Two",
+        "overview": "Um exército interminável de DEMÔNIOS SOMBRIOS, empenhados na destruição de todas as realidades, assola nosso mundo e todas as Terras paralelas! A única coisa que se opõe a eles é a mais poderosa equipe de meta-humanos já reunida. Mas nem mesmo o poder combinado de Superman, Batman, Mulher-Maravilha, Lanterna Verde e todos os seus colegas super-heróis consegue retardar o ataque dessa horda invencível. Que força misteriosa a move? E como os segredos ocultos do Monitor e da Supergirl ameaçam destruir nossa última defesa?",
+        "popularity": 173.946,
+        "poster_path": "/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg",
+        "release_date": "2024-04-22",
+        "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois",
+        "video": false,
+        "vote_average": 6.861,
+        "vote_count": 108
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vHJlbhsXrZ5yrO2KqCbGSIU6fRX.jpg",
+        "genre_ids": [
+            28,
+            9648,
+            878,
+            53
+        ],
+        "id": 198663,
+        "original_language": "en",
+        "original_title": "The Maze Runner",
+        "overview": "Num cenário pós-apocalíptico, uma comunidade de rapazes descobre que estão presos num labirinto misterioso. Juntos, terão de descobrir como escapar, resolver o enigma e revelar o arrepiante segredo acerca de quem os colocou ali e por que razão.",
+        "popularity": 173.905,
+        "poster_path": "/uHnRw9Kccevck2KdmzJ8Xf7zczM.jpg",
+        "release_date": "2014-09-10",
+        "title": "Maze Runner: Correr ou Morrer",
+        "video": false,
+        "vote_average": 7.184,
+        "vote_count": 16647
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 507086,
+        "original_language": "en",
+        "original_title": "Jurassic World Dominion",
+        "overview": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.",
+        "popularity": 170.989,
+        "poster_path": "/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",
+        "release_date": "2022-06-01",
+        "title": "Jurassic World: Domínio",
+        "video": false,
+        "vote_average": 6.708,
+        "vote_count": 5863
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12,
+            53
+        ],
+        "id": 637649,
+        "original_language": "en",
+        "original_title": "Wrath of Man",
+        "overview": "Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.",
+        "popularity": 169.22,
+        "poster_path": "/rNz8wy63GAabztAUkO4xMGk3upx.jpg",
+        "release_date": "2021-04-22",
+        "title": "Infiltrado",
+        "video": false,
+        "vote_average": 7.64,
+        "vote_count": 5098
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 120,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "overview": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+        "popularity": 163.436,
+        "poster_path": "/hi77F0o55uEhZid1eWRp830CRDx.jpg",
+        "release_date": "2001-12-18",
+        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "video": false,
+        "vote_average": 8.414,
+        "vote_count": 24566
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8wwXPG22aNMpPGuXnfm3galoxbI.jpg",
+        "genre_ids": [
+            28,
+            12,
+            10751,
+            35
+        ],
+        "id": 675353,
+        "original_language": "en",
+        "original_title": "Sonic the Hedgehog 2",
+        "overview": "Depois de se estabelecer em Green Hills, Sonic está pronto para mais liberdade e deixar sua marca como um herói, e Tom e Maddie concordam em deixá-lo em casa enquanto vão de férias. Mas, assim que eles se foram, Dr. Robotnik volta, desta vez com um novo parceiro, Knuckles, em busca de uma esmeralda que tem o poder de construir e destruir civilizações. Sonic se une a um novo companheiro, Tails, e juntos eles embarcam em uma jornada para encontrar a esmeralda antes que ela caia nas mãos erradas.",
+        "popularity": 160.362,
+        "poster_path": "/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg",
+        "release_date": "2022-03-30",
+        "title": "Sonic 2: O Filme",
+        "video": false,
+        "vote_average": 7.522,
+        "vote_count": 4772
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+        "genre_ids": [
+            53,
+            28,
+            18,
+            878
+        ],
+        "id": 61791,
+        "original_language": "en",
+        "original_title": "Rise of the Planet of the Apes",
+        "overview": "Nossa maior descoberta tornar-se-á a maior ameaça para a humanidade quando um cientista na iminência de um grande avanço da medicina começa a fazer testes num jovem chimpanzé chamado César. Quando o chimpanzé desenvolve inteligência e emoções semelhantes às dos humanos, uma batalha épica surge para determinar a espécie dominante no planeta!",
+        "popularity": 156.977,
+        "poster_path": "/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg",
+        "release_date": "2011-08-03",
+        "title": "Planeta dos Macacos: A Origem",
+        "video": false,
+        "vote_average": 7.324,
+        "vote_count": 11598
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uFvYlyWN24gxkDIaWEmMuQMYbqB.jpg",
+        "genre_ids": [
+            53,
+            28,
+            27
+        ],
+        "id": 1028703,
+        "original_language": "en",
+        "original_title": "The OctoGames",
+        "overview": "",
+        "popularity": 155.765,
+        "poster_path": "/qGz5rffXhegQH5PGUDiObqoOt06.jpg",
+        "release_date": "2022-10-07",
+        "title": "The OctoGames",
+        "video": false,
+        "vote_average": 5.482,
+        "vote_count": 111
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+        "genre_ids": [
+            18,
+            28
+        ],
+        "id": 480530,
+        "original_language": "en",
+        "original_title": "Creed II",
+        "overview": "Adonis Creed saiu mais forte do que nunca de sua luta contra 'Pretty' Ricky Conlan e segue sua trajetória rumo ao campeonato mundial de boxe, contra toda a desconfiança que acompanha a sombra de seu pai e com o apoio de Rocky. Sua próxima luta não será tão simples: Ele precisa enfrentar um adversário que possui uma forte ligação com o passado de sua família, o que torna tudo ainda mais complexo.",
+        "popularity": 154.944,
+        "poster_path": "/4eVe0XEmkxNPNzLWNw7D7f0Q6pt.jpg",
+        "release_date": "2018-11-21",
+        "title": "Creed II",
+        "video": false,
+        "vote_average": 7.032,
+        "vote_count": 5295
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+        "genre_ids": [
+            18,
+            28,
+            12,
+            36,
+            10752
+        ],
+        "id": 1495,
+        "original_language": "en",
+        "original_title": "Kingdom of Heaven",
+        "overview": "Ainda em luto pela repentina morte de sua esposa, o ferreiro Balian junta-se ao seu distante pai, Baron Godfrey, nas cruzadas a caminho de Jerusalém. Após uma jornada muito difícil até à cidade santa, o jovem valente entra no séquito do rei leproso Balduíno IV, que deseja lutar contra os muçulmanos para seu próprio ganho político e pessoal.",
+        "popularity": 154.885,
+        "poster_path": "/9RAdZn1pfRkeVSDwngvIQKsZd2Z.jpg",
+        "release_date": "2005-05-03",
+        "title": "Cruzada",
+        "video": false,
+        "vote_average": 6.958,
+        "vote_count": 4113
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 897087,
+        "original_language": "en",
+        "original_title": "Freelance",
+        "overview": "Um ex-agente das forças especiais trabalha fornecendo segurança para uma jornalista que está entrevistando um ditador. No meio da entrevista, ocorre um golpe militar e eles são forçados a fugir para a selva, onde precisam sobreviver.",
+        "popularity": 154.705,
+        "poster_path": "/zM8RkIxq7cJ1V6hOqKQLbHDgkRq.jpg",
+        "release_date": "2023-10-05",
+        "title": "Herói por Encomenda",
+        "video": false,
+        "vote_average": 6.518,
+        "vote_count": 857
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 156022,
+        "original_language": "en",
+        "original_title": "The Equalizer",
+        "overview": "O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Porém, quando ele conhece Teri, uma jovem que está em poder de uma quadrilha russa, ele simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.",
+        "popularity": 153.275,
+        "poster_path": "/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg",
+        "release_date": "2014-09-24",
+        "title": "O Protetor",
+        "video": false,
+        "vote_average": 7.275,
+        "vote_count": 8795
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 122,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+        "popularity": 152.426,
+        "poster_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+        "release_date": "2003-12-01",
+        "title": "O Senhor dos Anéis: O Retorno do Rei",
+        "video": false,
+        "vote_average": 8.481,
+        "vote_count": 23625
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 298618,
+        "original_language": "en",
+        "original_title": "The Flash",
+        "overview": "Os mundos colidem quando Barry Allen usa seus superpoderes para viajar no tempo e mudar os acontecimentos do passado. Mas a tentativa de salvar sua família altera inadvertidamente o futuro.",
+        "popularity": 152.106,
+        "poster_path": "/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
+        "release_date": "2023-06-13",
+        "title": "The Flash",
+        "video": false,
+        "vote_average": 6.725,
+        "vote_count": 4018
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 299054,
+        "original_language": "en",
+        "original_title": "Expend4bles",
+        "overview": "A equipe enfrenta um traficante de armas que comanda um enorme exército privado. Munidos com todas as armas inimagináveis, os Mercenários são a última linha de defesa do mundo.",
+        "popularity": 151.077,
+        "poster_path": "/mVgPlKHUxXJhD9H0cCMzwJO4Ssv.jpg",
+        "release_date": "2023-09-15",
+        "title": "Os Mercenários 4",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 1402
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fI6X3Hd8KvtAuOKVdmxckdNzrx.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 581528,
+        "original_language": "ko",
+        "original_title": "악인전",
+        "overview": "Depois de sobreviver a um ataque violento, um gângster da Coreia do Sul descobre que foi vítima de um serial killer. Para se vingar e recuperar seu prestígio, ele une forças com um policial violento.",
+        "popularity": 148.787,
+        "poster_path": "/nLNKX18xxW6RpkARYrmxDZvuB8r.jpg",
+        "release_date": "2019-05-15",
+        "title": "O Gângster, o Policial e o Diabo",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 1057
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4f0Kj0QwPui5ydu1UavsnvP1m1o.jpg",
+        "genre_ids": [
+            28,
+            878,
+            18
+        ],
+        "id": 39254,
+        "original_language": "en",
+        "original_title": "Real Steel",
+        "overview": "Em um futuro próximo, as máquinas substituem os seres humanos no ringue. As lutas de boxe, nesse contexto, acontecem entre robôs de alta tecnologia e Charlie, um ex-lutador frustrado, não consegue se adaptar a isso. Quando tudo parece perdido, ele se une ao filho para construir um competidor imbatível.",
+        "popularity": 148.243,
+        "poster_path": "/pp74uUjwQTknGPqNrerj4FvU0ce.jpg",
+        "release_date": "2011-09-28",
+        "title": "Gigantes de Aço",
+        "video": false,
+        "vote_average": 7.016,
+        "vote_count": 8082
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tfRyGlBlsfkCMXpRjMyxG53rbS9.jpg",
+        "genre_ids": [
+            18,
+            878,
+            28
+        ],
+        "id": 695721,
+        "original_language": "en",
+        "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "overview": "Anos antes de se tornar o tirânico presidente de Panem, Coriolanus Snow aos 18 anos vê uma chance de mudança de sorte quando é escolhido para ser mentor de Lucy Gray Baird, a garota tributo do empobrecido Distrito 12.",
+        "popularity": 148.046,
+        "poster_path": "/a9z2cmIBfx99dtzj8TaSFU50AnW.jpg",
+        "release_date": "2023-11-15",
+        "title": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
+        "video": false,
+        "vote_average": 7.128,
+        "vote_count": 2362
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 91314,
+        "original_language": "en",
+        "original_title": "Transformers: Age of Extinction",
+        "overview": "Após a batalha entre os Autobots e os Decepticons, que arrasou Chicago, os gigantescos robôs alienígenas desapareceram. Atualmente, eles são caçados pelos humanos, que não desejam passar por apuros novamente. Porém, enquanto a humanidade tenta se recuperar dessa terrível batalha, uma nova ameaça paira sobre a Terra.",
+        "popularity": 147.982,
+        "poster_path": "/gyDVzU2A8bdK4fsS4rWTsDcPPEB.jpg",
+        "release_date": "2014-06-25",
+        "title": "Transformers: A Era da Extinção",
+        "video": false,
+        "vote_average": 5.938,
+        "vote_count": 7947
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg",
+        "genre_ids": [
+            878,
+            28
+        ],
+        "id": 933131,
+        "original_language": "ko",
+        "original_title": "황야",
+        "overview": "Após um terremoto transformar Seul em uma terra sem lei, um caçador decide resgatar uma adolescente sequestrada por um médico insano.",
+        "popularity": 147.697,
+        "poster_path": "/vT3xahepzP796ei0NiZIZ6t8vsl.jpg",
+        "release_date": "2024-01-25",
+        "title": "Em Ruínas",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 637
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
+        "genre_ids": [
+            14,
+            28,
+            12
+        ],
+        "id": 453395,
+        "original_language": "en",
+        "original_title": "Doctor Strange in the Multiverse of Madness",
+        "overview": "Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
+        "popularity": 146.694,
+        "poster_path": "/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
+        "release_date": "2022-05-04",
+        "title": "Doutor Estranho no Multiverso da Loucura",
+        "video": false,
+        "vote_average": 7.298,
+        "vote_count": 8779
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+        "genre_ids": [
+            28,
+            18,
+            12
+        ],
+        "id": 98,
+        "original_language": "en",
+        "original_title": "Gladiator",
+        "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar pública sua predileção em deixar o trono para Maximus, o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.",
+        "popularity": 145.084,
+        "poster_path": "/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+        "release_date": "2000-05-04",
+        "title": "Gladiador",
+        "video": false,
+        "vote_average": 8.218,
+        "vote_count": 18015
+    }
+]

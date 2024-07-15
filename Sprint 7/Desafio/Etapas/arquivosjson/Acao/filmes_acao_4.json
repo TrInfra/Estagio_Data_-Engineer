@@ -1,0 +1,2017 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/8uNjWHsSW3TSOWDU4EY76H5MzAG.jpg",
+        "genre_ids": [
+            28,
+            53,
+            12
+        ],
+        "id": 657,
+        "original_language": "en",
+        "original_title": "From Russia with Love",
+        "overview": "James Bond (Sean Connery) é incumbido de ajudar uma bela agente soviética a fugir de seu país para então tentar recuperar uma leitora de códigos na embaixada russa, em Londres. Porém, Bond não sabe que a temível organização criminosa Spectre organizou esta armadilha no intuito de executá-lo.",
+        "popularity": 83.171,
+        "poster_path": "/x06hUBmBeExMSs4Zot2V8Y3R24t.jpg",
+        "release_date": "1963-10-10",
+        "title": "Moscou Contra 007",
+        "video": false,
+        "vote_average": 7.071,
+        "vote_count": 2880
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+        "genre_ids": [
+            28,
+            12,
+            16,
+            10751
+        ],
+        "id": 260513,
+        "original_language": "en",
+        "original_title": "Incredibles 2",
+        "overview": "Helena é chamada para liderar uma campanha para trazer os superheróis de volta. Enquanto Roberto deve enfrentar os desafios heroicos do dia a dia da vida doméstica. Mas quando um novo vilão aparece com um plano brilhante e perigoso, a família Pêra enfrenta o desafio juntos  com Gelado do lado deles.",
+        "popularity": 83.11,
+        "poster_path": "/y3EEb7o6NxK0pl0WsOswCos663y.jpg",
+        "release_date": "2018-06-14",
+        "title": "Os Incríveis 2",
+        "video": false,
+        "vote_average": 7.467,
+        "vote_count": 12600
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+        "genre_ids": [
+            28,
+            18,
+            10752
+        ],
+        "id": 554600,
+        "original_language": "hi",
+        "original_title": "Uri: The Surgical Strike",
+        "overview": "Forças especiais do exército indiano efetuam uma operação secreta contra uma célula terrorista, após o ataque em uma base.",
+        "popularity": 83.052,
+        "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+        "release_date": "2019-01-11",
+        "title": "Uri: The Surgical Strike",
+        "video": false,
+        "vote_average": 7.078,
+        "vote_count": 411
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 297762,
+        "original_language": "en",
+        "original_title": "Wonder Woman",
+        "overview": "Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.",
+        "popularity": 82.888,
+        "poster_path": "/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
+        "release_date": "2017-05-30",
+        "title": "Mulher-Maravilha",
+        "video": false,
+        "vote_average": 7.227,
+        "vote_count": 19645
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg",
+        "genre_ids": [
+            16,
+            878,
+            28
+        ],
+        "id": 149,
+        "original_language": "ja",
+        "original_title": "AKIRA",
+        "overview": "Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.",
+        "popularity": 82.128,
+        "poster_path": "/oVc2I0WBRaVCmnL3DO0LaPQuEqh.jpg",
+        "release_date": "1988-07-16",
+        "title": "Akira",
+        "video": false,
+        "vote_average": 7.948,
+        "vote_count": 4059
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m4c1V53pQ4Z1Jk6rC0Ve3OTcWqW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 82675,
+        "original_language": "en",
+        "original_title": "Taken 2",
+        "overview": "Em busca de vingança, um chefe do crime de Istambul sequestra um ex-agente da CIA e sua ex-esposa, forçando a filha deles a correr contra o tempo pelas ruas da cidade tentando resgatá-los antes que seja tarde demais.",
+        "popularity": 82.053,
+        "poster_path": "/laLGcxl36GAxahL5PbUC8qvabzO.jpg",
+        "release_date": "2012-09-27",
+        "title": "Busca Implacável 2",
+        "video": false,
+        "vote_average": 6.352,
+        "vote_count": 6479
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bW2R6PejAFk6FVCyLmTsgn8ETqZ.jpg",
+        "genre_ids": [
+            28,
+            878
+        ],
+        "id": 634429,
+        "original_language": "ja",
+        "original_title": "シン・ウルトラマン",
+        "overview": "Um alienígena está em busca de justiça e persegue um criminoso desonesto em um planeta chamado Terra. Para expiar suas ações, ele deixa o poder de transformar um humano em um herói para proteger os humanos.",
+        "popularity": 82.029,
+        "poster_path": "/1B56yPqhmCRvxdRnlcbousudhD7.jpg",
+        "release_date": "2022-05-13",
+        "title": "Shin Ultraman",
+        "video": false,
+        "vote_average": 7.193,
+        "vote_count": 150
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/esIwzihCKlyqT6AjdI3q6WdSi5u.jpg",
+        "genre_ids": [
+            16,
+            12,
+            35,
+            10751,
+            28,
+            14
+        ],
+        "id": 62177,
+        "original_language": "en",
+        "original_title": "Brave",
+        "overview": "Determinada a seguir seu próprio caminho na vida, a princesa Mérida desafia um costume que traz caos ao seu reino. Concedido um desejo, Merida deve confiar em sua bravura e suas habilidades de arco e flecha para desfazer uma maldição bestial.",
+        "popularity": 81.931,
+        "poster_path": "/jX9O3eyzfw937QOhRF4wz6nhxBM.jpg",
+        "release_date": "2012-06-21",
+        "title": "Valente",
+        "video": false,
+        "vote_average": 7.019,
+        "vote_count": 13125
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cUPj0zsNmTbczOh8SwlR8CB6DXt.jpg",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            18,
+            14
+        ],
+        "id": 39323,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールZ たったひとりの最終決戦〜フリーザに挑んだZ戦士 孫悟空の父〜",
+        "overview": "Este especial para TV mostra a história de Bardock, o pai de Goku, e também mostra a extinção dos Sayajins.",
+        "popularity": 81.861,
+        "poster_path": "/TQtQcckcXwkWxcij6JxJiyVXkG.jpg",
+        "release_date": "1990-10-17",
+        "title": "Dragon Ball Z: Bardock, O Pai de Goku",
+        "video": false,
+        "vote_average": 7.531,
+        "vote_count": 671
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 102899,
+        "original_language": "en",
+        "original_title": "Ant-Man",
+        "overview": "Dr. Hank, o inventor da fórmula/traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross, consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang está disposto a reconquistar o respeito da ex-mulher, Maggie e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.",
+        "popularity": 81.761,
+        "poster_path": "/pPmKIWhrpdttdRI5VwfiAIQZ9L2.jpg",
+        "release_date": "2015-07-14",
+        "title": "Homem-Formiga",
+        "video": false,
+        "vote_average": 7.078,
+        "vote_count": 19408
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "id": 841,
+        "original_language": "en",
+        "original_title": "Dune",
+        "overview": "Em 10.190 D.C., um duque e sua família são mandados pelo Imperador para Arrakis, um árido planeta conhecido como Duna, que tem uma matéria essencial às viagens interplanetárias: a Especiaria. O motivo desta mudança é que o Imperador planeja destruir o duque e sua família, mas seu filho escapa e procura se vingar usando a ecologia deste mundo como uma de suas armas.",
+        "popularity": 81.718,
+        "poster_path": "/hYhW2wag6lt6lmczbY1n12CvbK8.jpg",
+        "release_date": "1984-12-14",
+        "title": "Duna",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 2921
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rwcPe582tfTSVLwQzbO25InW3Hi.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            10751,
+            14
+        ],
+        "id": 1593,
+        "original_language": "en",
+        "original_title": "Night at the Museum",
+        "overview": "Quando Larry Daley é contratado como guarda noturno no museu, ele logo descobre que todos os seres do museu ganham vida após o pôr-do-sol. Logo de cara, Larry se vê frente a frente com um brincalhão esqueleto de T. Rex, mas também é cercado por exércitos de minúsculos soldados romanos e por caubóis armados. Para completar, há um macaquinho endiabrado que o deixa maluco! Mas talvez ele consiga descobrir um modo de controlar o caos e tornar-se um herói aos olhos de seu filho.",
+        "popularity": 81.553,
+        "poster_path": "/4b7dG2IHcu4s9BoAqXIMrzf832H.jpg",
+        "release_date": "2006-12-20",
+        "title": "Uma Noite no Museu",
+        "video": false,
+        "vote_average": 6.582,
+        "vote_count": 9981
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cbdW4WjsY7jUZXdGB057o1Aasld.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1214314,
+        "original_language": "en",
+        "original_title": "One More Shot",
+        "overview": "Após o ataque ao local negro na Polónia, o SEAL da Marinha Jake Harris é condenado a escoltar o suspeito terrorista Amin Mansur a Washington DC para interrogatório.",
+        "popularity": 81.481,
+        "poster_path": "/zkHkMLoC41euiPZG62wslcHLreH.jpg",
+        "release_date": "2024-01-09",
+        "title": "Mais Um Tiro Certo",
+        "video": false,
+        "vote_average": 6.527,
+        "vote_count": 205
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 343611,
+        "original_language": "en",
+        "original_title": "Jack Reacher: Never Go Back",
+        "overview": "Jack Reacher retorna para reafirmar sua ousada marca de justiça, em \"uma divertida aventura de ação\" baseada na série de best-sellers do autor Lee Child. Quando a major do Exército Susan Turner é incriminada por traição, Reacher descobre que ela foi alvo de uma tremenda conspiração governamental. Com a ajuda da própria Turner e de um misterioso novo aliado, Reacher arrisca tudo para derrubar a poderosa organização, que não vai se deter diante de nada para proteger seus segredos.",
+        "popularity": 81.352,
+        "poster_path": "/4cnLIFdmZbxPTajcXAyOL3mMCKr.jpg",
+        "release_date": "2016-10-19",
+        "title": "Jack Reacher: Sem Retorno",
+        "video": false,
+        "vote_average": 5.982,
+        "vote_count": 4748
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cCjzu6OZIUDWowadzexCHNBTmjH.jpg",
+        "genre_ids": [
+            878,
+            28,
+            53
+        ],
+        "id": 19959,
+        "original_language": "en",
+        "original_title": "Surrogates",
+        "overview": "O agente do FBI Tom Greer vive em um mundo onde robôs tomam o lugar das pessoas, protegendo-as da violência. Estes humanóides, aparentemente perfeitos e reais, possibilitam à população experimentar comodidade e segurança. Greer e a sua parceira Peters são chamados para investigar a morte de um estudante universitário, cujo substituto é destruído. Em um mundo de máscaras, Greer tem que decidir quem é real e em quem pode confiar, arriscando a sua própria vida para resolver o caso.",
+        "popularity": 81.292,
+        "poster_path": "/w1iqcoxsZCSyoXdmRgpIUeGD8c7.jpg",
+        "release_date": "2009-09-24",
+        "title": "Substitutos",
+        "video": false,
+        "vote_average": 6.117,
+        "vote_count": 3076
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8vQBXqDbb30qNpBcNYwTesSg75.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 1927,
+        "original_language": "en",
+        "original_title": "Hulk",
+        "overview": "Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.",
+        "popularity": 81.236,
+        "poster_path": "/dLEezc8nU4O2i96x68AvpA7xyel.jpg",
+        "release_date": "2003-06-19",
+        "title": "Hulk",
+        "video": false,
+        "vote_average": 5.55,
+        "vote_count": 5633
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gxHJdROahEY1M1uJQBvd7lG4K4X.jpg",
+        "genre_ids": [
+            16,
+            28,
+            14,
+            878
+        ],
+        "id": 893712,
+        "original_language": "ja",
+        "original_title": "劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ",
+        "overview": "Mais de um mês se passou desde que 10.000 usuários ficaram presos dentro do mundo \"Sword Art Online\". Asuna, que finalizou o primeiro andar do castelo de ferro flutuante de Aincrad, juntou-se a Kirito e continuou sua jornada para chegar ao último andar. Com o apoio da corretora de informações Argo, concluir os andares parecia estar progredindo sem problemas, mas o conflito irrompe entre duas grandes guildas que deveriam estar trabalhando juntas - os principais grupos de jogadores do Esquadrão de Libertação de Aincrad e a Brigada dos Cavaleiros do Dragão. E enquanto isso, nos bastidores existe uma figura misteriosa puxando os cordelinhos…",
+        "popularity": 81.129,
+        "poster_path": "/8ICEmvxffvDoI8CSPtJYlBXrNce.jpg",
+        "release_date": "2022-10-22",
+        "title": "Sword Art Online Progressive: Scherzo do Crepúsculo Sombrio",
+        "video": false,
+        "vote_average": 7.708,
+        "vote_count": 171
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 1771,
+        "original_language": "en",
+        "original_title": "Captain America: The First Avenger",
+        "overview": "Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no super soldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha, o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.",
+        "popularity": 81.117,
+        "poster_path": "/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
+        "release_date": "2011-07-22",
+        "title": "Capitão América: O Primeiro Vingador",
+        "video": false,
+        "vote_average": 7.001,
+        "vote_count": 21048
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/msU3F9DVNFvCsQVxhxliyWSO03D.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 10196,
+        "original_language": "en",
+        "original_title": "The Last Airbender",
+        "overview": "As quatro nações, Ar, Água, Terra e Fogo, viviam em harmonia, até que a nação do Fogo declarou guerra com o objetivo de dominar o mundo. Um século depois, não há perspectiva para o fim da destruição, até que um avatar chamado Aang descobre ter o poder de controlar os quatro elementos. Ele se une aos irmãos Katara e Sokka, da Água, e juntos partem em uma grande e perigosa aventura em busca da paz, para restaurar o equilíbrio e a harmonia.",
+        "popularity": 81.004,
+        "poster_path": "/fIlnPOGWqtRQj7vQdO7iAGAQ1uJ.jpg",
+        "release_date": "2010-06-30",
+        "title": "O Último Mestre do Ar",
+        "video": false,
+        "vote_average": 4.655,
+        "vote_count": 3873
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 725201,
+        "original_language": "en",
+        "original_title": "The Gray Man",
+        "overview": "Um agente oculto da CIA descobre segredos comprometedores da agência e é caçado mundo afora por um dissidente sociopata que coloca sua cabeça a prêmio.",
+        "popularity": 80.991,
+        "poster_path": "/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
+        "release_date": "2022-07-13",
+        "title": "Agente Oculto",
+        "video": false,
+        "vote_average": 6.964,
+        "vote_count": 3480
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ktzhr2m6y98PtwOdfOtTA0X232m.jpg",
+        "genre_ids": [
+            16,
+            878,
+            28,
+            18
+        ],
+        "id": 15137,
+        "original_language": "ja",
+        "original_title": "ヱヴァンゲリヲン新劇場版：序",
+        "overview": "Tokyo-3 permanece em pé após a maior parte da civilização ter sido dizimada no Segundo Impacto. Agora, a cidade sofre o ataque incessante dos estranhos e mortais Anjos, criaturas bizarras empenhadas em exterminar a raça humana. Para combater esse cruel inimigo, a agência governamental NERV constrói uma frota de máquinas humanóides (os EVAs) e Shinji Ikari é chamado para entrar em ação! Vivendo uma vida de solidão e questionando sua própria existência, Shinji se esforça para aceitar a responsabilidade para a batalha pela sobrevivência da humanidade.",
+        "popularity": 80.813,
+        "poster_path": "/xzYLUve9n4Q3oSntwunNfU1D2s1.jpg",
+        "release_date": "2007-09-01",
+        "title": "Evangelion: 1.0 Você (Não) Está Sozinho",
+        "video": false,
+        "vote_average": 7.601,
+        "vote_count": 908
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 497698,
+        "original_language": "en",
+        "original_title": "Black Widow",
+        "overview": "Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado. Perseguida por uma força implacável disposta a tudo para destruí-la, Natasha precisa agora lidar com seu passado como espiã e com as relações que deixou para trás muito antes de se tornar uma Vingadora.",
+        "popularity": 80.782,
+        "poster_path": "/pGkBgxoaNynkOBs6HEIG3dvkbuk.jpg",
+        "release_date": "2021-07-07",
+        "title": "Viúva Negra",
+        "video": false,
+        "vote_average": 7.253,
+        "vote_count": 9917
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dAXSflkUKRfpzK74kRaovfK09Kx.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 961268,
+        "original_language": "ko",
+        "original_title": "발레리나",
+        "overview": "Sofrendo com a morte da melhor amiga após não conseguir protegê-la, uma antiga guarda-costas vai fazer de tudo para realizar seu último pedido: vingança.",
+        "popularity": 80.56,
+        "poster_path": "/zrL3C3YPiuFchLgQVYSlYZyx15G.jpg",
+        "release_date": "2023-10-05",
+        "title": "A Bailarina",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 463
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6c7j7MQCczzNVvcrNEiXbs8Kt2p.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ],
+        "id": 9509,
+        "original_language": "en",
+        "original_title": "Man on Fire",
+        "overview": "Uma grande onda de sequestros e criminalidade varre a Cidade do México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy é um ex-agente da CIA. Sem emprego e bebendo mais do que deveria, ele aceita a proposta de ser guarda-costas da pequena Pita, uma garota de 9 anos que é filha de um industrial. O sequestro de Pita faz com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.",
+        "popularity": 80.46,
+        "poster_path": "/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg",
+        "release_date": "2004-04-23",
+        "title": "Chamas da Vingança",
+        "video": false,
+        "vote_average": 7.461,
+        "vote_count": 4971
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iFaWUETEE2umP1WY0LUAmjSpzm7.jpg",
+        "genre_ids": [
+            28,
+            35,
+            18,
+            53
+        ],
+        "id": 787,
+        "original_language": "en",
+        "original_title": "Mr. & Mrs. Smith",
+        "overview": "John e Jane Smith aparentemente parecem formar um casal normal, mas na realidade ambos mantêm um segredo. Os dois são assassinos de aluguel contratados por empresas rivais. A verdade só vem à tona quando John e Jane, sem saber, recebem uma missão para eliminar o mesmo alvo e mais tarde descobrem que devem matar um ao outro.",
+        "popularity": 80.457,
+        "poster_path": "/xpBYICwTOy67ne4fT3rHvtVBtCe.jpg",
+        "release_date": "2005-06-07",
+        "title": "Sr. & Sra. Smith",
+        "video": false,
+        "vote_average": 6.686,
+        "vote_count": 10118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mo5EJsExrQCroqPDwUwp6jeq0xS.jpg",
+        "genre_ids": [
+            28,
+            14,
+            878,
+            12
+        ],
+        "id": 268896,
+        "original_language": "en",
+        "original_title": "Pacific Rim: Uprising",
+        "overview": "Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de pequeno porte. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá, Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os Kaiju que tenta lhe ajudar a se readaptar ao ambiente militar.",
+        "popularity": 80.435,
+        "poster_path": "/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg",
+        "release_date": "2018-03-21",
+        "title": "Círculo de Fogo: A Revolta",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 4816
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 299537,
+        "original_language": "en",
+        "original_title": "Captain Marvel",
+        "overview": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.",
+        "popularity": 80.335,
+        "poster_path": "/n3BisLdTMceUWcdP1ooP5VwN9JF.jpg",
+        "release_date": "2019-03-06",
+        "title": "Capitã Marvel",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 15400
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878
+        ],
+        "id": 679,
+        "original_language": "en",
+        "original_title": "Aliens",
+        "overview": "Cinquenta e quatro anos após escapar da \"Nostromo\", a tenente Ripley é encontrada a flutuar, perdida no espaço, ainda adormecida. De volta ao nosso planeta, ela conta tudo o que lhe aconteceu, mas ninguém acredita realmente nela, ou lhe parece dar crédito, até que uma colónia de humanos, entretanto criada no planeta onde ela encontrou o primeiro Alienígena, deixa de emitir comunicações subitamente. Ela então é convocada para auxiliar uma expedição militar ao local, sendo a única aparentemente consciente de que o pesadelo está longe do fim.",
+        "popularity": 80.125,
+        "poster_path": "/cKagHBFEzD9ebVocyXRxdnZFdMo.jpg",
+        "release_date": "1986-07-18",
+        "title": "Aliens: O Resgate",
+        "video": false,
+        "vote_average": 7.94,
+        "vote_count": 9336
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hMl124Go2Ed9Qu8VsPLiA3nBSMk.jpg",
+        "genre_ids": [
+            28,
+            18,
+            36
+        ],
+        "id": 1579,
+        "original_language": "en",
+        "original_title": "Apocalypto",
+        "overview": "Jaguar Paw (Rudy Youngblood) levava uma vida tranquila, que foi interrompida devido à uma invasão. Os governantes de um império maia em declínio acreditavam que a chave para a prosperidade seria construir mais templos e realizar mais sacrifícios humanos. Jaguar é capturado para ser um destes sacrifícios, mas consegue escapar por acaso. Agora, guiado apenas pelo amor que sente por sua esposa e pela filha, ele realiza uma corrida desesperada para chegar em casa e salvar sua família.",
+        "popularity": 80.094,
+        "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+        "release_date": "2006-12-07",
+        "title": "Apocalypto",
+        "video": false,
+        "vote_average": 7.579,
+        "vote_count": 5391
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dxyUN2kMhr0gMBKQpE79Z4sWAp5.jpg",
+        "genre_ids": [
+            14,
+            28,
+            12,
+            53
+        ],
+        "id": 346672,
+        "original_language": "en",
+        "original_title": "Underworld: Blood Wars",
+        "overview": "Selene é uma guerreira vampira que luta para acabar com a guerra eterna entre o clã Lycan de lobisomens sanguinários e a facção de vampiros que a traiu. Quando um novo levante parece tomar forma, ela irá utilizar sua influência e relacionamento com ambas as partes para negociar um cessar fogo.",
+        "popularity": 80.024,
+        "poster_path": "/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg",
+        "release_date": "2016-11-24",
+        "title": "Anjos da Noite: Guerras de Sangue",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 3580
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oTbIfHSLNxi9ihV6SG4K6jZ2PvM.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 15092,
+        "original_language": "en",
+        "original_title": "Crank: High Voltage",
+        "overview": "Chev Chelios (Jason Statham) teve seu coração roubado, sendo substituído por uma bateria. Agora ele precisa carregá-la de tempos em tempos, com altas doses de eletricidade, caso contrário morre. Para sobreviver ele precisa encontrar o mafioso chinês responsável por sua atual situação.",
+        "popularity": 79.733,
+        "poster_path": "/yZzRqVfeKHU05O99kT8sS41Keh7.jpg",
+        "release_date": "2009-04-16",
+        "title": "Adrenalina 2: Alta Voltagem",
+        "video": false,
+        "vote_average": 6.066,
+        "vote_count": 2745
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pWNUpRESGnzKqweHCB77JShPZ2i.jpg",
+        "genre_ids": [
+            16,
+            28,
+            878
+        ],
+        "id": 126963,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールZ 神と神",
+        "overview": "Bills, o Deus da destruição, despertou depois de anos de letargia. Ao escutar que um Super Saiyajin conseguiu vencer Freeza, Bills vai atrás de Goku e de um suposto Deus Saiyajin. Goku precisa se preparar para enfrentar uma força inimaginável.",
+        "popularity": 79.654,
+        "poster_path": "/sF8ZL7ALPQWqvlg0FPE2fgdXOkR.jpg",
+        "release_date": "2013-03-30",
+        "title": "Dragon Ball Z: A Batalha dos Deuses",
+        "video": false,
+        "vote_average": 6.786,
+        "vote_count": 1491
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eVHVwP71el20fofkCHo78ebQv7Q.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35
+        ],
+        "id": 343668,
+        "original_language": "en",
+        "original_title": "Kingsman: The Golden Circle",
+        "overview": "Um grandioso ataque destrói o quartel-general Kingsman, obrigando Eggsy, Merlin e cia a unirem forças com o equivalente estadunidense da agência, os Statesman. Britânicos e norte-americanos ignoram as diferenças em defesa do mundo, ameaçado pelos planos da vilã Poppy.",
+        "popularity": 79.639,
+        "poster_path": "/k8lduAlGOXDYYKSlBeJ0CDyra0x.jpg",
+        "release_date": "2017-09-20",
+        "title": "Kingsman: O Círculo Dourado",
+        "video": false,
+        "vote_average": 6.969,
+        "vote_count": 10086
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3RWsSQlqzRjsuqSRmoyggy74UA7.jpg",
+        "genre_ids": [
+            28,
+            14,
+            35
+        ],
+        "id": 43074,
+        "original_language": "en",
+        "original_title": "Ghostbusters",
+        "overview": "Atualmente uma respeitada professora da Universidade de Columbia, Erin Gilbert escreveu anos atrás um livro sobre a existência de fantasmas em parceria com a colega Abby Yates. A obra, que nunca foi levada a sério, é descoberta por seus pares acadêmicos e Erin perde o emprego. Quando Patty Tolan, funcionária do metrô de Nova York, presencia estranhos eventos no subterrâneo, Erin, Abby e Jillian Holtzmann se unem e partem para a ação pela salvação da cidade e do mundo.",
+        "popularity": 79.606,
+        "poster_path": "/qcpfGdYahW1NkqPAz2MHLPHas8O.jpg",
+        "release_date": "2016-07-14",
+        "title": "Caça-Fantasmas",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 6294
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53
+        ],
+        "id": 7485,
+        "original_language": "en",
+        "original_title": "Shooter",
+        "overview": "O atirador Marksman Bob Lee Swagger deixa o exército e desaparece sem deixar rastros. Ele volta para impedir o assassinato do Presidente dos Estados Unidos, mas é enganado e passa a ser perseguido como criminoso.",
+        "popularity": 79.512,
+        "poster_path": "/qluvMxXA2p15s7egazJn9vhX5Gi.jpg",
+        "release_date": "2007-03-22",
+        "title": "Atirador",
+        "video": false,
+        "vote_average": 7.115,
+        "vote_count": 4720
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jmg9qYhzPZdYuNaOZr5xrQPK6cQ.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 311324,
+        "original_language": "en",
+        "original_title": "The Great Wall",
+        "overview": "No século XV, William e Tovar são dois mercenários em busca de “pó negro” (pólvora). Depois de escaparem do ataque de uma criatura misteriosa, eles se encontram, acidentalmente, aos pés da Grande Muralha. Lá, eles acabam aprisionados pelos guerreiros chineses, que estão na iminência de sofrerem um ataque. Reza a lenda que, a cada 60 anos, uma horda de monstros tenta transpassar a barreira, para se alimentar dos humanos que vivem do outro lado.",
+        "popularity": 79.306,
+        "poster_path": "/nCIZ40JJzaXeitNXSnlKGpc9cmT.jpg",
+        "release_date": "2016-12-16",
+        "title": "A Grande Muralha",
+        "video": false,
+        "vote_average": 6.024,
+        "vote_count": 5008
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 168259,
+        "original_language": "en",
+        "original_title": "Furious 7",
+        "overview": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.",
+        "popularity": 79.2,
+        "poster_path": "/spydMyyD81HjGJVwZvjajkrWW1h.jpg",
+        "release_date": "2015-04-01",
+        "title": "Velozes & Furiosos 7",
+        "video": false,
+        "vote_average": 7.234,
+        "vote_count": 10410
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b9UCfDzwiWw7mIFsIQR9ZJUeh7q.jpg",
+        "genre_ids": [
+            28,
+            35,
+            10749
+        ],
+        "id": 868759,
+        "original_language": "en",
+        "original_title": "Ghosted",
+        "overview": "O corretíssimo Cole se apaixona pela enigmática Sadie, mas logo enfrenta a chocante descoberta de que ela é uma agente secreta. Antes que eles possam decidir se terão ou não um segundo encontro, Cole e Sadie são arrastados para uma aventura internacional para salvar o mundo.",
+        "popularity": 79.191,
+        "poster_path": "/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg",
+        "release_date": "2023-04-18",
+        "title": "Ghosted: Sem Resposta",
+        "video": false,
+        "vote_average": 6.966,
+        "vote_count": 1674
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ciKBP3tgzUxp7sHFNZxofBXUS8k.jpg",
+        "genre_ids": [
+            27,
+            28,
+            53
+        ],
+        "id": 602223,
+        "original_language": "en",
+        "original_title": "The Forever Purge",
+        "overview": "Após uma conturbada eleição e a abolição da Noite do Expurgo, Adela e Juan se refugiam em um rancho texano, escapando de um cartel de drogas no México. As coisas se complicam quando um grupo de forasteiros decidem continuar o Expurgo após o tempo permitido onde as pessoas podem quebrar todas as leis.",
+        "popularity": 79.144,
+        "poster_path": "/v9d5RN9j9BbqBQm4L7oTLIM3qu2.jpg",
+        "release_date": "2021-06-30",
+        "title": "Uma Noite de Crime:  A Fronteira",
+        "video": false,
+        "vote_average": 6.96,
+        "vote_count": 2411
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oal5fDK90yX6b8yunj6JahBqX2J.jpg",
+        "genre_ids": [
+            10752,
+            28,
+            18
+        ],
+        "id": 966220,
+        "original_language": "uk",
+        "original_title": "Снайпер. Білий ворон",
+        "overview": "Depois de sofrer uma tragédia nas mãos de soldados invasores em Donbass, um professor de física ucraniano busca vingança. Ele está de olho em um atirador de elite russo cuja eliminação pode mudar o curso do conflito.",
+        "popularity": 79.064,
+        "poster_path": "/1zNcJWXQYgMDAF3pNoqxU47FHfc.jpg",
+        "release_date": "2022-05-03",
+        "title": "Corvo Branco",
+        "video": false,
+        "vote_average": 7.664,
+        "vote_count": 716
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 447404,
+        "original_language": "en",
+        "original_title": "Pokémon Detective Pikachu",
+        "overview": "O desaparecimento do detetive Harry Goodman faz com que seu filho Tim parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.",
+        "popularity": 78.908,
+        "poster_path": "/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg",
+        "release_date": "2019-05-03",
+        "title": "Pokémon: Detetive Pikachu",
+        "video": false,
+        "vote_average": 6.933,
+        "vote_count": 6639
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/abwxHfymXGAbbH3lo9PDEJEfvtW.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 1894,
+        "original_language": "en",
+        "original_title": "Star Wars: Episode II - Attack of the Clones",
+        "overview": "Com a missão de proteger a Senadora Amidala, Anakin Skywalker descobre o seu amor por ela, do mesmo modo que vai conhecendo seu lado sombrio. Obi-Wan Kenobi descobre um exército de clones à medida que a Galáxia caminha para uma grande guerra.",
+        "popularity": 78.734,
+        "poster_path": "/9m1nJ2MfTG5QEmjOCg0b4YCo4W8.jpg",
+        "release_date": "2002-05-15",
+        "title": "Star Wars: Episódio II - Ataque dos Clones",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 12949
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+        "genre_ids": [
+            18,
+            28,
+            36
+        ],
+        "id": 359724,
+        "original_language": "en",
+        "original_title": "Ford v Ferrari",
+        "overview": "O designer de carros americano Carroll Shelby e o destemido piloto britânico Ken Miles juntos combatem a interferência corporativa e as leis da física para construir um carro de corrida revolucionário e enfrentar Enzo Ferrari nas 24 horas de Le Mans na França em 1966.",
+        "popularity": 78.562,
+        "poster_path": "/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg",
+        "release_date": "2019-11-13",
+        "title": "Ford vs Ferrari",
+        "video": false,
+        "vote_average": 8.005,
+        "vote_count": 7677
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mOyF7rHVLF6uLbyb18FWTmcrjJe.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "id": 956,
+        "original_language": "en",
+        "original_title": "Mission: Impossible III",
+        "overview": "O agente Ethan Hunt está afastado do trabalho de campo para a IMF, trabalhando apenas como treinador de novos agentes. Ele agora leva uma vida tranquila com Julia, com quem pretende se casar e que nada sabe sobre seu verdadeiro trabalho. Entretanto Ethan é chamado de volta à ativa quando uma de suas pupilas, Lindsey, é capturada por Owen Davian, um negociante de armas sem escrúpulos. Para resgatá-la é reunida uma nova equipe, formada por seu velho amigo Luther Stickell, o especialista em transportes Declan e Zhen.",
+        "popularity": 78.502,
+        "poster_path": "/nWvo0ymqnSCCHsi18q0PITqPTBW.jpg",
+        "release_date": "2006-04-25",
+        "title": "Missão: Impossível 3",
+        "video": false,
+        "vote_average": 6.737,
+        "vote_count": 6597
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 284054,
+        "original_language": "en",
+        "original_title": "Black Panther",
+        "overview": "O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.",
+        "popularity": 78.416,
+        "poster_path": "/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+        "release_date": "2018-02-13",
+        "title": "Pantera Negra",
+        "video": false,
+        "vote_average": 7.386,
+        "vote_count": 21836
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aQX9Hc4pCdbkzf4Oz6FMSpujagV.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 1895,
+        "original_language": "en",
+        "original_title": "Star Wars: Episode III - Revenge of the Sith",
+        "overview": "As Guerras Clônicas estão em pleno andamento e Anakin Skywalker mantém um elo de lealdade com Palpatine, ao mesmo tempo em que luta para que seu casamento com Padmé Amidala não seja afetado por esta situação. Seduzido por promessas de poder, Anakin se aproxima cada vez mais de Darth Sidious até se tornar o temível Darth Vader. Juntos eles tramam um plano para aniquilar de uma vez por todas com os cavaleiros jedi.",
+        "popularity": 78.23,
+        "poster_path": "/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg",
+        "release_date": "2005-05-17",
+        "title": "Star Wars: Episódio III - A Vingança dos Sith",
+        "video": false,
+        "vote_average": 7.43,
+        "vote_count": 13414
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6KJcFFE1iBPC0Xj0iPCcmMvS5WK.jpg",
+        "genre_ids": [
+            14,
+            28,
+            35
+        ],
+        "id": 49524,
+        "original_language": "en",
+        "original_title": "R.I.P.D.",
+        "overview": "O sarcástico xerife Roy Pulsifer é um veterano do Departamento. Ele recrutou Nick Walker, um brilhante detetive em ascensão, morto no auge de sua existência. Esses improváveis parceiros descobrem um plano que pode acabar com a vida como conhecemos e têm que trabalhar juntos, antes que o planeta seja dominado pelas almas enfurecidas que evitam encarar a justiça.",
+        "popularity": 78.145,
+        "poster_path": "/gwrmdGGGFnylffZqZgkoJa31DOn.jpg",
+        "release_date": "2013-07-18",
+        "title": "R.I.P.D.: Agentes do Além",
+        "video": false,
+        "vote_average": 5.837,
+        "vote_count": 3887
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/OrYq215ZYM75dBaHt6v7EHEyPz.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 177677,
+        "original_language": "en",
+        "original_title": "Mission: Impossible - Rogue Nation",
+        "overview": "O agente do IMF Ethan Hunt e sua equipe enfrentam uma das missões mais difíceis: erradicar o Sindicato, uma organização secreta internacional de assassinos profissionais que está determinada a destruir o IMF.",
+        "popularity": 78.075,
+        "poster_path": "/AfB5Hjv5oe4caSmsfoeCi7frkIp.jpg",
+        "release_date": "2015-07-23",
+        "title": "Missão: Impossível - Nação Secreta",
+        "video": false,
+        "vote_average": 7.203,
+        "vote_count": 8621
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7r8X5peJWDoNRolmBVkyHqX1L1K.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35
+        ],
+        "id": 9471,
+        "original_language": "en",
+        "original_title": "Charlie's Angels: Full Throttle",
+        "overview": "As \"sexy\" panteras estão de volta para confrontar outra pantera que agora é do mal! Ao lado do file assessor Bosley, as beldades maravilhosas realmente dão um duro danado para resgatar os anéis que contêm informações codificadas sobre cada pessoa do programa federal de proteção às testemunhas! Com muita personalidade, elas arrasam neste filme de ação que não pára nunca!",
+        "popularity": 77.75,
+        "poster_path": "/4GZLHlKuvQCqNnKfT3GNZYnlFFc.jpg",
+        "release_date": "2003-06-27",
+        "title": "As Panteras: Detonando",
+        "video": false,
+        "vote_average": 5.47,
+        "vote_count": 2942
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 545611,
+        "original_language": "en",
+        "original_title": "Everything Everywhere All at Once",
+        "overview": "Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisará salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.",
+        "popularity": 77.358,
+        "poster_path": "/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg",
+        "release_date": "2022-03-24",
+        "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+        "video": false,
+        "vote_average": 7.783,
+        "vote_count": 6197
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+        "genre_ids": [
+            16,
+            28,
+            35,
+            10751,
+            878
+        ],
+        "id": 38055,
+        "original_language": "en",
+        "original_title": "Megamind",
+        "overview": "Tudo o que vilão Megamente mais queria era eliminar seu adversário Metro Man e assim dominar a cidade de Metro City. Só que para isso era necessário um plano ainda mais diabólico do que todos já tentados anteriormente. Um dia, com a ajuda de Criado e após sequestrar a repórter Rosane Rocha, o malvado consegue o inimaginável, para ele e para todos: dar um sumiço no herói. A única coisa que ele não contava era que sua vida se tornaria tão chata a ponto de ele inventar um herói para combater.",
+        "popularity": 77.168,
+        "poster_path": "/kbiEPYIfdRENV7t0KvMZJ2HIfcQ.jpg",
+        "release_date": "2010-10-28",
+        "title": "Megamente",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 6697
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 949,
+        "original_language": "en",
+        "original_title": "Heat",
+        "overview": "Em Los Angeles é cometido um assalto no qual são roubados US$ 1,6 milhão de títulos ao portador e três policiais são mortos no assalto. Assim, um detetive da Divisão de Roubo e Homicídio assume o caso. Apesar de contar com poucas pistas, de estar lidando com ladrões profissionais além de ter problemas em sua vida pessoal, ele tenta impedir que esta quadrilha continue operando.",
+        "popularity": 76.973,
+        "poster_path": "/kqT6z0L0ArfUyEks4oJUFcz8hYa.jpg",
+        "release_date": "1995-12-15",
+        "title": "Fogo Contra Fogo",
+        "video": false,
+        "vote_average": 7.92,
+        "vote_count": 7072
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            878
+        ],
+        "id": 607,
+        "original_language": "en",
+        "original_title": "Men in Black",
+        "overview": "Kay e Jay, os Homens de Preto, são o maior segredo já mantido no universo. Eles são agentes de uma agência não-oficial do governo e responsáveis por monitorar todos os encontros com alienígenas na Terra. Ao investigar uma série de atividades extraterrestres, descobrem um terrorista intergaláctico cuja missão é assassinar dois embaixadores de galáxias opostas.",
+        "popularity": 76.852,
+        "poster_path": "/bUA0TD2COayMP6ur9Qbewdbbm2e.jpg",
+        "release_date": "1997-07-02",
+        "title": "MIB - Homens de Preto",
+        "video": false,
+        "vote_average": 7.198,
+        "vote_count": 13469
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vyOFlV1afDHb9MMwJVyON4qXbvC.jpg",
+        "genre_ids": [
+            10751,
+            12,
+            16,
+            28
+        ],
+        "id": 9732,
+        "original_language": "en",
+        "original_title": "The Lion King II: Simba's Pride",
+        "overview": "Kiara é a filhote de Simba e Nala. A pequena leoa tem um espírito livre e aventureiro. Um dia, ela resolve passear para além dos limites do território de seu pai e encontra os descendentes do maléfico Scar. Um dos descendentes do algoz de Mufasa é Kovu, que se torna um grande amigo de Kiara. Entretanto, o amor entre os dois leõezinhos irá reacender uma rivalidade histórica.",
+        "popularity": 76.79,
+        "poster_path": "/9GB2FntD6nBGx1EsKKOtR7v4Tza.jpg",
+        "release_date": "1998-10-24",
+        "title": "O Rei Leão II: O Reino de Simba",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 4303
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qksfforuQFh0faMQKgXIa6lCEh0.jpg",
+        "genre_ids": [
+            28,
+            12,
+            37
+        ],
+        "id": 57201,
+        "original_language": "en",
+        "original_title": "The Lone Ranger",
+        "overview": "Depois de ser salvo pelo índio guerreiro Tonto de uma emboscada que matou seu irmão, o homem da lei John Reid decide usar uma máscara para se vingar dos assassinos, se transformando no lendário Cavaleiro Solitário.",
+        "popularity": 76.621,
+        "poster_path": "/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg",
+        "release_date": "2013-07-03",
+        "title": "O Cavaleiro Solitário",
+        "video": false,
+        "vote_average": 6.096,
+        "vote_count": 5711
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5AhpUb8CAP0jZ4Wrn7AsRUYjZxB.jpg",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ],
+        "id": 41154,
+        "original_language": "en",
+        "original_title": "Men in Black 3",
+        "overview": "J já viu coisas inexplicáveis em seus quinze anos com os Homens de Preto, porém, nada, nem mesmo alienígenas o deixam mais perplexo que seu parceiro irônico e reticente. Mas quando a vida de K e o destino do planeta estão em jogo, o agente J terá de viajar no tempo, no passado, para acertar as coisas. J descobre que o universo tem segredos que K nunca contou a ele – segredos que acabarão se revelando quando ele se unir ao jovem agente K para salvar seu parceiro, a agência e o futuro da humanidade.",
+        "popularity": 76.56,
+        "poster_path": "/4tHxYSppbpdZMjEsL3a71Y47vNx.jpg",
+        "release_date": "2012-05-23",
+        "title": "MIB - Homens de Preto III",
+        "video": false,
+        "vote_average": 6.519,
+        "vote_count": 10097
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cb1R4VdM0FkacQ8AYjuK9Qe6Lpl.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 241554,
+        "original_language": "en",
+        "original_title": "Run All Night",
+        "overview": "O mafioso e pistoleiro do Brooklyn Jimmy Conlon descobre que seu filho Mike está em perigo, e deve escolher entre a família do crime que escolheu e a família real que abandonou há muito tempo. Com Mike foragido, a única penitência de Conlon para os erros do passado pode ser evitar que o filho tenha o mesmo destino que o dele.",
+        "popularity": 76.416,
+        "poster_path": "/r6syWDxxJjeN1DToLPIhdBZ444n.jpg",
+        "release_date": "2015-03-11",
+        "title": "Noite Sem Fim",
+        "video": false,
+        "vote_average": 6.41,
+        "vote_count": 2732
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ygTSl89OtmXY4ESMpEF7qZcpGR8.jpg",
+        "genre_ids": [
+            12,
+            28,
+            14
+        ],
+        "id": 564,
+        "original_language": "en",
+        "original_title": "The Mummy",
+        "overview": "Em 1926, um grupo de arqueólogos descobre uma tumba na cidade perdida de Hamunaptra. Dentro da tumba é encontrado o corpo de Imhotep (Arnold Vosloo), o sacerdote do Faraó Seti (Aharon Ipalé), que foi mumificado vivo além de ter recebido a mais terrível das maldições por ter dormido com a amante do faraó e, movido por ciúme doentio e amor, ter matado o Faraó. No entanto, quando um dos membros da expedição lê um manuscrito que foi encontrado pelo grupo e traz Imhotep de volta vida, ele ressurge cheio de ódio e só pensa em reencontrar sua amada e destruir todos que cruzem o seu caminho, trazendo consigo as dez pragas do Egito.",
+        "popularity": 76.236,
+        "poster_path": "/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg",
+        "release_date": "1999-04-16",
+        "title": "A Múmia",
+        "video": false,
+        "vote_average": 6.929,
+        "vote_count": 8832
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 13475,
+        "original_language": "en",
+        "original_title": "Star Trek",
+        "overview": "A bordo da USS Enterprise, a nave mais sofisticada já construída, uma tripulação de novatos embarca em sua viagem inaugural, que é atrapalhada por Nero, um comandante cuja vingança ameaça toda a humanidade. Para que os humanos possam sobreviver, James Kirk, um jovem oficial rebelde, e Spock, um Vulcan completamente lógico, devem superar a rivalidade que há entre eles e encontrar uma maneira de derrotar Nero antes que seja tarde demais.",
+        "popularity": 76.173,
+        "poster_path": "/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg",
+        "release_date": "2009-05-06",
+        "title": "Star Trek",
+        "video": false,
+        "vote_average": 7.431,
+        "vote_count": 9683
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hd95kH9RgN3W78UaFU6Sdpy9Mfl.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1027073,
+        "original_language": "en",
+        "original_title": "In the Land of Saints and Sinners",
+        "overview": "Em um remoto vilarejo irlandês, Finbar é forçado a lutar pela redenção após uma vida inteira de pecados, mas que preço ele está disposto a pagar? Na terra de santos e pecadores, alguns pecados não podem ser enterrados.",
+        "popularity": 76.087,
+        "poster_path": "/phZWaMnHK1YfWY7WyUAsU61Fj8s.jpg",
+        "release_date": "2023-10-06",
+        "title": "Na Terra de Santos e Pecadores",
+        "video": false,
+        "vote_average": 6.555,
+        "vote_count": 283
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 272,
+        "original_language": "en",
+        "original_title": "Batman Begins",
+        "overview": "Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.",
+        "popularity": 76.032,
+        "poster_path": "/7EyhcdfiLtH0xa6CZkyYuoWL2GJ.jpg",
+        "release_date": "2005-06-10",
+        "title": "Batman Begins",
+        "video": false,
+        "vote_average": 7.708,
+        "vote_count": 20537
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Cip74Gl1xOkRP0e4OAiPZp8C4k.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            10751
+        ],
+        "id": 38575,
+        "original_language": "en",
+        "original_title": "The Karate Kid",
+        "overview": "Dre Parker se mudou com a mãe para Pequim, devido ao trabalho dela. Logo ao chegar, ele se interessa por Meiying, uma garota que conhece praticando violino em uma praça. A aproximação deles provoca a irritação de Cheng, que lhe dá uma surra usando a técnica do kung fu. A partir de então a vida de Dre se torna um inferno, já que passa a ser perseguido na escola por Cheng e seus colegas. Um dia, ao escapar deles, Dre é auxiliado pelo Sr. Han, o zelador de seu prédio, que é também um mestre de kung fu.",
+        "popularity": 75.983,
+        "poster_path": "/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg",
+        "release_date": "2010-06-10",
+        "title": "Karatê Kid",
+        "video": false,
+        "vote_average": 6.536,
+        "vote_count": 5829
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gKbCRKm0SMV81u3lJ1FntlawRO5.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 49040,
+        "original_language": "en",
+        "original_title": "The Bourne Legacy",
+        "overview": "Eric Byer é encarregado de apagar os rastros que possam incriminar o governo em projetos sigilosos. Um deles é o Outcome, projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força dos agentes por meio de remédios. Com o fim do Outcome, os agente passam a ser eliminados a mando do próprio governo. No entanto, Aaron Cross consegue escapar e vai à casa da Dra. Martha Shearing atrás de respostas. Juntos, eles precisam sobreviver enquanto Aaron sofre da abstinência forçada.",
+        "popularity": 75.962,
+        "poster_path": "/nVNG7ObNVdQF5h2ySzpcXtGgMnH.jpg",
+        "release_date": "2012-08-08",
+        "title": "O Legado Bourne",
+        "video": false,
+        "vote_average": 6.222,
+        "vote_count": 5550
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg",
+        "genre_ids": [
+            878,
+            18,
+            28
+        ],
+        "id": 315837,
+        "original_language": "en",
+        "original_title": "Ghost in the Shell",
+        "overview": "Num mundo pós 2029, cérebros se fundem facilmente a computadores e a tecnologia está em todos os lugares. Motoko Kusanagi é uma ciborgue com experiência militar que comanda um esquadrão de elite especializado em combater crimes cibernéticos.",
+        "popularity": 75.943,
+        "poster_path": "/4KTaQLYRuac12gdPAYhXGHLSOW4.jpg",
+        "release_date": "2017-03-29",
+        "title": "A Vigilante do Amanhã: Ghost in the Shell",
+        "video": false,
+        "vote_average": 6.078,
+        "vote_count": 7847
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zzAErvRSasbEpe3biSLjhilvBlk.jpg",
+        "genre_ids": [
+            28,
+            53,
+            10752
+        ],
+        "id": 7555,
+        "original_language": "en",
+        "original_title": "Rambo",
+        "overview": "John Rambo se recolheu no norte da Tailândia, onde pilota um barco no Rio Salween. Na fronteira com a Birmânia, a mais longa guerra civil acontece entre birmaneses e a tribo Karen, um conflito de quase 60 anos. Mas Rambo tem uma vida simples e solitária nas montanhas e selvas e há muito tempo desistiu de lutar. Até que um grupo de missionários de direitos humanos o procura pedindo sua ajuda. O grupo logo é capturado e um pastor contrata um grupo de mercenários para resgatá-los. Apesar de ter sido um soldado treinado para matar, Rambo reluta em se envolver em conflitos violentos após tanto tempo. Suas feridas cicatrizaram, mas ainda estão visíveis.",
+        "popularity": 75.562,
+        "poster_path": "/2NbmBzgG1chI3fS31HHfZEEsApw.jpg",
+        "release_date": "2008-01-24",
+        "title": "Rambo IV",
+        "video": false,
+        "vote_average": 6.676,
+        "vote_count": 3780
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yWZCOzib7BipGjYJ39nrplb1Fy.jpg",
+        "genre_ids": [
+            28,
+            16,
+            878
+        ],
+        "id": 303857,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールZ 復活の「F」",
+        "overview": "Sorbet e Tagoma, dois remanescentes do exército de Freeza, chegam à Terra em busca das Esferas do Dragão. A ideia é reuní-las para ressuscitar seu antigo líder que foi vencido após uma batalha contra Goku. O plano é bem-sucedido e, com isso, Freeza retorna disposto a se vingar. Para tanto, ele se prepara durante meses, de forma que possa reencontrar Goku no auge do seu poder.",
+        "popularity": 75.438,
+        "poster_path": "/oth0VBziwe25mDzkJ6XzwmUCCDC.jpg",
+        "release_date": "2015-04-18",
+        "title": "Dragon Ball Z: O Renascimento de Freeza",
+        "video": false,
+        "vote_average": 6.837,
+        "vote_count": 1863
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ktn3lkVHlaLpymvp7cCIPdb65g.jpg",
+        "genre_ids": [
+            16,
+            28,
+            878
+        ],
+        "id": 39108,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
+        "overview": "Hirudegarn é um dêmonio que foi criado pelos magos negros de uma galáxia muito distante. Criado a partir de uma estátua com esse nome, Hildegarn tem somente um objetivo: destruir todas as galáxias que existem. Para impedir seus objetivos, Tapion, Minoshia e seu pai lutaram bravamente para aprisionar o mostro. O vilão foi dividido em duas partes durante o aprisionamento cada parte foi selada em um oráculo.",
+        "popularity": 75.402,
+        "poster_path": "/3HKCZmoTK3gwYJAFBTvJETaaDFt.jpg",
+        "release_date": "1995-07-15",
+        "title": "Dragon Ball Z: O Ataque do Dragão",
+        "video": false,
+        "vote_average": 7.259,
+        "vote_count": 689
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fRnhnR2JfkGBT19z7EXEmIUcDSo.jpg",
+        "genre_ids": [
+            12,
+            28,
+            14
+        ],
+        "id": 1734,
+        "original_language": "en",
+        "original_title": "The Mummy Returns",
+        "overview": "Rick e Evelyn O'Connell estão morando na Londres de 1935, onde criam o filho. Quando uma série de eventos revela o corpo de Imhotep ressuscitado, os O'Connell iniciam uma corrida desesperada para salvar o mundo do mal e resgatar o filho antes que seja tarde demais.",
+        "popularity": 75.375,
+        "poster_path": "/trLVOBJxgq4K4Ei2OJFZgIeaPzB.jpg",
+        "release_date": "2001-05-04",
+        "title": "O Retorno da Múmia",
+        "video": false,
+        "vote_average": 6.377,
+        "vote_count": 6832
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bFxGD1TKrJq3Dr5Pjnn739gBhQF.jpg",
+        "genre_ids": [
+            10751,
+            28,
+            35
+        ],
+        "id": 592834,
+        "original_language": "en",
+        "original_title": "My Spy",
+        "overview": "Um agente da CIA de coração endurecido é enviado em uma missão secreta para vigiar uma família. Porém, o que ele não esperava era passar por poucas e boas à mercê de Sophie, a filha precoce de nove anos de idade da família.",
+        "popularity": 75.187,
+        "poster_path": "/s6i5Ypd9RGgUCU5YyJvrBllcGj7.jpg",
+        "release_date": "2020-01-09",
+        "title": "Aprendiz de Espiã",
+        "video": false,
+        "vote_average": 6.867,
+        "vote_count": 1104
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uQNB6ccHv4uR21643xqyhK5Dk6W.jpg",
+        "genre_ids": [
+            28,
+            53,
+            10752,
+            18,
+            12
+        ],
+        "id": 460555,
+        "original_language": "zh",
+        "original_title": "红海行动",
+        "overview": "Durante uma operação de rotina no Mar Vermelho, a P.L.A. Navy (Peoples Liberation Army) Chinesa é avisada de que um navio foi sequestrado por piratas locais, onde turistas e marinheiros chineses foram feitos reféns. Enquanto as frotas principais e fortemente armadas não cheguem, um grupo de marinheiros menos preparados precisa tomar o controle da situação e iniciar o resgate dos passageiros, no entanto, a operação improvisada não sai como o esperado e uma terrível batalha sangrenta é iniciada em alto mar e em terra.",
+        "popularity": 74.972,
+        "poster_path": "/9MpJdI5c21JodrjMM5w3yBV76k5.jpg",
+        "release_date": "2018-02-16",
+        "title": "Sequestro no Mar Vermelho",
+        "video": false,
+        "vote_average": 7.339,
+        "vote_count": 341
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 9056,
+        "original_language": "cn",
+        "original_title": "警察故事",
+        "overview": "O policial Chan Ka-Kui consegue botar atrás das grades um grande traficante de drogas de Hong Kong praticamente sozinho após um tiroteio e uma impressionante perseguição dentro de uma favela. Agora, ele deve proteger a secretária do chefão, Salina, que testemunhará contra o gângster no tribunal.",
+        "popularity": 74.883,
+        "poster_path": "/7xT1ukY1zDksLbSX2eeguXi7TRK.jpg",
+        "release_date": "1985-12-14",
+        "title": "Police Story: A Guerra das Drogas",
+        "video": false,
+        "vote_average": 7.528,
+        "vote_count": 840
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3YKGMZQ0pwQXSBSASeKlfPlkso7.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 228967,
+        "original_language": "en",
+        "original_title": "The Interview",
+        "overview": "Dave Skylark e seu produtor Aaron Rapoport têm um programa de TV apelativo sobre celebridades chamado \"Skylark Tonight\". Eles descobrem que o ditador norte-coreano Kim Jong-un é fã do programa e decidem fazer uma entrevista com ele, na tentativa de legitimarem-se como jornalistas. Enquanto Dave e Aaron se preparam para viajar para Pyongyang, eles têm seus planos mudados pela CIA, que os recruta para assassinar Kim Jong-un.",
+        "popularity": 74.864,
+        "poster_path": "/q0nxW8jJ4CsXTTxZJAA68AQE5Sv.jpg",
+        "release_date": "2014-12-25",
+        "title": "A Entrevista",
+        "video": false,
+        "vote_average": 6.187,
+        "vote_count": 5635
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j11RoLbvHGmJsBHcKqvbZxc5drh.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53
+        ],
+        "id": 1053592,
+        "original_language": "es",
+        "original_title": "Todos los nombres de Dios",
+        "overview": "Depois de um atentado terrorista, Santi é tomado por refém por Hamza, o único terrorista que sobreviveu. Em uma reviravolta inesperada, seus papéis são trocados e Santi se torna um homem-bomba andando pela Gran Vía de Madrid, vestindo um colete com explosivos. A agência de inteligência, os serviços de emergência, e mesmo a mídia, se juntam para salvar sua vida através de uso de recursos impressionantes com consequências inesperadas.",
+        "popularity": 74.852,
+        "poster_path": "/aDx49ejZlYewu89zn16JN7pMFeP.jpg",
+        "release_date": "2023-09-15",
+        "title": "O Refém - Atentado em Madri",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 939335,
+        "original_language": "en",
+        "original_title": "Muzzle",
+        "overview": "Depois que seu cachorro e parceiro é morto, um policial mergulha em um submundo sinistro para descobrir a verdade sobre os responsáveis.",
+        "popularity": 74.781,
+        "poster_path": "/dZ15pAnP1cp54S0HHcozjJKaH1D.jpg",
+        "release_date": "2023-09-29",
+        "title": "Farejando Vingança",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 205
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tecCZQA0E3qHSPOTUMj3YQniT4.jpg",
+        "genre_ids": [
+            16,
+            28,
+            10751,
+            35,
+            878
+        ],
+        "id": 539681,
+        "original_language": "en",
+        "original_title": "DC League of Super-Pets",
+        "overview": "Krypto, o Supercão, precisa convencer um grupo excêntrico de animais a dominar seus novos poderes para ajudá-lo no resgate da Liga da Justiça.",
+        "popularity": 74.741,
+        "poster_path": "/sQN9v8dIkEYtrGhLULweNNKONHg.jpg",
+        "release_date": "2022-07-27",
+        "title": "DC Liga dos Superpets",
+        "video": false,
+        "vote_average": 7.264,
+        "vote_count": 1492
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/96SADhPnkXnVN3KaRKsDeBovLcm.jpg",
+        "genre_ids": [
+            28,
+            14,
+            10770
+        ],
+        "id": 877703,
+        "original_language": "en",
+        "original_title": "Teen Wolf: The Movie",
+        "overview": "Um terrível mal surgiu na cidade de Beacon Hills. Os lobos estão uivando mais uma vez pedindo o retorno de Banshees, Werecoyotes, Hellhounds, Kitsunes e todos os outros metamorfos da noite. Mas apenas um lobisomem como Scott McCall, que agora não é mais um adolescente, e sim um Alfa, pode reunir novos aliados e reunir amigos de confiança para lutar contra o que poderia ser o inimigo mais poderoso e mortal que eles já enfrentaram.",
+        "popularity": 74.681,
+        "poster_path": "/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg",
+        "release_date": "2023-01-18",
+        "title": "Teen Wolf: O Filme",
+        "video": false,
+        "vote_average": 7.539,
+        "vote_count": 791
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gEFe2joIQUopBmMPXOHPxuX2f4u.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28,
+            53,
+            878
+        ],
+        "id": 18,
+        "original_language": "en",
+        "original_title": "The Fifth Element",
+        "overview": "No século XXIII, um motorista de taxi de Nova York se envolve em uma aventura na qual tem de deter um ser demoníaco que percorre a galáxia a cada cinco mil anos. Se nada for feito, a Terra será destruída. Mas para isto, ele precisa encontrar quatro pedras antigas que representam os elementos e colocá-las em volta de uma bela mulher, que é o quinto elemento.",
+        "popularity": 74.647,
+        "poster_path": "/t2fanPUgCGty1tmU9t3jtYEOEMS.jpg",
+        "release_date": "1997-05-02",
+        "title": "O Quinto Elemento",
+        "video": false,
+        "vote_average": 7.551,
+        "vote_count": 10487
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nrpivVyJjRQqVDhRTZWVPWqYwQp.jpg",
+        "genre_ids": [
+            10752,
+            28
+        ],
+        "id": 190859,
+        "original_language": "en",
+        "original_title": "American Sniper",
+        "overview": "Chris Kyle é um atirador de elite das forças especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua missão é proteger seus companheiros e seu dever faz dele um dos maiores atiradores da história norte-americana. Sua precisão salva inúmeras vidas, mas também o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que não tem como deixar a guerra para trás.",
+        "popularity": 74.632,
+        "poster_path": "/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+        "release_date": "2014-12-25",
+        "title": "Sniper Americano",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 12601
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ojHCeDULAkQK25700fhRU75Tur2.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 348350,
+        "original_language": "en",
+        "original_title": "Solo: A Star Wars Story",
+        "overview": "Embarque na Millennium Falcon e viaje para uma galáxia distante em uma nova aventura com o mais amado canalha da galáxia. Através de uma série de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis da saga Star Wars.",
+        "popularity": 74.602,
+        "poster_path": "/jAMEX0syUh6sbjBiysibzrFpbo.jpg",
+        "release_date": "2018-05-15",
+        "title": "Han Solo: Uma História Star Wars",
+        "video": false,
+        "vote_average": 6.563,
+        "vote_count": 8321
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 100402,
+        "original_language": "en",
+        "original_title": "Captain America: The Winter Soldier",
+        "overview": "Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.",
+        "popularity": 74.495,
+        "poster_path": "/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg",
+        "release_date": "2014-03-20",
+        "title": "Capitão América 2: O Soldado Invernal",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 18418
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/in3BOlhrd3wNOuzIxToU3WGw9AO.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 449503,
+        "original_language": "en",
+        "original_title": "Kill 'em All",
+        "overview": "Depois de um tiroteio, Philip (Jean-Claude Van Damme), um homem misterioso, chega a um hospital a beira da morte. Logo depois a gangue estrangeira vai até lá para caçá-lo, com o objetivo de acabar com sua vida. A única testemunha é a enfermeira, que vai encarar uma investigação do FBI, abrindo assim muitos caminhos de intrigas e vinganças internacionais.",
+        "popularity": 74.153,
+        "poster_path": "/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg",
+        "release_date": "2017-06-06",
+        "title": "O Vingador da Iugoslávia",
+        "video": false,
+        "vote_average": 5.059,
+        "vote_count": 111
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+        "genre_ids": [
+            12,
+            14,
+            18,
+            28
+        ],
+        "id": 337401,
+        "original_language": "en",
+        "original_title": "Mulan",
+        "overview": "Hua Mulan é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.",
+        "popularity": 74.04,
+        "poster_path": "/72I82eKXCadZWEYygV9GkJOQNEq.jpg",
+        "release_date": "2020-09-04",
+        "title": "Mulan",
+        "video": false,
+        "vote_average": 6.879,
+        "vote_count": 6507
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ykFpThRWBJFFouxcroZGLiNJoF6.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "id": 36669,
+        "original_language": "en",
+        "original_title": "Die Another Day",
+        "overview": "Após se libertar de uma prisão na Coréia do Norte, James Bond entra em ação para perseguir o maligno Gustav Graves, que está desenvolvendo uma arma de alta tecnologia capaz de colocar o mundo em risco.",
+        "popularity": 73.99,
+        "poster_path": "/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg",
+        "release_date": "2002-11-17",
+        "title": "007: Um Novo Dia para Morrer",
+        "video": false,
+        "vote_average": 5.985,
+        "vote_count": 3399
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tkxYmE3HzHy7E39zY3VvQ0k0VLU.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 11770,
+        "original_language": "cn",
+        "original_title": "少林足球",
+        "overview": "Sing, que é adepto da prática do kung fu shaolin, resolve usar os seus chutes poderosos em outro esporte. Ele reúne os amigos lutadores e monta um time de futebol que consegue se dar bem no campeonato da cidade.",
+        "popularity": 73.743,
+        "poster_path": "/rO1YoR49hs9QPla0vwCxrMLln33.jpg",
+        "release_date": "2001-07-05",
+        "title": "Kung Fu Futebol Clube",
+        "video": false,
+        "vote_average": 7.117,
+        "vote_count": 2180
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/weLDbSfFmFDOhlJVBrDqVmN6jFG.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 51608,
+        "original_language": "ko",
+        "original_title": "아저씨",
+        "overview": "A única ligação do ex-agente especial Tae-shik com o resto do mundo é uma menina, So-mi, que mora nas proximidades de sua casa. Sua mãe, Hyo-Jeong contrabandeia drogas para uma organização de traficantes e confia Tae-shik com o produto, sem deixá-lo saber. Os traficantes descobrem e sequestram Hyo-Jeong e So-mi. A gangue promete libertá-los se Tae-shik fizer uma entrega para eles, no entanto, o que eles realmente planejam é um grande complô para eliminar o líder da organização rival.",
+        "popularity": 73.681,
+        "poster_path": "/1U3NyflIykiY7ClMcEncCt6sYeC.jpg",
+        "release_date": "2010-08-04",
+        "title": "O Homem de Lugar Nenhum",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 1266
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/soRpXRJOYqBBsDYuH3mLYSIeufk.jpg",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            12
+        ],
+        "id": 1003581,
+        "original_language": "en",
+        "original_title": "Justice League: Warworld",
+        "overview": "Até agora, a Liga da Justiça tem sido uma associação informal de indivíduos superpoderosos.  Mas quando eles são arrastados para Warworld, um lugar de interminável combate brutal de gladiadores, Batman, Superman, Mulher-Maravilha e os outros devem de alguma forma se unir para formar uma resistência imbatível capaz de levar um planeta inteiro à liberdade.",
+        "popularity": 73.586,
+        "poster_path": "/yxXOMGosmqgjFicfmde61wnwQQ4.jpg",
+        "release_date": "2023-07-25",
+        "title": "Liga da Justiça: Mundo Bélico",
+        "video": false,
+        "vote_average": 7.058,
+        "vote_count": 226
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 320288,
+        "original_language": "en",
+        "original_title": "Dark Phoenix",
+        "overview": "Ambientado em 1992, Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.",
+        "popularity": 73.541,
+        "poster_path": "/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
+        "release_date": "2019-06-05",
+        "title": "X-Men: Fênix Negra",
+        "video": false,
+        "vote_average": 5.98,
+        "vote_count": 6334
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+        "genre_ids": [
+            28,
+            10752,
+            12
+        ],
+        "id": 840326,
+        "original_language": "fi",
+        "original_title": "Sisu",
+        "overview": "Nas profundezas do deserto da Lapônia, Aatami Korpi está em busca de ouro. De vez em quando, o sobrevoo de bombardeiros e os sons distantes da guerra podem ser ouvidos na noite de outono. Finalmente, o trabalho árduo é recompensado e o pó de ouro na panela se transforma em pedaços de ouro, e Aatami sai para levar seu tesouro de ouro para a cidade mais próxima. Depois que ele se depara com a patrulha nazista liderada pelo SS Obersturmführer Bruno Helldorf, começa uma perseguição de tirar o fôlego e faminta por ouro através do deserto destruído e minado da Lapônia.",
+        "popularity": 73.376,
+        "poster_path": "/z47Fl4WYfKBg1n1hfqxq05OVMdR.jpg",
+        "release_date": "2022-09-09",
+        "title": "Sisu: Uma História de Determinação",
+        "video": false,
+        "vote_average": 7.482,
+        "vote_count": 1971
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qGqlWb5izTPtFngBWdbJAEmninR.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 80274,
+        "original_language": "en",
+        "original_title": "Ender's Game",
+        "overview": "Para impedir um novo ataque da força alienígena que quase acabou com a raça humana, o jovem Ender Wiggin é recrutado pelo corpo militar internacional. Ele treina para se transformar no melhor jogador, e sua missão é acabar com a guerra.",
+        "popularity": 73.343,
+        "poster_path": "/uy7oMawvnKCTQApdced7GYiQ6V5.jpg",
+        "release_date": "2013-10-24",
+        "title": "Ender's Game: O Jogo do Exterminador",
+        "video": false,
+        "vote_average": 6.594,
+        "vote_count": 5691
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cVsmfmsuUWjM9EKhtmqxtPmQjQG.jpg",
+        "genre_ids": [
+            28,
+            35,
+            10751
+        ],
+        "id": 256961,
+        "original_language": "en",
+        "original_title": "Paul Blart: Mall Cop 2",
+        "overview": "Nesta sequência, o segurança Paul Blart (Kevin James) é contratado para trabalhar em um importante evento de arte na cidade de Las Vegas. Os colegas e os profissionais do cassino duvidam das competências dele, mas logo Blart poderá comprovar as suas capacidades contra um grupo de ladrões de obras de arte.",
+        "popularity": 73.31,
+        "poster_path": "/dJ52hQePdIAUVcDEIMmeTUr4vhY.jpg",
+        "release_date": "2015-04-16",
+        "title": "Segurança de Shopping 2",
+        "video": false,
+        "vote_average": 5.153,
+        "vote_count": 1507
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xh820ngf1lauGQuFiTvzYuCe6vj.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            10752
+        ],
+        "id": 1369,
+        "original_language": "en",
+        "original_title": "Rambo: First Blood Part II",
+        "overview": "Rambo está preso em uma penitenciária federal quando recebe uma proposta: será perdoado e reintegrado ao Exército se participar de uma missão no Vietnã, onde terá que enfrentar todo tipo de inimigos, inclusive oficiais americanos corruptos.",
+        "popularity": 73.235,
+        "poster_path": "/442nYP16rpQ2bXduWponkvTXJRa.jpg",
+        "release_date": "1985-05-21",
+        "title": "Rambo II - A Missão",
+        "video": false,
+        "vote_average": 6.638,
+        "vote_count": 3774
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ex2N7etWyKwDMw7mVhjKrA2GCy6.jpg",
+        "genre_ids": [
+            28,
+            27,
+            18
+        ],
+        "id": 924,
+        "original_language": "en",
+        "original_title": "Dawn of the Dead",
+        "overview": "Após mais um dia de trabalho, tudo que Ana quer é tomar um banho ao lado do marido e dormir. Mas nas primeiras horas da manhã, ela é violentamente atacada por uma legião de mortos-vivos, e se descobre um pesadelo real: o mundo inteiro está tomado por zumbis. Em fuga desesperada, Ana se une a um pequeno grupo de sobreviventes, que se refugiam num shopping center enquanto o mundo lá fora se transforma literalmente no inferno.",
+        "popularity": 73.086,
+        "poster_path": "/1ZwFI4EA9xGo3aJV9Ulqx7Y37Rz.jpg",
+        "release_date": "2004-03-19",
+        "title": "Madrugada dos Mortos",
+        "video": false,
+        "vote_average": 7.058,
+        "vote_count": 3875
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/epVMXf10WqFkONzKR8V76Ypj5Y3.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 181808,
+        "original_language": "en",
+        "original_title": "Star Wars: The Last Jedi",
+        "overview": "A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia.",
+        "popularity": 73.008,
+        "poster_path": "/5dGufuaIG5vNcxPm8QPij5MSPeQ.jpg",
+        "release_date": "2017-12-13",
+        "title": "Star Wars: Episódio VIII - Os Últimos Jedi",
+        "video": false,
+        "vote_average": 6.802,
+        "vote_count": 14973
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878
+        ],
+        "id": 577922,
+        "original_language": "en",
+        "original_title": "Tenet",
+        "overview": "Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.",
+        "popularity": 72.515,
+        "poster_path": "/Ae0pbv4E6YfqfN3UjKWIfQSzP9v.jpg",
+        "release_date": "2020-08-22",
+        "title": "Tenet",
+        "video": false,
+        "vote_average": 7.188,
+        "vote_count": 9564
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 284052,
+        "original_language": "en",
+        "original_title": "Doctor Strange",
+        "overview": "Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
+        "popularity": 72.481,
+        "poster_path": "/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg",
+        "release_date": "2016-10-25",
+        "title": "Doutor Estranho",
+        "video": false,
+        "vote_average": 7.423,
+        "vote_count": 21746
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+        "genre_ids": [
+            28,
+            14,
+            27
+        ],
+        "id": 894205,
+        "original_language": "en",
+        "original_title": "Werewolf by Night",
+        "overview": "Em uma noite escura e sombria, uma cabala secreta de caçadores de monstros emerge das sombras e se reúne no templo de Bloodstone após a morte de seu líder.  Em um estranho e macabro memorial à vida do líder, os participantes são lançados em uma misteriosa e mortal competição por uma poderosa relíquia – uma caçada que acabará por colocá-los cara a cara com um monstro perigoso.",
+        "popularity": 72.456,
+        "poster_path": "/qakD0XF0OPrOq8ghvZ1ZlYfNMEN.jpg",
+        "release_date": "2022-09-25",
+        "title": "Lobisomem na Noite",
+        "video": false,
+        "vote_average": 6.995,
+        "vote_count": 1205
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            35,
+            28
+        ],
+        "id": 11430,
+        "original_language": "en",
+        "original_title": "The Lion King 1½",
+        "overview": "Timão e Pumba começam a assistir o primeiro filme do Rei Leão, e Timão fica insistindo para que Pumba avance até a parte em que eles aparecem, porque eles não estão no início do filme. A partir daí, Pumba resolve contar um pouco da história dos dois, que começa antes da jornada de Simba. Contam sobre a mãe de Timão e sobre o Tio Max, descobrem porque Timão deixou a colônia, e onde ele aprendeu o Hakuna Matata. Também relatam como os dois se conheceram, e os perigos que enfrentaram enquanto procuravam pelo lar dos sonhos.",
+        "popularity": 72.432,
+        "poster_path": "/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg",
+        "release_date": "2004-02-06",
+        "title": "O Rei Leão 3: Hakuna Matata",
+        "video": false,
+        "vote_average": 6.583,
+        "vote_count": 2900
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7lLtUDuBqkL3VqPOOlJuVUNPL0d.jpg",
+        "genre_ids": [
+            16,
+            878,
+            28
+        ],
+        "id": 34433,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦",
+        "overview": "O Sr. Kaioh descobre na Galáxia do Sul a existência de um Lendário Super Saiyajin, que está destruindo todos os planetas pertencentes a essa galáxia. Temendo uma nova devastação, ele chama Goku para investigar o ocorrido. Enquanto isso na Terra, surge um Saiyajin chamado Paragus, que pede ajuda a Vegeta para eliminar esse suposto Saiyajin. Então Vegeta, Trunks, Gohan, Kuririn, e o Mestre Kame partem a um planeta que Paragus construiu para que o príncipe Vegeta reinasse e lá descobrem que o Lendário Super Saiyajin é Broly, filho de Paragus, que armou uma emboscada para explodir o novo Planeta Vegeta com os Guerreiros Z junto e, assim dominar a Terra. Goku segue o rastro de Ki até este planeta, onde trava uma luta com Broly. Conseguirá Goku, deter este monstro insano?",
+        "popularity": 72.223,
+        "poster_path": "/qwgp3aihvSPONoQh0gqWU4LrPDb.jpg",
+        "release_date": "1993-03-06",
+        "title": "Dragon Ball Z: O Poder Invencível",
+        "video": false,
+        "vote_average": 7.227,
+        "vote_count": 870
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            10752
+        ],
+        "id": 1368,
+        "original_language": "en",
+        "original_title": "First Blood",
+        "overview": "Quando o ex-Boina Verde John Rambo é assediado pelas autoridades locais e preso por vadiagem, ele é forçado a fugir para as montanhas e travar uma guerra crescente de um homem só contra seus perseguidores.",
+        "popularity": 72.167,
+        "poster_path": "/dDJ4YOz7baCHH6ZJPut9NcCgNl1.jpg",
+        "release_date": "1982-10-22",
+        "title": "Rambo: Programado Para Matar",
+        "video": false,
+        "vote_average": 7.493,
+        "vote_count": 6055
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ptcXbbxTyjHfEE4d4QocNP0YQct.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "id": 646,
+        "original_language": "en",
+        "original_title": "Dr. No",
+        "overview": "James Bond (Sean Connery) investiga o desaparecimento de um agente britânico. Em meio às suas investigações ele descobre o esconderijo do Dr. No (Joseph Wiseman), um gênio louco que pretende desviar o rumo dos foguetes americanos.",
+        "popularity": 71.887,
+        "poster_path": "/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg",
+        "release_date": "1962-10-07",
+        "title": "007: Contra o Satânico Dr. No",
+        "video": false,
+        "vote_average": 6.999,
+        "vote_count": 3478
+    }
+]

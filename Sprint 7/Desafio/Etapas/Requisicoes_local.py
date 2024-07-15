@@ -34,17 +34,27 @@ def buscar_filmes(api_url, headers):
         current_page += 1
     return all_movies[:total_results]
 
+
 def salvar_arq_json(movies, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(movies, f, ensure_ascii=False, indent=4)
 
-def separar_filme_por_arquivo(movies, itens_por_arq):
+def separar_filme_por_arquivo_acao(movies, itens_por_arq):
     num_arq = (len(movies) + itens_por_arq - 1) // itens_por_arq
     for i in range(num_arq):
         inicio_idx = i * itens_por_arq
         fim_idx = min((i + 1) * itens_por_arq, len(movies))
         file_name = f"filmes_acao_{i + 1}.json"
-        file_path = buscar_path_arquivo(f"arquivosjson/{file_name}")
+        file_path = buscar_path_arquivo(f"arquivosjson/Acao/{file_name}")
+        salvar_arq_json(movies[inicio_idx:fim_idx], file_path)
+
+def separar_filme_por_arquivo_aventura(movies, itens_por_arq):
+    num_arq = (len(movies) + itens_por_arq - 1) // itens_por_arq
+    for i in range(num_arq):
+        inicio_idx = i * itens_por_arq
+        fim_idx = min((i + 1) * itens_por_arq, len(movies))
+        file_name = f"filmes_aventura_{i + 1}.json"
+        file_path = buscar_path_arquivo(f"arquivosjson/Aventura/{file_name}")
         salvar_arq_json(movies[inicio_idx:fim_idx], file_path)
 
 def create_s3_path(file_name):
@@ -87,19 +97,24 @@ client = boto3.client(
 
 bucket_name = f"{bucketname_s3}"
 
-url = "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&with_genres=28,12&sort_by=popularity.desc&release_date.lte=2024-07-10"
+url_acao = "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=pt-br&with_genres=28&sort_by=popularity.desc&release_date.gte=1900-01-01&release_date.lte=2024-07-10&vote_count.gte=100"
+url_aventura = "https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=pt-br&with_genres=12&sort_by=popularity.desc&release_date.gte=1900-01-01&release_date.lte=2024-07-10&vote_count.gte=100"
 
 headers = {
     "accept": "application/json",
     "Authorization": f"Bearer {tokenAPI}"
     }
 
-movies = buscar_filmes(url, headers)
-separar_filme_por_arquivo(movies, itens_por_arq=100)
+movies_acao = buscar_filmes(url_acao, headers)
+separar_filme_por_arquivo_acao(movies_acao, itens_por_arq=100)
+
+movies_aventura = buscar_filmes(url_aventura, headers)
+separar_filme_por_arquivo_aventura(movies_aventura, itens_por_arq=100)
 
 diretorio_arquivosjson = buscar_path_arquivo("arquivosjson/")
 arquivos = listar_arquivos_diretorio(diretorio_arquivosjson)
 enviar_arquivos_para_s3(arquivos, bucket_name, client)
 
-print(f"Número de filmes armazenados: {len(movies)}")
+print(f"Número de filmes de ação armazenados: {len(movies_acao)}")
+print(f"Número de filmes de aventura armazenados: {len(movies_aventura)}")
 print("Os dados foram salvos em filmes_acao.json")
