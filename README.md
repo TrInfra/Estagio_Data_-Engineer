@@ -46,3 +46,8 @@
 ### [Sprint_SEIS](./Sprint%206/)
 - **Tema:** [Python & Docker & AWS]
   - [O objetivo é a práticar a combinação de conhecimentos vistos no Programa, fazer um mix de tudo que já foi dito]
+
+## Sprint 7
+### [Sprint_SETE](./Sprint%207/)
+- **Tema:** [Python & AWS Lambda & Spark & API]
+  - [Extrair dados da api do tmdb de acordo com o a pergunta que iremos analisar no desafio final, e fazer tudo isso em uma função lambda.]
