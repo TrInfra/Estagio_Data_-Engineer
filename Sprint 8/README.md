@@ -1,5 +1,5 @@
 # Aprendizado
-#### Nessa Sprint tive a oportunidade de pôr em prática tudo que vim aprendendo nas sprints anteriores, utilizando AWS, Boto3(python) e AWS Lambda e a api do TMDB para extrair dados de filmes.
+#### Nessa Sprint tive a oportunidade de pôr em prática tudo que vim aprendendo nas sprints anteriores, utilizando AWS Glue, AWS Lake Formation, AWS Athena e Spark fiz o processo de Transformação(do ETL) para transformar meus dados extraidos na sprint passada.
 
 # Desafio
 ## --[ Ir para Desafio](./Desafio/) --
@@ -11,23 +11,24 @@
 ## --[ Ir para Exercícios](./exercicios/) --
 ## --[ Ir para evidências dos exercícios](./evidencias/exercicios/) --
 
-### Bucket Sprint 7
-![bucket](./evidencias/bucketSprint7.png)
+### Bucket Sprint 8
+![bucket](./evidencias/bucketsprint8.png)
 
 
-### Lambda
-![bucket](./evidencias/CodeInLambda.png)
+### Glue
+![Glue](./evidencias/JobsGlue.png)
+![glue](./evidencias/codeInGlue.png)
+![bucket](./evidencias/JobJSONRun.png)
 
-### Layer Requests
-![layer](./evidencias/savelayer.png)
-### Exemplo json
-![bucket](./evidencias/ExemploJson.png)
+### Crawler
+![crawler](./evidencias/CrawlerDesafio.png)
+![crawler](./evidencias/CrawlerConfig.png)
+### Athena
+![bucket](./evidencias/columnsTABLE_Athena.png)
+![bucket](./evidencias/SelectAthenaII.png)
+![bucket](./evidencias/SelectAthena.png)
 
 
-## --[ Ir para Script Python](./Desafio/Etapas/Requisicoes_lambda.py) --
+## --[ Ir para Script Python](./Desafio/Etapas/) --
 
-# Certificado Spark
-
-
-![Curso AWS](./certificados/Spark.png)
 
