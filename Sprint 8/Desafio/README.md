@@ -58,6 +58,10 @@ Agora em `Job details` vamos fazer algumas configurações importantes para real
  Por fim, podemos clicar em `Run` e depois checar se está tudo certo, na opção `Runs`.
  ![Run](../evidencias/JobJSONRun.png)
 
+## Resultado da execução
+![Trustedzone](../evidencias/TrustedZoneExemplo.png)
+![trustedFiles](../evidencias/FilesTrusted.png)
+
 Com isso eu poderia finalizar o desafio tranquilamente, mas vamos criar um `Crawler` para criar um database do Glue Data Catalog e acessível via AWS Athena compreendendo a Trusted Zone do data lake. 
 
 ![crawler](../evidencias/CrawlerConfig.png)
