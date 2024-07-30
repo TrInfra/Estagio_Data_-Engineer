@@ -29,6 +29,9 @@ df_tmdb = glueContext.create_dynamic_frame.from_options(
     format="json"
 ).toDF()
 
+# Remove duplicatas com base no ID
+df_tmdb = df_tmdb.dropDuplicates(["id"])
+
 # Buscando apenas as colunas que vou precisar para o desafio final
 df_tmdb = df_tmdb.select(
     col("id"),
