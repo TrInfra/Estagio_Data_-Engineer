@@ -50,9 +50,9 @@
 ## Sprint 7
 ### [Sprint_SETE](./Sprint%207/)
 - **Tema:** [Python & AWS Lambda & Spark & API]
-  - [Extrair dados da api do tmdb de acordo com o a pergunta que iremos analisar no desafio final, e fazer tudo isso em uma função lambda.]
+  - [Extrair dados da api do tmdb de acordo com a pergunta que iremos analisar no desafio final, e fazer tudo isso em uma função lambda.]
 
 ## Sprint 8
 ### [Sprint_OITO](./Sprint%208/)
 - **Tema:** [Python & AWS Glue & Spark & AWS Athena]
-  - [Transformar dados da api do tmdb de acordo com o a pergunta que iremos analisar no desafio final.]
+  - [Transformar dados da api do tmdb de acordo com a pergunta que iremos analisar no desafio final.]
