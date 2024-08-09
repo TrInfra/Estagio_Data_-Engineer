@@ -10,7 +10,8 @@
 # Exercícios
 ## -- Sprint sem exercícios --
 
-
+# Correção das Sprints anteriores
+## -- [ Ir para modificações](./modificacoes_Sprints_passadas/) --
 ### Bucket Sprint 9
 ![bucket](./evidencias/BucketRefined.png)
 
