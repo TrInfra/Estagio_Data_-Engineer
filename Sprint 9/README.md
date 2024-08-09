@@ -1,5 +1,5 @@
 # Aprendizado
-#### Nessa Sprint tive a oportunidade de pôr em prática tudo que vim aprendendo nas sprints anteriores, utilizando AWS Glue, AWS Lake Formation, AWS Athena e Spark fiz o processo de Transformação(do ETL) para transformar meus dados extraidos na sprint passada.
+#### Nessa Sprint tive a oportunidade de pôr em prática tudo que vim aprendendo nas sprints anteriores, utilizando AWS Glue, AWS Lake Formation, AWS Athena e Spark fiz o processo de Load(do ETL) para enviar meus dados e refinalos para ficarem utilizáveis no desafio final.
 
 # Desafio
 ## --[ Ir para Desafio](./Desafio/) --
