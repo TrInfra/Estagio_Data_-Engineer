@@ -56,3 +56,13 @@
 ### [Sprint_OITO](./Sprint%208/)
 - **Tema:** [Python & AWS Glue & Spark & AWS Athena]
   - [Transformar dados da api do tmdb de acordo com a pergunta que iremos analisar no desafio final.]
+
+## Sprint 9
+### [Sprint_NOVE](./Sprint%209/)
+- **Tema:** [Python & AWS Glue & Spark & AWS Athena]
+  - [Integrando dados existentes na camada Trusted para a Refined.]
+
+## Sprint 10
+### [Sprint_DEZ](./Sprint%2010/)
+- **Tema:** [Amazon Quicksight]
+  - [consumindo dados existentes na camada Refined e gerendo análises.]
